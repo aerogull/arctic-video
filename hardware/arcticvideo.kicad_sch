@@ -1,0 +1,297 @@
+(kicad_sch
+	(version 20260306)
+	(generator "eeschema")
+	(generator_version "10.0")
+	(uuid "9e9873e7-449f-4340-a6d8-702e1fa8c41f")
+	(paper "A4")
+	(title_block
+		(title "Arctic-Video")
+		(rev "v0.1")
+		(company "aerogull")
+		(comment 1 "WIP DESIGN - UNTESTED HARDWARE")
+		(comment 2 "NOT FOR USE IN PRODUCTION")
+	)
+	(lib_symbols)
+	(sheet
+		(at 99.06 73.66)
+		(size 81.28 52.07)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "5f5dc8e6-4127-4bd9-831a-01d80a8ea51b")
+		(property "Sheetname" "flash_ram"
+			(at 99.06 72.9484 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "flashram.kicad_sch"
+			(at 99.06 126.3146 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "arcticvideo"
+				(path "/9e9873e7-449f-4340-a6d8-702e1fa8c41f"
+					(page "5")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 13.97 130.81)
+		(size 81.28 52.07)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "7a2273a0-83e2-422b-8543-03665cb9eb61")
+		(property "Sheetname" "pcie"
+			(at 13.97 130.0984 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "pcie.kicad_sch"
+			(at 13.97 183.4646 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "arcticvideo"
+				(path "/9e9873e7-449f-4340-a6d8-702e1fa8c41f"
+					(page "6")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 99.06 16.51)
+		(size 81.28 52.07)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "8b2e44ed-2600-4def-8af0-a3b47c6129bc")
+		(property "Sheetname" "power"
+			(at 99.06 15.7984 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "power.kicad_sch"
+			(at 99.06 69.1646 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "arcticvideo"
+				(path "/9e9873e7-449f-4340-a6d8-702e1fa8c41f"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 185.42 16.51)
+		(size 81.28 52.07)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "c3f70c33-0f2d-4a7e-8d0b-73a0e9183494")
+		(property "Sheetname" "clock"
+			(at 185.42 15.7984 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "clock.kicad_sch"
+			(at 185.42 69.1646 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "arcticvideo"
+				(path "/9e9873e7-449f-4340-a6d8-702e1fa8c41f"
+					(page "7")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 13.97 16.51)
+		(size 81.28 52.07)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "cfd75787-23f4-4d36-afb6-38d9b9faf945")
+		(property "Sheetname" "fpga"
+			(at 13.97 15.7984 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "fpga.kicad_sch"
+			(at 13.97 69.1646 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "arcticvideo"
+				(path "/9e9873e7-449f-4340-a6d8-702e1fa8c41f"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 13.97 73.66)
+		(size 81.28 52.07)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "f7a4771d-520d-4383-82f3-66eeb57f27f3")
+		(property "Sheetname" "interfaces"
+			(at 13.97 72.9484 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "interfaces.kicad_sch"
+			(at 13.97 126.3146 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "arcticvideo"
+				(path "/9e9873e7-449f-4340-a6d8-702e1fa8c41f"
+					(page "4")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+	(embedded_fonts no)
+)

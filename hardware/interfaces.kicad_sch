@@ -1,0 +1,15 @@
+(kicad_sch
+	(version 20260306)
+	(generator "eeschema")
+	(generator_version "10.0")
+	(uuid "e9a59d14-c7f7-4dfb-a4d4-c3f3e6c4645c")
+	(paper "A4")
+	(title_block
+		(title "Arctic-Video")
+		(rev "v0.1")
+		(company "aerogull")
+		(comment 1 "WIP DESIGN - UNTESTED HARDWARE")
+		(comment 2 "NOT FOR USE IN PRODUCTION")
+	)
+	(lib_symbols)
+)
