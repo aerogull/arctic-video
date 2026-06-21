@@ -416,7 +416,7 @@
         "uuid": "9e9873e7-449f-4340-a6d8-702e1fa8c41f"
       }
     ],
-    "used_designators": "R1,J1-2,IC1,U1-9,XTAL1,#PWR1-5,C1-8",
+    "used_designators": "R1-23,J1-4,IC1,U1-12,XTAL1-2,L1-3,#PWR1-92,C1-110",
     "variants": []
   },
   "sheets": [
@@ -447,6 +447,10 @@
     [
       "c3f70c33-0f2d-4a7e-8d0b-73a0e9183494",
       "clock"
+    ],
+    [
+      "36682863-97b2-4707-8d27-aa9ce7d4333d",
+      "fpga1"
     ]
   ],
   "text_variables": {},
