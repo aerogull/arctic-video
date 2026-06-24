@@ -12609,12 +12609,6 @@
 		(uuid "0044232a-7372-4660-b296-fa8ca43d1b0a")
 	)
 	(junction
-		(at 114.3 175.26)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "007dbab5-f0ed-4e5b-bcad-f23613bea3c3")
-	)
-	(junction
 		(at 220.98 36.83)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -12753,12 +12747,6 @@
 		(uuid "138456ff-5eaf-4da3-92b1-36087ca99233")
 	)
 	(junction
-		(at 143.51 175.26)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "13c104ab-9060-4ae7-b87a-369a676ab04a")
-	)
-	(junction
 		(at 200.66 36.83)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -12769,6 +12757,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "150cd3be-1909-4b23-916d-282b3ad74c17")
+	)
+	(junction
+		(at 109.22 78.74)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "15bfc7d8-a40a-488e-84ea-0862d6dc782b")
 	)
 	(junction
 		(at 130.81 152.4)
@@ -13089,12 +13083,6 @@
 		(uuid "484931c0-6a29-477f-b1ca-c0ad7834d69e")
 	)
 	(junction
-		(at 123.19 36.83)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "48672cff-c5b8-4f86-a48f-3007cb6cba2e")
-	)
-	(junction
 		(at 407.67 149.86)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -13197,6 +13185,12 @@
 		(uuid "54c4b842-9f39-4c46-87bc-b57699cf82f4")
 	)
 	(junction
+		(at 114.3 57.15)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "55bfcee7-73bf-4260-8492-9abc223dfee2")
+	)
+	(junction
 		(at 351.79 121.92)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -13207,6 +13201,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "5aaf744c-51df-4874-9cc0-1847f23b4819")
+	)
+	(junction
+		(at 143.51 175.26)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "5bc74d57-da2a-47fd-9f07-b969ddcbe35a")
 	)
 	(junction
 		(at 407.67 185.42)
@@ -13281,6 +13281,12 @@
 		(uuid "698a2e4a-5f1c-475d-b560-d980e2f4a90c")
 	)
 	(junction
+		(at 34.29 127)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "69c2a00a-6d2f-41cc-8e38-0e0a0f39e046")
+	)
+	(junction
 		(at 118.11 243.84)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -13317,12 +13323,6 @@
 		(uuid "72669c23-e125-4a22-bea1-991568cb2bdd")
 	)
 	(junction
-		(at 114.3 44.45)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "73b2c31f-e6f7-4ddb-b7f9-eb34cd820267")
-	)
-	(junction
 		(at 127 152.4)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -13347,12 +13347,6 @@
 		(uuid "78421509-26c2-4e4e-83af-1a79c5da5e5c")
 	)
 	(junction
-		(at 105.41 78.74)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "78908828-db39-4699-8a6a-d1af2835542d")
-	)
-	(junction
 		(at 351.79 165.1)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -13363,6 +13357,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "7b771732-c92c-4a4e-8a1d-9ab6e9228b61")
+	)
+	(junction
+		(at 123.19 36.83)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "7d86b5ef-1a39-407e-bccf-4cb162aa3c3e")
 	)
 	(junction
 		(at 313.69 64.77)
@@ -13393,6 +13393,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "80ea7350-d881-4c43-aef7-cbeb76eff35f")
+	)
+	(junction
+		(at 114.3 21.59)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "81add30c-a2b0-4e59-8845-268b2a460878")
 	)
 	(junction
 		(at 104.14 198.12)
@@ -13495,12 +13501,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "8d4068e6-1cbd-491a-b681-9f5d2ebb83bd")
-	)
-	(junction
-		(at 114.3 129.54)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "8d7eaa7d-c3a0-458d-a8d2-ae0211a9cfee")
 	)
 	(junction
 		(at 407.67 91.44)
@@ -13633,6 +13633,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "9dded575-77d2-43b6-8aff-ee8f6668cfbf")
+	)
+	(junction
+		(at 119.38 78.74)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "9e0d3f6b-c2ed-48d9-a87e-6643b32a6e65")
 	)
 	(junction
 		(at 293.37 72.39)
@@ -13833,6 +13839,12 @@
 		(uuid "b8621367-2bf8-4cab-b51c-6c68137d3d0b")
 	)
 	(junction
+		(at 130.81 120.65)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "b8b56da2-2095-4e07-936f-c0fedfb92383")
+	)
+	(junction
 		(at 303.53 92.71)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -13861,6 +13873,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "bdefee1b-de57-450a-99e8-a0aae3beea8a")
+	)
+	(junction
+		(at 129.54 167.64)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "bf2212a3-e9ec-4b31-b457-1af7de02290a")
 	)
 	(junction
 		(at 351.79 203.2)
@@ -13947,6 +13965,12 @@
 		(uuid "cc0f5944-03b6-483c-bbe6-f4b3b0fd0588")
 	)
 	(junction
+		(at 143.51 129.54)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "cc6c5d57-7f94-4395-aa6a-4c5351c30177")
+	)
+	(junction
 		(at 210.82 120.65)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -13975,12 +13999,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "d0eebeca-2e01-458f-b736-c9fafa42ffc6")
-	)
-	(junction
-		(at 121.92 78.74)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "d10521bb-190e-4691-a8e8-2e022e301b63")
 	)
 	(junction
 		(at 170.18 36.83)
@@ -14019,12 +14037,6 @@
 		(uuid "d470e8e5-fe14-498d-9b33-87df1cf7631d")
 	)
 	(junction
-		(at 143.51 129.54)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "d4bb2661-d55e-44e3-935b-b4cac0fe14ca")
-	)
-	(junction
 		(at 36.83 135.89)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -14041,12 +14053,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "d7a23b8e-9c22-40df-bf09-fdde62770282")
-	)
-	(junction
-		(at 105.41 87.63)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "d81b59f2-02cb-4b84-84a4-24372198a90c")
 	)
 	(junction
 		(at 407.67 114.3)
@@ -14083,12 +14089,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "dbcf6202-7696-49cd-a9b3-4f76fe76a152")
-	)
-	(junction
-		(at 34.29 133.35)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "dd01ac83-e3c7-4fb8-957c-7cd36cc69ddd")
 	)
 	(junction
 		(at 129.54 223.52)
@@ -14295,6 +14295,12 @@
 		(uuid "fb0ca56c-ff6e-44c5-899e-97b1fea1ffdf")
 	)
 	(junction
+		(at 109.22 68.58)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "fbd0e3f3-0e62-4836-9164-a70a567dc595")
+	)
+	(junction
 		(at 293.37 64.77)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -14317,6 +14323,10 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "fedf48b4-0bdd-4bd9-a7e1-8b2d4692e6fc")
+	)
+	(no_connect
+		(at 52.07 34.29)
+		(uuid "1d947db8-efeb-4a9d-af37-ed232649820f")
 	)
 	(no_connect
 		(at 53.34 76.2)
@@ -14454,6 +14464,16 @@
 	)
 	(wire
 		(pts
+			(xy 114.3 57.15) (xy 114.3 54.61)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "04776c2d-7010-47a4-9c4d-373835509395")
+	)
+	(wire
+		(pts
 			(xy 26.67 215.9) (xy 36.83 215.9)
 		)
 		(stroke
@@ -14504,16 +14524,6 @@
 	)
 	(wire
 		(pts
-			(xy 105.41 78.74) (xy 121.92 78.74)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "06b5a7d3-2908-486a-8b7f-8aa6d7c406ca")
-	)
-	(wire
-		(pts
 			(xy 170.18 36.83) (xy 180.34 36.83)
 		)
 		(stroke
@@ -14534,23 +14544,23 @@
 	)
 	(wire
 		(pts
-			(xy 48.26 133.35) (xy 52.07 133.35)
+			(xy 123.19 54.61) (xy 123.19 57.15)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "08380f16-5f6b-4c8c-83fb-5a057355823d")
+	)
+	(wire
+		(pts
+			(xy 49.53 127) (xy 106.68 127)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
 		(uuid "08da1677-d5ad-4aab-9396-7461f5612505")
-	)
-	(wire
-		(pts
-			(xy 114.3 129.54) (xy 118.11 129.54)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "08e2a0cd-8ba2-44a0-a672-ba64fd0dcac3")
 	)
 	(wire
 		(pts
@@ -14594,7 +14604,7 @@
 	)
 	(wire
 		(pts
-			(xy 104.14 118.11) (xy 114.3 118.11)
+			(xy 104.14 120.65) (xy 130.81 120.65)
 		)
 		(stroke
 			(width 0)
@@ -14674,7 +14684,7 @@
 	)
 	(wire
 		(pts
-			(xy 114.3 175.26) (xy 118.11 175.26)
+			(xy 129.54 175.26) (xy 133.35 175.26)
 		)
 		(stroke
 			(width 0)
@@ -14804,6 +14814,16 @@
 	)
 	(wire
 		(pts
+			(xy 104.14 76.2) (xy 105.41 76.2)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "13cbd961-49dc-4204-a01e-515beb92ddc3")
+	)
+	(wire
+		(pts
 			(xy 351.79 200.66) (xy 351.79 203.2)
 		)
 		(stroke
@@ -14894,6 +14914,16 @@
 	)
 	(wire
 		(pts
+			(xy 109.22 78.74) (xy 119.38 78.74)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "184ecc93-9d14-4b42-8906-9fb67c2118c8")
+	)
+	(wire
+		(pts
 			(xy 142.24 143.51) (xy 143.51 143.51)
 		)
 		(stroke
@@ -14901,16 +14931,6 @@
 			(type default)
 		)
 		(uuid "1868b7aa-cefc-43c2-bc34-307403f07840")
-	)
-	(wire
-		(pts
-			(xy 105.41 88.9) (xy 105.41 87.63)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "1880ca60-961f-4b2e-9325-8e38e392d14d")
 	)
 	(wire
 		(pts
@@ -15014,16 +15034,6 @@
 	)
 	(wire
 		(pts
-			(xy 121.92 78.74) (xy 128.27 78.74)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "1ca1dace-8d73-4fd4-9bed-56889d072901")
-	)
-	(wire
-		(pts
 			(xy 351.79 142.24) (xy 354.33 142.24)
 		)
 		(stroke
@@ -15094,16 +15104,6 @@
 	)
 	(wire
 		(pts
-			(xy 114.3 118.11) (xy 114.3 129.54)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "1e3d85a9-6d7f-42a9-bea5-aa81e9c0eed9")
-	)
-	(wire
-		(pts
 			(xy 118.11 251.46) (xy 128.27 251.46)
 		)
 		(stroke
@@ -15131,6 +15131,16 @@
 			(type default)
 		)
 		(uuid "1f40bf35-bb01-4512-8aa9-a0d961c700db")
+	)
+	(wire
+		(pts
+			(xy 114.3 54.61) (xy 123.19 54.61)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2020ac83-31bf-4fe7-8b11-ca94812c3c71")
 	)
 	(wire
 		(pts
@@ -15314,13 +15324,23 @@
 	)
 	(wire
 		(pts
-			(xy 104.14 163.83) (xy 114.3 163.83)
+			(xy 104.14 167.64) (xy 129.54 167.64)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
 		(uuid "2834d8a6-127d-4bfd-8387-415f9c694d1c")
+	)
+	(wire
+		(pts
+			(xy 114.3 34.29) (xy 114.3 21.59)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "284e2e00-a7e7-4cbc-bf54-28cfd442179b")
 	)
 	(wire
 		(pts
@@ -15371,16 +15391,6 @@
 			(type default)
 		)
 		(uuid "2ad5299b-b9fc-4e35-ba5f-5ee309fefd0c")
-	)
-	(wire
-		(pts
-			(xy 114.3 34.29) (xy 114.3 44.45)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "2b0a6bd7-8907-4992-8bcf-cd6f58b80129")
 	)
 	(wire
 		(pts
@@ -15454,16 +15464,6 @@
 	)
 	(wire
 		(pts
-			(xy 34.29 133.35) (xy 34.29 135.89)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "2e3a2e4c-1721-4aff-bf5f-261bea942105")
-	)
-	(wire
-		(pts
 			(xy 351.79 210.82) (xy 351.79 218.44)
 		)
 		(stroke
@@ -15524,7 +15524,7 @@
 	)
 	(wire
 		(pts
-			(xy 125.73 129.54) (xy 143.51 129.54)
+			(xy 139.7 129.54) (xy 143.51 129.54)
 		)
 		(stroke
 			(width 0)
@@ -15534,7 +15534,7 @@
 	)
 	(wire
 		(pts
-			(xy 34.29 133.35) (xy 40.64 133.35)
+			(xy 34.29 127) (xy 41.91 127)
 		)
 		(stroke
 			(width 0)
@@ -15571,16 +15571,6 @@
 			(type default)
 		)
 		(uuid "3189c2bd-87b8-4bec-b145-bba87f88273b")
-	)
-	(wire
-		(pts
-			(xy 110.49 120.65) (xy 110.49 129.54)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "32edbf4a-1d16-49a6-8d0a-6070a17fa81c")
 	)
 	(wire
 		(pts
@@ -15704,6 +15694,16 @@
 	)
 	(wire
 		(pts
+			(xy 109.22 21.59) (xy 109.22 24.13)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "37b46591-85a9-4b07-87e7-523771583bef")
+	)
+	(wire
+		(pts
 			(xy 407.67 205.74) (xy 407.67 208.28)
 		)
 		(stroke
@@ -15721,6 +15721,16 @@
 			(type default)
 		)
 		(uuid "380c549a-8dfe-4f45-b604-4bfd574a5622")
+	)
+	(wire
+		(pts
+			(xy 130.81 129.54) (xy 132.08 129.54)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "38963b94-aee3-48c3-a9d1-2640158ff811")
 	)
 	(wire
 		(pts
@@ -16104,7 +16114,7 @@
 	)
 	(wire
 		(pts
-			(xy 125.73 175.26) (xy 143.51 175.26)
+			(xy 140.97 175.26) (xy 143.51 175.26)
 		)
 		(stroke
 			(width 0)
@@ -16121,6 +16131,16 @@
 			(type default)
 		)
 		(uuid "4b1cefd8-95dd-4243-8b9a-d422e55389ce")
+	)
+	(wire
+		(pts
+			(xy 130.81 113.03) (xy 130.81 120.65)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4b8492a9-957e-464a-b7f3-54a6de2ef4ca")
 	)
 	(wire
 		(pts
@@ -16254,6 +16274,16 @@
 	)
 	(wire
 		(pts
+			(xy 34.29 119.38) (xy 34.29 127)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "53a261fb-f638-4b6b-8c4f-f76312a9a5e0")
+	)
+	(wire
+		(pts
 			(xy 107.95 251.46) (xy 118.11 251.46)
 		)
 		(stroke
@@ -16264,7 +16294,7 @@
 	)
 	(wire
 		(pts
-			(xy 110.49 166.37) (xy 110.49 175.26)
+			(xy 129.54 160.02) (xy 129.54 167.64)
 		)
 		(stroke
 			(width 0)
@@ -16301,6 +16331,16 @@
 			(type default)
 		)
 		(uuid "5428bb10-5210-4da8-8d93-b0bfd0b7fdec")
+	)
+	(wire
+		(pts
+			(xy 109.22 67.31) (xy 109.22 68.58)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "54c630ef-7a42-42ed-883b-7c0969802844")
 	)
 	(wire
 		(pts
@@ -16354,7 +16394,7 @@
 	)
 	(wire
 		(pts
-			(xy 58.42 138.43) (xy 58.42 120.65)
+			(xy 58.42 138.43) (xy 58.42 113.03)
 		)
 		(stroke
 			(width 0)
@@ -16531,16 +16571,6 @@
 			(type default)
 		)
 		(uuid "600e5029-105c-41d4-963d-0e345f1cbbb0")
-	)
-	(wire
-		(pts
-			(xy 110.49 129.54) (xy 114.3 129.54)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "603e32c1-3af4-4211-8393-6288f0df2795")
 	)
 	(wire
 		(pts
@@ -16744,16 +16774,6 @@
 	)
 	(wire
 		(pts
-			(xy 121.92 86.36) (xy 121.92 99.06)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "67636d11-e88b-4477-ba11-57263a48d64d")
-	)
-	(wire
-		(pts
 			(xy 170.18 72.39) (xy 180.34 72.39)
 		)
 		(stroke
@@ -16784,6 +16804,26 @@
 	)
 	(wire
 		(pts
+			(xy 114.3 57.15) (xy 109.22 57.15)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "68b2811f-5cd4-4b11-9b30-1990782ea5df")
+	)
+	(wire
+		(pts
+			(xy 129.54 167.64) (xy 129.54 175.26)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "68c1286a-e8d7-44e7-aadd-618433c9b891")
+	)
+	(wire
+		(pts
 			(xy 36.83 44.45) (xy 36.83 45.72)
 		)
 		(stroke
@@ -16801,16 +16841,6 @@
 			(type default)
 		)
 		(uuid "699210a4-b978-4c50-a96a-879c7cc946c6")
-	)
-	(wire
-		(pts
-			(xy 105.41 87.63) (xy 113.03 87.63)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "6998fb2c-96d6-453a-bfef-5e69a7034af5")
 	)
 	(wire
 		(pts
@@ -16861,6 +16891,16 @@
 			(type default)
 		)
 		(uuid "6d797aa3-512c-4565-a799-6b2af3b40663")
+	)
+	(wire
+		(pts
+			(xy 119.38 71.12) (xy 119.38 57.15)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6e0b05c7-f034-4b1f-a744-63a15ea948f5")
 	)
 	(wire
 		(pts
@@ -16954,6 +16994,16 @@
 	)
 	(wire
 		(pts
+			(xy 130.81 120.65) (xy 130.81 129.54)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "71b43e3a-a604-4ea2-82ef-77af66faa10a")
+	)
+	(wire
+		(pts
 			(xy 407.67 124.46) (xy 407.67 127)
 		)
 		(stroke
@@ -17004,7 +17054,7 @@
 	)
 	(wire
 		(pts
-			(xy 60.96 163.83) (xy 60.96 179.07)
+			(xy 60.96 167.64) (xy 60.96 179.07)
 		)
 		(stroke
 			(width 0)
@@ -17104,16 +17154,6 @@
 	)
 	(wire
 		(pts
-			(xy 52.07 127) (xy 52.07 133.35)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "7a96b223-12ea-4611-af09-59f4e10ed3a5")
-	)
-	(wire
-		(pts
 			(xy 351.79 154.94) (xy 351.79 157.48)
 		)
 		(stroke
@@ -17134,17 +17174,7 @@
 	)
 	(wire
 		(pts
-			(xy 110.49 175.26) (xy 114.3 175.26)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "7c48b7b7-9ec8-49c8-83bd-4e0d58997939")
-	)
-	(wire
-		(pts
-			(xy 104.14 78.74) (xy 105.41 78.74)
+			(xy 104.14 78.74) (xy 109.22 78.74)
 		)
 		(stroke
 			(width 0)
@@ -17334,6 +17364,16 @@
 	)
 	(wire
 		(pts
+			(xy 109.22 57.15) (xy 109.22 59.69)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8569bc6d-b37e-43cd-90a4-2c7fa144f45d")
+	)
+	(wire
+		(pts
 			(xy 407.67 63.5) (xy 407.67 66.04)
 		)
 		(stroke
@@ -17404,6 +17444,16 @@
 	)
 	(wire
 		(pts
+			(xy 119.38 78.74) (xy 128.27 78.74)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "898d97ba-53a0-43ab-9ea2-fd4f9a3a6880")
+	)
+	(wire
+		(pts
 			(xy 143.51 125.73) (xy 143.51 129.54)
 		)
 		(stroke
@@ -17431,6 +17481,16 @@
 			(type default)
 		)
 		(uuid "8a0854ba-7218-4800-9479-088c6d0a04ed")
+	)
+	(wire
+		(pts
+			(xy 123.19 36.83) (xy 127 36.83)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8a9bafe3-dd83-47bb-92a5-0250cc3f79bb")
 	)
 	(wire
 		(pts
@@ -17554,7 +17614,7 @@
 	)
 	(wire
 		(pts
-			(xy 60.96 118.11) (xy 96.52 118.11)
+			(xy 60.96 120.65) (xy 96.52 120.65)
 		)
 		(stroke
 			(width 0)
@@ -17764,6 +17824,16 @@
 	)
 	(wire
 		(pts
+			(xy 119.38 57.15) (xy 114.3 57.15)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "98867d57-9acf-46fc-8047-5d076c442385")
+	)
+	(wire
+		(pts
 			(xy 407.67 157.48) (xy 407.67 160.02)
 		)
 		(stroke
@@ -17914,7 +17984,17 @@
 	)
 	(wire
 		(pts
-			(xy 105.41 87.63) (xy 105.41 86.36)
+			(xy 105.41 76.2) (xy 105.41 68.58)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a6577977-f4df-440b-9853-7b6e9f43c383")
+	)
+	(wire
+		(pts
+			(xy 105.41 86.36) (xy 105.41 88.9)
 		)
 		(stroke
 			(width 0)
@@ -18004,6 +18084,16 @@
 	)
 	(wire
 		(pts
+			(xy 34.29 127) (xy 34.29 135.89)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "aac86a0e-fa34-4de1-a4bd-b9c242982fa2")
+	)
+	(wire
+		(pts
 			(xy 19.05 243.84) (xy 26.67 243.84)
 		)
 		(stroke
@@ -18084,7 +18174,7 @@
 	)
 	(wire
 		(pts
-			(xy 60.96 163.83) (xy 96.52 163.83)
+			(xy 60.96 167.64) (xy 96.52 167.64)
 		)
 		(stroke
 			(width 0)
@@ -18124,7 +18214,7 @@
 	)
 	(wire
 		(pts
-			(xy 121.92 99.06) (xy 115.57 99.06)
+			(xy 123.19 99.06) (xy 115.57 99.06)
 		)
 		(stroke
 			(width 0)
@@ -18134,7 +18224,7 @@
 	)
 	(wire
 		(pts
-			(xy 60.96 118.11) (xy 60.96 133.35)
+			(xy 60.96 120.65) (xy 60.96 133.35)
 		)
 		(stroke
 			(width 0)
@@ -18171,16 +18261,6 @@
 			(type default)
 		)
 		(uuid "aff7785f-bb94-457c-9a09-e95296845540")
-	)
-	(wire
-		(pts
-			(xy 106.68 127) (xy 52.07 127)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "b17a1400-4caf-4fcc-aa83-d54355412905")
 	)
 	(wire
 		(pts
@@ -18364,16 +18444,6 @@
 	)
 	(wire
 		(pts
-			(xy 114.3 163.83) (xy 114.3 175.26)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "b7bc82ef-f46c-454c-a346-d260d6c6def1")
-	)
-	(wire
-		(pts
 			(xy 407.67 147.32) (xy 407.67 149.86)
 		)
 		(stroke
@@ -18481,6 +18551,16 @@
 			(type default)
 		)
 		(uuid "bbce0b90-cbde-4cc7-84a8-35f7a901bbb4")
+	)
+	(wire
+		(pts
+			(xy 123.19 29.21) (xy 123.19 21.59)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "bc4bc453-df01-42c0-bd85-6bce10566231")
 	)
 	(wire
 		(pts
@@ -18704,6 +18784,16 @@
 	)
 	(wire
 		(pts
+			(xy 123.19 21.59) (xy 114.3 21.59)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c72360f7-c5d9-4ea4-9beb-5a7026fcff31")
+	)
+	(wire
+		(pts
 			(xy 36.83 215.9) (xy 46.99 215.9)
 		)
 		(stroke
@@ -18804,7 +18894,7 @@
 	)
 	(wire
 		(pts
-			(xy 58.42 120.65) (xy 110.49 120.65)
+			(xy 58.42 113.03) (xy 130.81 113.03)
 		)
 		(stroke
 			(width 0)
@@ -18951,16 +19041,6 @@
 			(type default)
 		)
 		(uuid "d2eb1813-9e3f-49be-b9f8-7aa374db5368")
-	)
-	(wire
-		(pts
-			(xy 113.03 87.63) (xy 113.03 76.2)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "d3269a84-77ec-440a-8ba6-2f706073c880")
 	)
 	(wire
 		(pts
@@ -19204,16 +19284,6 @@
 	)
 	(wire
 		(pts
-			(xy 114.3 44.45) (xy 123.19 44.45)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "e0a758bd-b086-4525-9806-e98d925266d2")
-	)
-	(wire
-		(pts
 			(xy 130.81 189.23) (xy 134.62 189.23)
 		)
 		(stroke
@@ -19234,7 +19304,7 @@
 	)
 	(wire
 		(pts
-			(xy 58.42 184.15) (xy 58.42 166.37)
+			(xy 58.42 184.15) (xy 58.42 160.02)
 		)
 		(stroke
 			(width 0)
@@ -19281,16 +19351,6 @@
 			(type default)
 		)
 		(uuid "e6570773-bea8-4681-8b9f-ce45a0e9ed23")
-	)
-	(wire
-		(pts
-			(xy 123.19 36.83) (xy 127 36.83)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "e709e5ac-49c6-49b0-95eb-0fd7e9bc0f4a")
 	)
 	(wire
 		(pts
@@ -19381,6 +19441,16 @@
 			(type default)
 		)
 		(uuid "eaf1bb0f-0f10-40f5-b033-27f253a15e5d")
+	)
+	(wire
+		(pts
+			(xy 105.41 68.58) (xy 109.22 68.58)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "eb527edb-5ff3-434d-a2bf-b288d8a6114b")
 	)
 	(wire
 		(pts
@@ -19594,6 +19664,16 @@
 	)
 	(wire
 		(pts
+			(xy 109.22 68.58) (xy 109.22 71.12)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f5128fab-06f5-4265-bb63-f9522ebab2ad")
+	)
+	(wire
+		(pts
 			(xy 351.79 139.7) (xy 354.33 139.7)
 		)
 		(stroke
@@ -19694,16 +19774,6 @@
 	)
 	(wire
 		(pts
-			(xy 34.29 129.54) (xy 34.29 133.35)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "fb875c7a-5324-46e7-8ccb-22ee9191dd59")
-	)
-	(wire
-		(pts
 			(xy 34.29 179.07) (xy 34.29 181.61)
 		)
 		(stroke
@@ -19724,13 +19794,13 @@
 	)
 	(wire
 		(pts
-			(xy 104.14 76.2) (xy 113.03 76.2)
+			(xy 114.3 21.59) (xy 109.22 21.59)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "fcec93c8-ce8d-470c-bb0c-da57009b145a")
+		(uuid "fcf67a52-216f-4a78-bd07-65ed96c14a32")
 	)
 	(wire
 		(pts
@@ -19814,7 +19884,7 @@
 	)
 	(wire
 		(pts
-			(xy 58.42 166.37) (xy 110.49 166.37)
+			(xy 58.42 160.02) (xy 129.54 160.02)
 		)
 		(stroke
 			(width 0)
@@ -21246,7 +21316,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "014478ba-ab90-42c7-b43b-6d090a960d85")
-		(property "Reference" "#PWR030"
+		(property "Reference" "#PWR035"
 			(at 162.56 165.1 0)
 			(hide yes)
 			(show_name no)
@@ -21306,7 +21376,7 @@
 		(instances
 			(project "arcticvideo"
 				(path "/9e9873e7-449f-4340-a6d8-702e1fa8c41f/8b2e44ed-2600-4def-8af0-a3b47c6129bc"
-					(reference "#PWR030")
+					(reference "#PWR035")
 					(unit 1)
 				)
 			)
@@ -21324,7 +21394,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "050c5e71-e657-4a56-8ed9-df23febdd3d3")
-		(property "Reference" "#PWR041"
+		(property "Reference" "#PWR020"
 			(at 121.92 232.41 0)
 			(hide yes)
 			(show_name no)
@@ -21384,7 +21454,7 @@
 		(instances
 			(project "arcticvideo"
 				(path "/9e9873e7-449f-4340-a6d8-702e1fa8c41f/8b2e44ed-2600-4def-8af0-a3b47c6129bc"
-					(reference "#PWR041")
+					(reference "#PWR020")
 					(unit 1)
 				)
 			)
@@ -21480,7 +21550,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "0d67ed9d-bd05-449e-8467-3db19351127c")
-		(property "Reference" "C39"
+		(property "Reference" "C41"
 			(at 173.99 152.4 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -21542,7 +21612,7 @@
 		(instances
 			(project "arcticvideo"
 				(path "/9e9873e7-449f-4340-a6d8-702e1fa8c41f/8b2e44ed-2600-4def-8af0-a3b47c6129bc"
-					(reference "C39")
+					(reference "C41")
 					(unit 1)
 				)
 			)
@@ -21559,7 +21629,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "0f056c28-e7a1-4f30-996d-750db4fe011b")
-		(property "Reference" "C63"
+		(property "Reference" "C61"
 			(at 214.63 152.4 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -21621,7 +21691,7 @@
 		(instances
 			(project "arcticvideo"
 				(path "/9e9873e7-449f-4340-a6d8-702e1fa8c41f/8b2e44ed-2600-4def-8af0-a3b47c6129bc"
-					(reference "C63")
+					(reference "C61")
 					(unit 1)
 				)
 			)
@@ -21639,7 +21709,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "10761151-80d8-4b13-b09f-156399a01d6d")
-		(property "Reference" "#PWR036"
+		(property "Reference" "#PWR043"
 			(at 293.37 367.03 0)
 			(hide yes)
 			(show_name no)
@@ -21699,7 +21769,7 @@
 		(instances
 			(project "arcticvideo"
 				(path "/9e9873e7-449f-4340-a6d8-702e1fa8c41f/8b2e44ed-2600-4def-8af0-a3b47c6129bc"
-					(reference "#PWR036")
+					(reference "#PWR043")
 					(unit 1)
 				)
 			)
@@ -21717,7 +21787,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "13a23415-04b3-4578-82c1-e4c6b966b93d")
-		(property "Reference" "#PWR021"
+		(property "Reference" "#PWR024"
 			(at 143.51 129.54 0)
 			(hide yes)
 			(show_name no)
@@ -21777,7 +21847,7 @@
 		(instances
 			(project "arcticvideo"
 				(path "/9e9873e7-449f-4340-a6d8-702e1fa8c41f/8b2e44ed-2600-4def-8af0-a3b47c6129bc"
-					(reference "#PWR021")
+					(reference "#PWR024")
 					(unit 1)
 				)
 			)
@@ -21794,7 +21864,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "165cacb3-fcad-4b0d-8af4-9cbd38d8736d")
-		(property "Reference" "C61"
+		(property "Reference" "C59"
 			(at 214.63 96.52 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -21856,7 +21926,7 @@
 		(instances
 			(project "arcticvideo"
 				(path "/9e9873e7-449f-4340-a6d8-702e1fa8c41f/8b2e44ed-2600-4def-8af0-a3b47c6129bc"
-					(reference "C61")
+					(reference "C59")
 					(unit 1)
 				)
 			)
@@ -21873,7 +21943,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "168be710-a553-49dd-8773-d315b6284631")
-		(property "Reference" "C40"
+		(property "Reference" "C70"
 			(at 266.7 40.64 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -21935,7 +22005,7 @@
 		(instances
 			(project "arcticvideo"
 				(path "/9e9873e7-449f-4340-a6d8-702e1fa8c41f/8b2e44ed-2600-4def-8af0-a3b47c6129bc"
-					(reference "C40")
+					(reference "C70")
 					(unit 1)
 				)
 			)
@@ -21953,7 +22023,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "19064994-a44b-4906-b889-7d75ca15958f")
-		(property "Reference" "#PWR092"
+		(property "Reference" "#PWR041"
 			(at 255.27 109.22 0)
 			(hide yes)
 			(show_name no)
@@ -22013,7 +22083,7 @@
 		(instances
 			(project "arcticvideo"
 				(path "/9e9873e7-449f-4340-a6d8-702e1fa8c41f/8b2e44ed-2600-4def-8af0-a3b47c6129bc"
-					(reference "#PWR092")
+					(reference "#PWR041")
 					(unit 1)
 				)
 			)
@@ -22031,7 +22101,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "192c2f57-64a9-4ce9-b50d-099819263ccb")
-		(property "Reference" "#PWR033"
+		(property "Reference" "#PWR038"
 			(at 255.27 66.04 0)
 			(hide yes)
 			(show_name no)
@@ -22091,7 +22161,7 @@
 		(instances
 			(project "arcticvideo"
 				(path "/9e9873e7-449f-4340-a6d8-702e1fa8c41f/8b2e44ed-2600-4def-8af0-a3b47c6129bc"
-					(reference "#PWR033")
+					(reference "#PWR038")
 					(unit 1)
 				)
 			)
@@ -22108,7 +22178,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "19aeb687-9c29-4416-9f17-c784aee581d0")
-		(property "Reference" "C38"
+		(property "Reference" "C40"
 			(at 173.99 124.46 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -22170,7 +22240,7 @@
 		(instances
 			(project "arcticvideo"
 				(path "/9e9873e7-449f-4340-a6d8-702e1fa8c41f/8b2e44ed-2600-4def-8af0-a3b47c6129bc"
-					(reference "C38")
+					(reference "C40")
 					(unit 1)
 				)
 			)
@@ -22187,7 +22257,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "19f83f09-9429-4f5a-be6c-f94eed29bf45")
-		(property "Reference" "C?"
+		(property "Reference" "C81"
 			(at 297.18 96.52 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -22249,7 +22319,7 @@
 		(instances
 			(project "arcticvideo"
 				(path "/9e9873e7-449f-4340-a6d8-702e1fa8c41f/8b2e44ed-2600-4def-8af0-a3b47c6129bc"
-					(reference "C?")
+					(reference "C81")
 					(unit 1)
 				)
 			)
@@ -22266,7 +22336,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "1b110cdd-af6d-4aff-b08a-cc5b2833545e")
-		(property "Reference" "C?"
+		(property "Reference" "C52"
 			(at 204.47 40.64 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -22328,7 +22398,7 @@
 		(instances
 			(project "arcticvideo"
 				(path "/9e9873e7-449f-4340-a6d8-702e1fa8c41f/8b2e44ed-2600-4def-8af0-a3b47c6129bc"
-					(reference "C?")
+					(reference "C52")
 					(unit 1)
 				)
 			)
@@ -22336,7 +22406,7 @@
 	)
 	(symbol
 		(lib_id "power:+12V")
-		(at 34.29 129.54 0)
+		(at 34.29 119.38 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -22347,7 +22417,7 @@
 		(fields_autoplaced yes)
 		(uuid "1c63bae2-73ea-4356-9cda-6c649df113d1")
 		(property "Reference" "#PWR08"
-			(at 34.29 133.35 0)
+			(at 34.29 123.19 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -22358,7 +22428,7 @@
 			)
 		)
 		(property "Value" "+12V"
-			(at 34.29 124.46 0)
+			(at 34.29 114.3 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -22368,7 +22438,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 34.29 129.54 0)
+			(at 34.29 119.38 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -22379,7 +22449,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 34.29 129.54 0)
+			(at 34.29 119.38 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -22390,7 +22460,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+12V\""
-			(at 34.29 129.54 0)
+			(at 34.29 119.38 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -22423,7 +22493,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "1daea437-5d7f-4472-a0be-705f9f560640")
-		(property "Reference" "C56"
+		(property "Reference" "C55"
 			(at 204.47 124.46 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -22485,7 +22555,7 @@
 		(instances
 			(project "arcticvideo"
 				(path "/9e9873e7-449f-4340-a6d8-702e1fa8c41f/8b2e44ed-2600-4def-8af0-a3b47c6129bc"
-					(reference "C56")
+					(reference "C55")
 					(unit 1)
 				)
 			)
@@ -22590,7 +22660,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "1e4ee95f-91bc-4a0d-b8ea-54fb08459892")
-		(property "Reference" "C?"
+		(property "Reference" "C75"
 			(at 276.86 96.52 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -22652,7 +22722,7 @@
 		(instances
 			(project "arcticvideo"
 				(path "/9e9873e7-449f-4340-a6d8-702e1fa8c41f/8b2e44ed-2600-4def-8af0-a3b47c6129bc"
-					(reference "C?")
+					(reference "C75")
 					(unit 1)
 				)
 			)
@@ -22896,7 +22966,7 @@
 	)
 	(symbol
 		(lib_id "Device:C")
-		(at 100.33 163.83 90)
+		(at 100.33 167.64 90)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -22905,8 +22975,8 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "276c1b6d-d519-4014-af72-046349fa3c28")
-		(property "Reference" "C17"
-			(at 100.33 157.48 90)
+		(property "Reference" "C18"
+			(at 100.33 161.29 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -22916,7 +22986,7 @@
 			)
 		)
 		(property "Value" "10n"
-			(at 100.33 160.02 90)
+			(at 100.33 163.83 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -22926,7 +22996,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 104.14 162.8648 0)
+			(at 104.14 166.6748 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -22937,7 +23007,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 100.33 163.83 0)
+			(at 100.33 167.64 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -22948,7 +23018,7 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
-			(at 100.33 163.83 0)
+			(at 100.33 167.64 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -22967,7 +23037,7 @@
 		(instances
 			(project "arcticvideo"
 				(path "/9e9873e7-449f-4340-a6d8-702e1fa8c41f/8b2e44ed-2600-4def-8af0-a3b47c6129bc"
-					(reference "C17")
+					(reference "C18")
 					(unit 1)
 				)
 			)
@@ -22984,7 +23054,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "27af81e3-f4f7-4087-86c1-794b8a52cef5")
-		(property "Reference" "C53"
+		(property "Reference" "C77"
 			(at 287.02 68.58 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -23046,7 +23116,7 @@
 		(instances
 			(project "arcticvideo"
 				(path "/9e9873e7-449f-4340-a6d8-702e1fa8c41f/8b2e44ed-2600-4def-8af0-a3b47c6129bc"
-					(reference "C53")
+					(reference "C77")
 					(unit 1)
 				)
 			)
@@ -23064,7 +23134,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "280ab520-8f2d-46b0-91e4-bbbbb87ce077")
-		(property "Reference" "#PWR025"
+		(property "Reference" "#PWR030"
 			(at 162.56 93.98 0)
 			(hide yes)
 			(show_name no)
@@ -23124,7 +23194,7 @@
 		(instances
 			(project "arcticvideo"
 				(path "/9e9873e7-449f-4340-a6d8-702e1fa8c41f/8b2e44ed-2600-4def-8af0-a3b47c6129bc"
-					(reference "#PWR025")
+					(reference "#PWR030")
 					(unit 1)
 				)
 			)
@@ -23141,7 +23211,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "2adaae1c-60f6-4fdf-bfb9-a14e8fbe018b")
-		(property "Reference" "C66"
+		(property "Reference" "C63"
 			(at 224.79 68.58 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -23203,7 +23273,7 @@
 		(instances
 			(project "arcticvideo"
 				(path "/9e9873e7-449f-4340-a6d8-702e1fa8c41f/8b2e44ed-2600-4def-8af0-a3b47c6129bc"
-					(reference "C66")
+					(reference "C63")
 					(unit 1)
 				)
 			)
@@ -23220,7 +23290,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "2e4fd5af-0e1d-4a83-8531-52a5ff72b38a")
-		(property "Reference" "C44"
+		(property "Reference" "C45"
 			(at 184.15 124.46 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -23282,7 +23352,7 @@
 		(instances
 			(project "arcticvideo"
 				(path "/9e9873e7-449f-4340-a6d8-702e1fa8c41f/8b2e44ed-2600-4def-8af0-a3b47c6129bc"
-					(reference "C44")
+					(reference "C45")
 					(unit 1)
 				)
 			)
@@ -23299,7 +23369,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "2fd64f44-8f6b-4b0e-8f8b-8034352cab79")
-		(property "Reference" "C?"
+		(property "Reference" "C47"
 			(at 194.31 40.64 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -23361,7 +23431,7 @@
 		(instances
 			(project "arcticvideo"
 				(path "/9e9873e7-449f-4340-a6d8-702e1fa8c41f/8b2e44ed-2600-4def-8af0-a3b47c6129bc"
-					(reference "C?")
+					(reference "C47")
 					(unit 1)
 				)
 			)
@@ -23378,7 +23448,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "31a637a6-a3e8-403c-9119-2b9e49694714")
-		(property "Reference" "C?"
+		(property "Reference" "C62"
 			(at 224.79 40.64 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -23440,7 +23510,7 @@
 		(instances
 			(project "arcticvideo"
 				(path "/9e9873e7-449f-4340-a6d8-702e1fa8c41f/8b2e44ed-2600-4def-8af0-a3b47c6129bc"
-					(reference "C?")
+					(reference "C62")
 					(unit 1)
 				)
 			)
@@ -23457,7 +23527,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "3258aee8-dd9d-408f-a95a-28f2fb9560d8")
-		(property "Reference" "C18"
+		(property "Reference" "C16"
 			(at 91.44 247.65 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -23519,7 +23589,7 @@
 		(instances
 			(project "arcticvideo"
 				(path "/9e9873e7-449f-4340-a6d8-702e1fa8c41f/8b2e44ed-2600-4def-8af0-a3b47c6129bc"
-					(reference "C18")
+					(reference "C16")
 					(unit 1)
 				)
 			)
@@ -23614,7 +23684,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "370d1b5f-e8da-4c17-bce8-e3fbac025732")
-		(property "Reference" "C33"
+		(property "Reference" "C36"
 			(at 163.83 152.4 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -23676,7 +23746,7 @@
 		(instances
 			(project "arcticvideo"
 				(path "/9e9873e7-449f-4340-a6d8-702e1fa8c41f/8b2e44ed-2600-4def-8af0-a3b47c6129bc"
-					(reference "C33")
+					(reference "C36")
 					(unit 1)
 				)
 			)
@@ -23694,7 +23764,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "386635ca-dc18-4c95-9154-75922777d7f6")
-		(property "Reference" "#PWR090"
+		(property "Reference" "#PWR027"
 			(at 162.56 53.34 0)
 			(hide yes)
 			(show_name no)
@@ -23754,85 +23824,7 @@
 		(instances
 			(project "arcticvideo"
 				(path "/9e9873e7-449f-4340-a6d8-702e1fa8c41f/8b2e44ed-2600-4def-8af0-a3b47c6129bc"
-					(reference "#PWR090")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:GND")
-		(at 114.3 45.72 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "38ac2bbd-7952-4484-9742-1ca02e7b1d9f")
-		(property "Reference" "#PWR017"
-			(at 114.3 52.07 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "GND"
-			(at 114.3 50.8 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 114.3 45.72 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 114.3 45.72 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 114.3 45.72 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "461f73d0-398a-426f-8de7-60df7bedcd33")
-		)
-		(instances
-			(project "arcticvideo"
-				(path "/9e9873e7-449f-4340-a6d8-702e1fa8c41f/8b2e44ed-2600-4def-8af0-a3b47c6129bc"
-					(reference "#PWR017")
+					(reference "#PWR027")
 					(unit 1)
 				)
 			)
@@ -24010,7 +24002,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "3ecbbb0d-967e-4342-97df-ff52ef2d88fa")
-		(property "Reference" "#PWR019"
+		(property "Reference" "#PWR022"
 			(at 127 34.29 0)
 			(hide yes)
 			(show_name no)
@@ -24070,7 +24062,7 @@
 		(instances
 			(project "arcticvideo"
 				(path "/9e9873e7-449f-4340-a6d8-702e1fa8c41f/8b2e44ed-2600-4def-8af0-a3b47c6129bc"
-					(reference "#PWR019")
+					(reference "#PWR022")
 					(unit 1)
 				)
 			)
@@ -24087,7 +24079,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "3fe599dd-c50c-4cec-b3c7-7d2f9906befe")
-		(property "Reference" "C?"
+		(property "Reference" "C84"
 			(at 307.34 96.52 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -24149,7 +24141,7 @@
 		(instances
 			(project "arcticvideo"
 				(path "/9e9873e7-449f-4340-a6d8-702e1fa8c41f/8b2e44ed-2600-4def-8af0-a3b47c6129bc"
-					(reference "C?")
+					(reference "C84")
 					(unit 1)
 				)
 			)
@@ -24313,88 +24305,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:R")
-		(at 105.41 92.71 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "41b3003b-fbd3-4ad0-bf42-0370f8b67b37")
-		(property "Reference" "R4"
-			(at 107.95 91.4399 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "180"
-			(at 107.95 93.9799 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" ""
-			(at 103.632 92.71 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 105.41 92.71 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Resistor"
-			(at 105.41 92.71 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "f84331ff-e124-4fef-b282-076f7735b3e9")
-		)
-		(pin "2"
-			(uuid "f2d8ed69-33c9-4ef0-b9bd-3f283e06623e")
-		)
-		(instances
-			(project "arcticvideo"
-				(path "/9e9873e7-449f-4340-a6d8-702e1fa8c41f/8b2e44ed-2600-4def-8af0-a3b47c6129bc"
-					(reference "R4")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Device:C")
 		(at 200.66 68.58 180)
 		(unit 1)
@@ -24484,7 +24394,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "4316f86b-d6c0-414c-9dca-44bed209e2dc")
-		(property "Reference" "C?"
+		(property "Reference" "C42"
 			(at 184.15 40.64 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -24546,7 +24456,7 @@
 		(instances
 			(project "arcticvideo"
 				(path "/9e9873e7-449f-4340-a6d8-702e1fa8c41f/8b2e44ed-2600-4def-8af0-a3b47c6129bc"
-					(reference "C?")
+					(reference "C42")
 					(unit 1)
 				)
 			)
@@ -24563,7 +24473,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "4680a726-699c-430d-b7ad-948450e05417")
-		(property "Reference" "C?"
+		(property "Reference" "C37"
 			(at 173.99 40.64 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -24625,7 +24535,7 @@
 		(instances
 			(project "arcticvideo"
 				(path "/9e9873e7-449f-4340-a6d8-702e1fa8c41f/8b2e44ed-2600-4def-8af0-a3b47c6129bc"
-					(reference "C?")
+					(reference "C37")
 					(unit 1)
 				)
 			)
@@ -24720,7 +24630,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "49f34394-e9b2-4ad7-92e1-18ed2598d8c6")
-		(property "Reference" "C47"
+		(property "Reference" "C74"
 			(at 276.86 68.58 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -24782,7 +24692,7 @@
 		(instances
 			(project "arcticvideo"
 				(path "/9e9873e7-449f-4340-a6d8-702e1fa8c41f/8b2e44ed-2600-4def-8af0-a3b47c6129bc"
-					(reference "C47")
+					(reference "C74")
 					(unit 1)
 				)
 			)
@@ -24799,7 +24709,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "4cc19524-f195-4bb0-95ec-345990505a0f")
-		(property "Reference" "C55"
+		(property "Reference" "C54"
 			(at 204.47 96.52 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -24861,7 +24771,7 @@
 		(instances
 			(project "arcticvideo"
 				(path "/9e9873e7-449f-4340-a6d8-702e1fa8c41f/8b2e44ed-2600-4def-8af0-a3b47c6129bc"
-					(reference "C55")
+					(reference "C54")
 					(unit 1)
 				)
 			)
@@ -24878,7 +24788,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "4dff4b57-07dc-419f-854d-a6bd09213b48")
-		(property "Reference" "C?"
+		(property "Reference" "C69"
 			(at 256.54 96.52 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -24940,7 +24850,7 @@
 		(instances
 			(project "arcticvideo"
 				(path "/9e9873e7-449f-4340-a6d8-702e1fa8c41f/8b2e44ed-2600-4def-8af0-a3b47c6129bc"
-					(reference "C?")
+					(reference "C69")
 					(unit 1)
 				)
 			)
@@ -24957,7 +24867,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "541427e7-25a6-4a80-b9e8-e2a1ccc1ba3a")
-		(property "Reference" "C59"
+		(property "Reference" "C80"
 			(at 297.18 68.58 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -25019,7 +24929,7 @@
 		(instances
 			(project "arcticvideo"
 				(path "/9e9873e7-449f-4340-a6d8-702e1fa8c41f/8b2e44ed-2600-4def-8af0-a3b47c6129bc"
-					(reference "C59")
+					(reference "C80")
 					(unit 1)
 				)
 			)
@@ -25036,7 +24946,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "55121b2b-c73a-41b6-96a4-274132c90818")
-		(property "Reference" "C?"
+		(property "Reference" "C27"
 			(at 123.19 219.71 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -25098,7 +25008,7 @@
 		(instances
 			(project "arcticvideo"
 				(path "/9e9873e7-449f-4340-a6d8-702e1fa8c41f/8b2e44ed-2600-4def-8af0-a3b47c6129bc"
-					(reference "C?")
+					(reference "C27")
 					(unit 1)
 				)
 			)
@@ -25116,7 +25026,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "584e9303-9fab-4123-a8e2-a9c2b326e905")
-		(property "Reference" "R?"
+		(property "Reference" "R12"
 			(at 295.91 353.0599 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -25180,7 +25090,7 @@
 		(instances
 			(project "arcticvideo"
 				(path "/9e9873e7-449f-4340-a6d8-702e1fa8c41f/8b2e44ed-2600-4def-8af0-a3b47c6129bc"
-					(reference "R?")
+					(reference "R12")
 					(unit 1)
 				)
 			)
@@ -25198,7 +25108,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "58999db3-f800-471c-bc7e-027e4a8db6f0")
-		(property "Reference" "#PWR024"
+		(property "Reference" "#PWR029"
 			(at 162.56 81.28 0)
 			(hide yes)
 			(show_name no)
@@ -25258,7 +25168,7 @@
 		(instances
 			(project "arcticvideo"
 				(path "/9e9873e7-449f-4340-a6d8-702e1fa8c41f/8b2e44ed-2600-4def-8af0-a3b47c6129bc"
-					(reference "#PWR024")
+					(reference "#PWR029")
 					(unit 1)
 				)
 			)
@@ -25513,7 +25423,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "5ee95da4-a4e7-41a2-a191-80d8ccd20b0f")
-		(property "Reference" "R?"
+		(property "Reference" "R11"
 			(at 284.48 353.0599 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -25577,7 +25487,7 @@
 		(instances
 			(project "arcticvideo"
 				(path "/9e9873e7-449f-4340-a6d8-702e1fa8c41f/8b2e44ed-2600-4def-8af0-a3b47c6129bc"
-					(reference "R?")
+					(reference "R11")
 					(unit 1)
 				)
 			)
@@ -25594,7 +25504,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "5f3845f9-12f9-41b9-a7d5-a6b40c243af2")
-		(property "Reference" "C27"
+		(property "Reference" "C30"
 			(at 149.86 147.32 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -25656,7 +25566,7 @@
 		(instances
 			(project "arcticvideo"
 				(path "/9e9873e7-449f-4340-a6d8-702e1fa8c41f/8b2e44ed-2600-4def-8af0-a3b47c6129bc"
-					(reference "C27")
+					(reference "C30")
 					(unit 1)
 				)
 			)
@@ -25673,7 +25583,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "5fd85c17-5ab8-497b-9e56-9a8eceb93975")
-		(property "Reference" "C42"
+		(property "Reference" "C43"
 			(at 184.15 68.58 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -25735,7 +25645,7 @@
 		(instances
 			(project "arcticvideo"
 				(path "/9e9873e7-449f-4340-a6d8-702e1fa8c41f/8b2e44ed-2600-4def-8af0-a3b47c6129bc"
-					(reference "C42")
+					(reference "C43")
 					(unit 1)
 				)
 			)
@@ -25752,7 +25662,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "642a2b29-f925-4143-a7d9-b5ddcf136b01")
-		(property "Reference" "C?"
+		(property "Reference" "C57"
 			(at 214.63 40.64 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -25814,7 +25724,7 @@
 		(instances
 			(project "arcticvideo"
 				(path "/9e9873e7-449f-4340-a6d8-702e1fa8c41f/8b2e44ed-2600-4def-8af0-a3b47c6129bc"
-					(reference "C?")
+					(reference "C57")
 					(unit 1)
 				)
 			)
@@ -25831,7 +25741,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "64a71507-2ee7-4fb1-b118-1c0052910bc1")
-		(property "Reference" "C?"
+		(property "Reference" "C72"
 			(at 266.7 96.52 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -25893,7 +25803,7 @@
 		(instances
 			(project "arcticvideo"
 				(path "/9e9873e7-449f-4340-a6d8-702e1fa8c41f/8b2e44ed-2600-4def-8af0-a3b47c6129bc"
-					(reference "C?")
+					(reference "C72")
 					(unit 1)
 				)
 			)
@@ -25911,7 +25821,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "65812fb7-6962-4b27-ae71-bd1cb67f39b2")
-		(property "Reference" "#PWR023"
+		(property "Reference" "#PWR028"
 			(at 162.56 66.04 0)
 			(hide yes)
 			(show_name no)
@@ -25971,7 +25881,7 @@
 		(instances
 			(project "arcticvideo"
 				(path "/9e9873e7-449f-4340-a6d8-702e1fa8c41f/8b2e44ed-2600-4def-8af0-a3b47c6129bc"
-					(reference "#PWR023")
+					(reference "#PWR028")
 					(unit 1)
 				)
 			)
@@ -26067,7 +25977,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "66642437-957d-403b-ae3f-0f94131ec61d")
-		(property "Reference" "C71"
+		(property "Reference" "C86"
 			(at 317.5 68.58 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -26129,7 +26039,7 @@
 		(instances
 			(project "arcticvideo"
 				(path "/9e9873e7-449f-4340-a6d8-702e1fa8c41f/8b2e44ed-2600-4def-8af0-a3b47c6129bc"
-					(reference "C71")
+					(reference "C86")
 					(unit 1)
 				)
 			)
@@ -26146,7 +26056,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "67dc3b0f-2e3f-49a4-bece-56634536a5a1")
-		(property "Reference" "C68"
+		(property "Reference" "C65"
 			(at 224.79 124.46 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -26208,86 +26118,7 @@
 		(instances
 			(project "arcticvideo"
 				(path "/9e9873e7-449f-4340-a6d8-702e1fa8c41f/8b2e44ed-2600-4def-8af0-a3b47c6129bc"
-					(reference "C68")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:C")
-		(at 123.19 40.64 180)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "68ba536c-eb6e-46b4-99d0-4ccfb34763f6")
-		(property "Reference" "C24"
-			(at 116.84 40.64 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "22u"
-			(at 119.38 40.64 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 122.2248 36.83 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 123.19 40.64 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Unpolarized capacitor"
-			(at 123.19 40.64 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "868c6fae-a38e-4d63-ac3a-9c7aac54ab33")
-		)
-		(pin "2"
-			(uuid "13cec424-4c5e-47ef-bf09-7d2fce1c2e5a")
-		)
-		(instances
-			(project "arcticvideo"
-				(path "/9e9873e7-449f-4340-a6d8-702e1fa8c41f/8b2e44ed-2600-4def-8af0-a3b47c6129bc"
-					(reference "C24")
+					(reference "C65")
 					(unit 1)
 				)
 			)
@@ -26304,7 +26135,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "695274f1-0e6d-4b7b-ab12-7ad45c1351f3")
-		(property "Reference" "C32"
+		(property "Reference" "C35"
 			(at 163.83 124.46 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -26366,7 +26197,7 @@
 		(instances
 			(project "arcticvideo"
 				(path "/9e9873e7-449f-4340-a6d8-702e1fa8c41f/8b2e44ed-2600-4def-8af0-a3b47c6129bc"
-					(reference "C32")
+					(reference "C35")
 					(unit 1)
 				)
 			)
@@ -26384,7 +26215,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "6adf7629-2a2c-4803-95c1-f2e340f3b7f8")
-		(property "Reference" "#PWR040"
+		(property "Reference" "#PWR019"
 			(at 121.92 217.17 0)
 			(hide yes)
 			(show_name no)
@@ -26444,7 +26275,7 @@
 		(instances
 			(project "arcticvideo"
 				(path "/9e9873e7-449f-4340-a6d8-702e1fa8c41f/8b2e44ed-2600-4def-8af0-a3b47c6129bc"
-					(reference "#PWR040")
+					(reference "#PWR019")
 					(unit 1)
 				)
 			)
@@ -26540,7 +26371,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "6eff1b5b-0734-4598-b2ca-098c0ee250d5")
-		(property "Reference" "#PWR091"
+		(property "Reference" "#PWR040"
 			(at 255.27 93.98 0)
 			(hide yes)
 			(show_name no)
@@ -26600,7 +26431,7 @@
 		(instances
 			(project "arcticvideo"
 				(path "/9e9873e7-449f-4340-a6d8-702e1fa8c41f/8b2e44ed-2600-4def-8af0-a3b47c6129bc"
-					(reference "#PWR091")
+					(reference "#PWR040")
 					(unit 1)
 				)
 			)
@@ -26845,6 +26676,85 @@
 		)
 	)
 	(symbol
+		(lib_id "Device:C")
+		(at 123.19 33.02 180)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "70480462-4221-4976-9ecf-ceae20509cf5")
+		(property "Reference" "C25"
+			(at 116.84 33.02 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "22u"
+			(at 119.38 33.02 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 122.2248 29.21 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 123.19 33.02 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Unpolarized capacitor"
+			(at 123.19 33.02 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "ff0427bf-abb8-4035-92ea-7510254d3f52")
+		)
+		(pin "2"
+			(uuid "c53a5a72-88d4-4bcb-8cc2-12f19926b679")
+		)
+		(instances
+			(project "arcticvideo"
+				(path "/9e9873e7-449f-4340-a6d8-702e1fa8c41f/8b2e44ed-2600-4def-8af0-a3b47c6129bc"
+					(reference "C25")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "power:GND")
 		(at 59.69 254 0)
 		(unit 1)
@@ -26933,7 +26843,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "73dab768-0ba8-4d51-af08-010ef949385b")
-		(property "Reference" "C34"
+		(property "Reference" "C67"
 			(at 256.54 40.64 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -26995,7 +26905,7 @@
 		(instances
 			(project "arcticvideo"
 				(path "/9e9873e7-449f-4340-a6d8-702e1fa8c41f/8b2e44ed-2600-4def-8af0-a3b47c6129bc"
-					(reference "C34")
+					(reference "C67")
 					(unit 1)
 				)
 			)
@@ -27092,7 +27002,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "76c9160a-0efc-46d0-beac-6e78d68c9223")
-		(property "Reference" "#PWR035"
+		(property "Reference" "#PWR042"
 			(at 281.94 365.76 0)
 			(hide yes)
 			(show_name no)
@@ -27152,7 +27062,7 @@
 		(instances
 			(project "arcticvideo"
 				(path "/9e9873e7-449f-4340-a6d8-702e1fa8c41f/8b2e44ed-2600-4def-8af0-a3b47c6129bc"
-					(reference "#PWR035")
+					(reference "#PWR042")
 					(unit 1)
 				)
 			)
@@ -27169,7 +27079,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "791ffaa9-cd9f-439a-91a1-cce88f23cb9d")
-		(property "Reference" "C64"
+		(property "Reference" "C82"
 			(at 307.34 40.64 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -27231,7 +27141,7 @@
 		(instances
 			(project "arcticvideo"
 				(path "/9e9873e7-449f-4340-a6d8-702e1fa8c41f/8b2e44ed-2600-4def-8af0-a3b47c6129bc"
-					(reference "C64")
+					(reference "C82")
 					(unit 1)
 				)
 			)
@@ -27406,7 +27316,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "7c71310b-7c13-4d31-8e3f-f2c787d62c89")
-		(property "Reference" "#PWR020"
+		(property "Reference" "#PWR023"
 			(at 128.27 74.93 0)
 			(hide yes)
 			(show_name no)
@@ -27466,7 +27376,7 @@
 		(instances
 			(project "arcticvideo"
 				(path "/9e9873e7-449f-4340-a6d8-702e1fa8c41f/8b2e44ed-2600-4def-8af0-a3b47c6129bc"
-					(reference "#PWR020")
+					(reference "#PWR023")
 					(unit 1)
 				)
 			)
@@ -27484,7 +27394,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "7cedf58d-f993-445e-aa40-72180ad2103a")
-		(property "Reference" "#PWR085"
+		(property "Reference" "#PWR045"
 			(at 351.79 224.79 0)
 			(hide yes)
 			(show_name no)
@@ -27544,7 +27454,7 @@
 		(instances
 			(project "arcticvideo"
 				(path "/9e9873e7-449f-4340-a6d8-702e1fa8c41f/8b2e44ed-2600-4def-8af0-a3b47c6129bc"
-					(reference "#PWR085")
+					(reference "#PWR045")
 					(unit 1)
 				)
 			)
@@ -27561,7 +27471,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "7cf931f9-b2d1-4b39-87e3-8ef525aa0dfe")
-		(property "Reference" "C65"
+		(property "Reference" "C83"
 			(at 307.34 68.58 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -27623,7 +27533,7 @@
 		(instances
 			(project "arcticvideo"
 				(path "/9e9873e7-449f-4340-a6d8-702e1fa8c41f/8b2e44ed-2600-4def-8af0-a3b47c6129bc"
-					(reference "C65")
+					(reference "C83")
 					(unit 1)
 				)
 			)
@@ -27631,7 +27541,7 @@
 	)
 	(symbol
 		(lib_id "Device:R")
-		(at 105.41 82.55 0)
+		(at 109.22 74.93 180)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -27641,30 +27551,30 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "7f242dd9-e2b2-42f5-8148-56c7aa7220e9")
-		(property "Reference" "R3"
-			(at 107.95 81.2799 0)
+		(property "Reference" "R4"
+			(at 111.76 73.6599 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
+				(justify right)
 			)
 		)
 		(property "Value" "2.2k"
-			(at 107.95 83.8199 0)
+			(at 111.76 76.1999 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
+				(justify right)
 			)
 		)
 		(property "Footprint" ""
-			(at 103.632 82.55 90)
+			(at 110.998 74.93 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -27675,7 +27585,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 105.41 82.55 0)
+			(at 109.22 74.93 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -27686,7 +27596,7 @@
 			)
 		)
 		(property "Description" "Resistor"
-			(at 105.41 82.55 0)
+			(at 109.22 74.93 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -27705,7 +27615,7 @@
 		(instances
 			(project "arcticvideo"
 				(path "/9e9873e7-449f-4340-a6d8-702e1fa8c41f/8b2e44ed-2600-4def-8af0-a3b47c6129bc"
-					(reference "R3")
+					(reference "R4")
 					(unit 1)
 				)
 			)
@@ -27723,7 +27633,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "7f3cdd47-e1af-490c-8510-f34935cf4596")
-		(property "Reference" "#PWR027"
+		(property "Reference" "#PWR032"
 			(at 162.56 121.92 0)
 			(hide yes)
 			(show_name no)
@@ -27783,7 +27693,7 @@
 		(instances
 			(project "arcticvideo"
 				(path "/9e9873e7-449f-4340-a6d8-702e1fa8c41f/8b2e44ed-2600-4def-8af0-a3b47c6129bc"
-					(reference "#PWR027")
+					(reference "#PWR032")
 					(unit 1)
 				)
 			)
@@ -27800,7 +27710,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "7f821a91-a69d-4d59-8087-fa80bbe8dbe9")
-		(property "Reference" "C?"
+		(property "Reference" "C87"
 			(at 317.5 96.52 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -27862,7 +27772,7 @@
 		(instances
 			(project "arcticvideo"
 				(path "/9e9873e7-449f-4340-a6d8-702e1fa8c41f/8b2e44ed-2600-4def-8af0-a3b47c6129bc"
-					(reference "C?")
+					(reference "C87")
 					(unit 1)
 				)
 			)
@@ -27982,7 +27892,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "86415d8c-8a93-419c-9b2e-18cdd2cef799")
-		(property "Reference" "C62"
+		(property "Reference" "C60"
 			(at 214.63 124.46 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -28044,7 +27954,7 @@
 		(instances
 			(project "arcticvideo"
 				(path "/9e9873e7-449f-4340-a6d8-702e1fa8c41f/8b2e44ed-2600-4def-8af0-a3b47c6129bc"
-					(reference "C62")
+					(reference "C60")
 					(unit 1)
 				)
 			)
@@ -28130,7 +28040,7 @@
 	)
 	(symbol
 		(lib_id "Device:L")
-		(at 121.92 175.26 90)
+		(at 137.16 175.26 90)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -28141,7 +28051,7 @@
 		(fields_autoplaced yes)
 		(uuid "864dbc32-a1be-42c7-8236-8218a543b7ee")
 		(property "Reference" "L2"
-			(at 121.92 170.18 90)
+			(at 137.16 170.18 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -28151,7 +28061,7 @@
 			)
 		)
 		(property "Value" "10u"
-			(at 121.92 172.72 90)
+			(at 137.16 172.72 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -28161,7 +28071,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 121.92 175.26 0)
+			(at 137.16 175.26 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -28172,7 +28082,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 121.92 175.26 0)
+			(at 137.16 175.26 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -28183,7 +28093,7 @@
 			)
 		)
 		(property "Description" "Inductor"
-			(at 121.92 175.26 0)
+			(at 137.16 175.26 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -28219,7 +28129,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "8718bcb4-2c2d-4a88-9ff9-23fc3dcd8db8")
-		(property "Reference" "C37"
+		(property "Reference" "C39"
 			(at 173.99 96.52 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -28281,7 +28191,7 @@
 		(instances
 			(project "arcticvideo"
 				(path "/9e9873e7-449f-4340-a6d8-702e1fa8c41f/8b2e44ed-2600-4def-8af0-a3b47c6129bc"
-					(reference "C37")
+					(reference "C39")
 					(unit 1)
 				)
 			)
@@ -28299,7 +28209,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "879cdc78-2c2b-42a9-948d-50806486e702")
-		(property "Reference" "U?"
+		(property "Reference" "U1"
 			(at 241.3 299.72 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -30082,7 +29992,7 @@
 		(instances
 			(project "arcticvideo"
 				(path "/9e9873e7-449f-4340-a6d8-702e1fa8c41f/8b2e44ed-2600-4def-8af0-a3b47c6129bc"
-					(reference "U?")
+					(reference "U1")
 					(unit 6)
 				)
 			)
@@ -30099,7 +30009,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "8d056b17-6d9e-4d8c-bb4e-7d92b143a52d")
-		(property "Reference" "C?"
+		(property "Reference" "C78"
 			(at 287.02 96.52 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -30161,7 +30071,7 @@
 		(instances
 			(project "arcticvideo"
 				(path "/9e9873e7-449f-4340-a6d8-702e1fa8c41f/8b2e44ed-2600-4def-8af0-a3b47c6129bc"
-					(reference "C?")
+					(reference "C78")
 					(unit 1)
 				)
 			)
@@ -30179,7 +30089,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "8d26bdc2-2238-4f3e-9426-cde4f31c3800")
-		(property "Reference" "R2"
+		(property "Reference" "R1"
 			(at 44.45 172.72 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -30241,7 +30151,7 @@
 		(instances
 			(project "arcticvideo"
 				(path "/9e9873e7-449f-4340-a6d8-702e1fa8c41f/8b2e44ed-2600-4def-8af0-a3b47c6129bc"
-					(reference "R2")
+					(reference "R1")
 					(unit 1)
 				)
 			)
@@ -30418,7 +30328,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "91095fd7-852f-4883-ac5a-287b191d741b")
-		(property "Reference" "U?"
+		(property "Reference" "U1"
 			(at 379.73 15.24 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -32201,7 +32111,7 @@
 		(instances
 			(project "arcticvideo"
 				(path "/9e9873e7-449f-4340-a6d8-702e1fa8c41f/8b2e44ed-2600-4def-8af0-a3b47c6129bc"
-					(reference "U?")
+					(reference "U1")
 					(unit 8)
 				)
 			)
@@ -32218,7 +32128,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "940aacda-3a5e-45cd-b2bd-8a11b4349387")
-		(property "Reference" "C36"
+		(property "Reference" "C38"
 			(at 173.99 68.58 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -32280,7 +32190,7 @@
 		(instances
 			(project "arcticvideo"
 				(path "/9e9873e7-449f-4340-a6d8-702e1fa8c41f/8b2e44ed-2600-4def-8af0-a3b47c6129bc"
-					(reference "C36")
+					(reference "C38")
 					(unit 1)
 				)
 			)
@@ -32298,7 +32208,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "95026e74-6281-4f9c-a2c0-0c13749ca690")
-		(property "Reference" "#PWR032"
+		(property "Reference" "#PWR037"
 			(at 255.27 53.34 0)
 			(hide yes)
 			(show_name no)
@@ -32358,7 +32268,7 @@
 		(instances
 			(project "arcticvideo"
 				(path "/9e9873e7-449f-4340-a6d8-702e1fa8c41f/8b2e44ed-2600-4def-8af0-a3b47c6129bc"
-					(reference "#PWR032")
+					(reference "#PWR037")
 					(unit 1)
 				)
 			)
@@ -32376,7 +32286,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "960f5992-905e-4e1c-a4b9-7a64794fb5c5")
-		(property "Reference" "#PWR031"
+		(property "Reference" "#PWR036"
 			(at 255.27 38.1 0)
 			(hide yes)
 			(show_name no)
@@ -32436,7 +32346,7 @@
 		(instances
 			(project "arcticvideo"
 				(path "/9e9873e7-449f-4340-a6d8-702e1fa8c41f/8b2e44ed-2600-4def-8af0-a3b47c6129bc"
-					(reference "#PWR031")
+					(reference "#PWR036")
 					(unit 1)
 				)
 			)
@@ -32523,7 +32433,7 @@
 	)
 	(symbol
 		(lib_id "Device:R")
-		(at 44.45 133.35 270)
+		(at 45.72 127 270)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -32533,8 +32443,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "99b90617-23f2-4ef2-9a85-4ebe8d016a4e")
-		(property "Reference" "R1"
-			(at 44.45 127 90)
+		(property "Reference" "R2"
+			(at 45.72 120.65 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -32544,7 +32454,7 @@
 			)
 		)
 		(property "Value" "100k"
-			(at 44.45 129.54 90)
+			(at 45.72 123.19 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -32554,7 +32464,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 44.45 131.572 90)
+			(at 45.72 125.222 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -32565,7 +32475,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 44.45 133.35 0)
+			(at 45.72 127 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -32576,7 +32486,7 @@
 			)
 		)
 		(property "Description" "Resistor"
-			(at 44.45 133.35 0)
+			(at 45.72 127 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -32595,7 +32505,7 @@
 		(instances
 			(project "arcticvideo"
 				(path "/9e9873e7-449f-4340-a6d8-702e1fa8c41f/8b2e44ed-2600-4def-8af0-a3b47c6129bc"
-					(reference "R1")
+					(reference "R2")
 					(unit 1)
 				)
 			)
@@ -32612,7 +32522,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "9a4ef07e-e0a0-46e7-b122-e7f5867ea27a")
-		(property "Reference" "C43"
+		(property "Reference" "C44"
 			(at 184.15 96.52 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -32674,7 +32584,7 @@
 		(instances
 			(project "arcticvideo"
 				(path "/9e9873e7-449f-4340-a6d8-702e1fa8c41f/8b2e44ed-2600-4def-8af0-a3b47c6129bc"
-					(reference "C43")
+					(reference "C44")
 					(unit 1)
 				)
 			)
@@ -32691,7 +32601,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "9bf908c6-a5e8-4796-8164-357e827bf84c")
-		(property "Reference" "C54"
+		(property "Reference" "C53"
 			(at 204.47 68.58 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -32753,7 +32663,7 @@
 		(instances
 			(project "arcticvideo"
 				(path "/9e9873e7-449f-4340-a6d8-702e1fa8c41f/8b2e44ed-2600-4def-8af0-a3b47c6129bc"
-					(reference "C54")
+					(reference "C53")
 					(unit 1)
 				)
 			)
@@ -32770,7 +32680,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "9d64ec4c-97f6-413e-ad66-0d273b1f8b40")
-		(property "Reference" "C28"
+		(property "Reference" "C31"
 			(at 149.86 193.04 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -32832,7 +32742,7 @@
 		(instances
 			(project "arcticvideo"
 				(path "/9e9873e7-449f-4340-a6d8-702e1fa8c41f/8b2e44ed-2600-4def-8af0-a3b47c6129bc"
-					(reference "C28")
+					(reference "C31")
 					(unit 1)
 				)
 			)
@@ -32849,7 +32759,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "9e36c1a8-40de-46cc-b4f8-8dcbee2feedc")
-		(property "Reference" "C30"
+		(property "Reference" "C33"
 			(at 163.83 68.58 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -32911,7 +32821,7 @@
 		(instances
 			(project "arcticvideo"
 				(path "/9e9873e7-449f-4340-a6d8-702e1fa8c41f/8b2e44ed-2600-4def-8af0-a3b47c6129bc"
-					(reference "C30")
+					(reference "C33")
 					(unit 1)
 				)
 			)
@@ -32929,7 +32839,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "9f949631-27f5-43d9-88a7-7db8ec9e97df")
-		(property "Reference" "#PWR026"
+		(property "Reference" "#PWR031"
 			(at 162.56 109.22 0)
 			(hide yes)
 			(show_name no)
@@ -32989,7 +32899,7 @@
 		(instances
 			(project "arcticvideo"
 				(path "/9e9873e7-449f-4340-a6d8-702e1fa8c41f/8b2e44ed-2600-4def-8af0-a3b47c6129bc"
-					(reference "#PWR026")
+					(reference "#PWR031")
 					(unit 1)
 				)
 			)
@@ -33086,7 +32996,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "a10b35c6-f766-4ccd-a4dd-7175c95e9987")
-		(property "Reference" "C45"
+		(property "Reference" "C46"
 			(at 184.15 152.4 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -33148,7 +33058,7 @@
 		(instances
 			(project "arcticvideo"
 				(path "/9e9873e7-449f-4340-a6d8-702e1fa8c41f/8b2e44ed-2600-4def-8af0-a3b47c6129bc"
-					(reference "C45")
+					(reference "C46")
 					(unit 1)
 				)
 			)
@@ -33244,7 +33154,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "aa704573-10e2-41fc-ab36-a2fbb9a3371c")
-		(property "Reference" "#PWR089"
+		(property "Reference" "#PWR026"
 			(at 162.56 38.1 0)
 			(hide yes)
 			(show_name no)
@@ -33304,7 +33214,7 @@
 		(instances
 			(project "arcticvideo"
 				(path "/9e9873e7-449f-4340-a6d8-702e1fa8c41f/8b2e44ed-2600-4def-8af0-a3b47c6129bc"
-					(reference "#PWR089")
+					(reference "#PWR026")
 					(unit 1)
 				)
 			)
@@ -33312,7 +33222,7 @@
 	)
 	(symbol
 		(lib_id "Device:L")
-		(at 121.92 129.54 90)
+		(at 135.89 129.54 90)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -33323,7 +33233,7 @@
 		(fields_autoplaced yes)
 		(uuid "aa9ec2bb-70df-43df-a6bb-6b1b777ecc70")
 		(property "Reference" "L1"
-			(at 121.92 124.46 90)
+			(at 135.89 124.46 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -33333,7 +33243,7 @@
 			)
 		)
 		(property "Value" "10u"
-			(at 121.92 127 90)
+			(at 135.89 127 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -33343,7 +33253,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 121.92 129.54 0)
+			(at 135.89 129.54 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -33354,7 +33264,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 121.92 129.54 0)
+			(at 135.89 129.54 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -33365,7 +33275,7 @@
 			)
 		)
 		(property "Description" "Inductor"
-			(at 121.92 129.54 0)
+			(at 135.89 129.54 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -33558,7 +33468,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "af147a45-8e05-45dc-9226-32da4f9af873")
-		(property "Reference" "C60"
+		(property "Reference" "C58"
 			(at 214.63 68.58 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -33620,7 +33530,7 @@
 		(instances
 			(project "arcticvideo"
 				(path "/9e9873e7-449f-4340-a6d8-702e1fa8c41f/8b2e44ed-2600-4def-8af0-a3b47c6129bc"
-					(reference "C60")
+					(reference "C58")
 					(unit 1)
 				)
 			)
@@ -33707,7 +33617,7 @@
 	)
 	(symbol
 		(lib_id "Device:C")
-		(at 100.33 118.11 90)
+		(at 100.33 120.65 90)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -33716,17 +33626,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "afd6a9b6-2afe-4fa8-97f9-56636e231de3")
-		(property "Reference" "C16"
-			(at 100.33 111.76 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "10n"
+		(property "Reference" "C17"
 			(at 100.33 114.3 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -33736,8 +33636,18 @@
 				)
 			)
 		)
+		(property "Value" "10n"
+			(at 100.33 116.84 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(property "Footprint" ""
-			(at 104.14 117.1448 0)
+			(at 104.14 119.6848 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -33748,7 +33658,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 100.33 118.11 0)
+			(at 100.33 120.65 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -33759,7 +33669,7 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
-			(at 100.33 118.11 0)
+			(at 100.33 120.65 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -33778,7 +33688,7 @@
 		(instances
 			(project "arcticvideo"
 				(path "/9e9873e7-449f-4340-a6d8-702e1fa8c41f/8b2e44ed-2600-4def-8af0-a3b47c6129bc"
-					(reference "C16")
+					(reference "C17")
 					(unit 1)
 				)
 			)
@@ -33795,7 +33705,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "b223d38a-d897-41e2-978e-60cbcd5653f9")
-		(property "Reference" "C25"
+		(property "Reference" "C23"
 			(at 111.76 247.65 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -33857,7 +33767,7 @@
 		(instances
 			(project "arcticvideo"
 				(path "/9e9873e7-449f-4340-a6d8-702e1fa8c41f/8b2e44ed-2600-4def-8af0-a3b47c6129bc"
-					(reference "C25")
+					(reference "C23")
 					(unit 1)
 				)
 			)
@@ -34031,7 +33941,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "b8ce20a9-90c6-4640-8f6c-e9391f7f4a90")
-		(property "Reference" "C52"
+		(property "Reference" "C76"
 			(at 287.02 40.64 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -34093,7 +34003,7 @@
 		(instances
 			(project "arcticvideo"
 				(path "/9e9873e7-449f-4340-a6d8-702e1fa8c41f/8b2e44ed-2600-4def-8af0-a3b47c6129bc"
-					(reference "C52")
+					(reference "C76")
 					(unit 1)
 				)
 			)
@@ -34110,7 +34020,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "bdc04a47-fa1c-4450-b966-bb047551e11c")
-		(property "Reference" "C69"
+		(property "Reference" "C66"
 			(at 224.79 152.4 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -34172,7 +34082,7 @@
 		(instances
 			(project "arcticvideo"
 				(path "/9e9873e7-449f-4340-a6d8-702e1fa8c41f/8b2e44ed-2600-4def-8af0-a3b47c6129bc"
-					(reference "C69")
+					(reference "C66")
 					(unit 1)
 				)
 			)
@@ -34189,7 +34099,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "be7e8eac-b5bf-42a0-b4d4-b929d8ee2ac1")
-		(property "Reference" "C?"
+		(property "Reference" "C32"
 			(at 163.83 40.64 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -34251,7 +34161,7 @@
 		(instances
 			(project "arcticvideo"
 				(path "/9e9873e7-449f-4340-a6d8-702e1fa8c41f/8b2e44ed-2600-4def-8af0-a3b47c6129bc"
-					(reference "C?")
+					(reference "C32")
 					(unit 1)
 				)
 			)
@@ -34347,7 +34257,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "c32762f1-7dc6-418b-acbc-ca75aff063a8")
-		(property "Reference" "#PWR028"
+		(property "Reference" "#PWR033"
 			(at 162.56 137.16 0)
 			(hide yes)
 			(show_name no)
@@ -34407,7 +34317,7 @@
 		(instances
 			(project "arcticvideo"
 				(path "/9e9873e7-449f-4340-a6d8-702e1fa8c41f/8b2e44ed-2600-4def-8af0-a3b47c6129bc"
-					(reference "#PWR028")
+					(reference "#PWR033")
 					(unit 1)
 				)
 			)
@@ -34503,7 +34413,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "c6532b4a-5ded-4bc4-bee7-5d5f69eb4d7e")
-		(property "Reference" "#PWR087"
+		(property "Reference" "#PWR044"
 			(at 341.63 60.96 0)
 			(hide yes)
 			(show_name no)
@@ -34563,7 +34473,7 @@
 		(instances
 			(project "arcticvideo"
 				(path "/9e9873e7-449f-4340-a6d8-702e1fa8c41f/8b2e44ed-2600-4def-8af0-a3b47c6129bc"
-					(reference "#PWR087")
+					(reference "#PWR044")
 					(unit 1)
 				)
 			)
@@ -34581,7 +34491,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "c76ec4f3-b8d4-47b1-9120-141ac7d2693c")
-		(property "Reference" "#PWR034"
+		(property "Reference" "#PWR039"
 			(at 255.27 81.28 0)
 			(hide yes)
 			(show_name no)
@@ -34641,7 +34551,7 @@
 		(instances
 			(project "arcticvideo"
 				(path "/9e9873e7-449f-4340-a6d8-702e1fa8c41f/8b2e44ed-2600-4def-8af0-a3b47c6129bc"
-					(reference "#PWR034")
+					(reference "#PWR039")
 					(unit 1)
 				)
 			)
@@ -34659,7 +34569,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "c87d114f-c9b7-47cd-85f2-f8794865c783")
-		(property "Reference" "#PWR029"
+		(property "Reference" "#PWR034"
 			(at 162.56 149.86 0)
 			(hide yes)
 			(show_name no)
@@ -34719,7 +34629,7 @@
 		(instances
 			(project "arcticvideo"
 				(path "/9e9873e7-449f-4340-a6d8-702e1fa8c41f/8b2e44ed-2600-4def-8af0-a3b47c6129bc"
-					(reference "#PWR029")
+					(reference "#PWR034")
 					(unit 1)
 				)
 			)
@@ -34737,7 +34647,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "cab442ae-ea2d-45f5-a5ca-1cc7923d17c4")
-		(property "Reference" "#PWR086"
+		(property "Reference" "#PWR046"
 			(at 407.67 224.79 0)
 			(hide yes)
 			(show_name no)
@@ -34797,7 +34707,7 @@
 		(instances
 			(project "arcticvideo"
 				(path "/9e9873e7-449f-4340-a6d8-702e1fa8c41f/8b2e44ed-2600-4def-8af0-a3b47c6129bc"
-					(reference "#PWR086")
+					(reference "#PWR046")
 					(unit 1)
 				)
 			)
@@ -34974,7 +34884,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "cf6e52b7-a250-437f-b222-b602bae276b0")
-		(property "Reference" "C67"
+		(property "Reference" "C64"
 			(at 224.79 96.52 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -35036,7 +34946,7 @@
 		(instances
 			(project "arcticvideo"
 				(path "/9e9873e7-449f-4340-a6d8-702e1fa8c41f/8b2e44ed-2600-4def-8af0-a3b47c6129bc"
-					(reference "C67")
+					(reference "C64")
 					(unit 1)
 				)
 			)
@@ -35122,6 +35032,88 @@
 		)
 	)
 	(symbol
+		(lib_id "Device:R")
+		(at 109.22 63.5 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "d0d8f88b-48bd-4f2a-8e41-5af0a8ad0cf0")
+		(property "Reference" "R3"
+			(at 111.76 62.2299 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "180"
+			(at 111.76 64.7699 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" ""
+			(at 107.442 63.5 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 109.22 63.5 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 109.22 63.5 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "cbf42ae0-56d6-4f9d-9a16-eefa3bbe2a1b")
+		)
+		(pin "2"
+			(uuid "fe0f2fe7-4506-426b-8eed-7260182f12a0")
+		)
+		(instances
+			(project "arcticvideo"
+				(path "/9e9873e7-449f-4340-a6d8-702e1fa8c41f/8b2e44ed-2600-4def-8af0-a3b47c6129bc"
+					(reference "R3")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:C")
 		(at 262.89 68.58 180)
 		(unit 1)
@@ -35132,7 +35124,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "d36eaad8-fc5c-4875-8a45-5504e6ae1e52")
-		(property "Reference" "C35"
+		(property "Reference" "C68"
 			(at 256.54 68.58 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -35194,7 +35186,7 @@
 		(instances
 			(project "arcticvideo"
 				(path "/9e9873e7-449f-4340-a6d8-702e1fa8c41f/8b2e44ed-2600-4def-8af0-a3b47c6129bc"
-					(reference "C35")
+					(reference "C68")
 					(unit 1)
 				)
 			)
@@ -35212,7 +35204,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "d4252f36-7723-44db-a91c-a010b59b3f4e")
-		(property "Reference" "#PWR022"
+		(property "Reference" "#PWR025"
 			(at 143.51 175.26 0)
 			(hide yes)
 			(show_name no)
@@ -35272,7 +35264,7 @@
 		(instances
 			(project "arcticvideo"
 				(path "/9e9873e7-449f-4340-a6d8-702e1fa8c41f/8b2e44ed-2600-4def-8af0-a3b47c6129bc"
-					(reference "#PWR022")
+					(reference "#PWR025")
 					(unit 1)
 				)
 			)
@@ -35289,7 +35281,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "d6fedc26-0e09-40b8-b337-7a4cfb77de59")
-		(property "Reference" "C58"
+		(property "Reference" "C79"
 			(at 297.18 40.64 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -35351,7 +35343,7 @@
 		(instances
 			(project "arcticvideo"
 				(path "/9e9873e7-449f-4340-a6d8-702e1fa8c41f/8b2e44ed-2600-4def-8af0-a3b47c6129bc"
-					(reference "C58")
+					(reference "C79")
 					(unit 1)
 				)
 			)
@@ -35526,7 +35518,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "dea71635-1e96-4896-a312-e4c7270102ef")
-		(property "Reference" "C41"
+		(property "Reference" "C71"
 			(at 266.7 68.58 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -35588,7 +35580,85 @@
 		(instances
 			(project "arcticvideo"
 				(path "/9e9873e7-449f-4340-a6d8-702e1fa8c41f/8b2e44ed-2600-4def-8af0-a3b47c6129bc"
-					(reference "C41")
+					(reference "C71")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 123.19 57.15 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "def456c4-7807-4101-b174-c064159e5ce0")
+		(property "Reference" "#PWR021"
+			(at 123.19 63.5 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "GND"
+			(at 123.19 62.23 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 123.19 57.15 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 123.19 57.15 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 123.19 57.15 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "84e4246e-5330-497a-8fb9-789cfef51d74")
+		)
+		(instances
+			(project "arcticvideo"
+				(path "/9e9873e7-449f-4340-a6d8-702e1fa8c41f/8b2e44ed-2600-4def-8af0-a3b47c6129bc"
+					(reference "#PWR021")
 					(unit 1)
 				)
 			)
@@ -35605,7 +35675,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "e474bc26-5226-487b-ace6-cf330f7e12d4")
-		(property "Reference" "C31"
+		(property "Reference" "C34"
 			(at 163.83 96.52 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -35667,7 +35737,7 @@
 		(instances
 			(project "arcticvideo"
 				(path "/9e9873e7-449f-4340-a6d8-702e1fa8c41f/8b2e44ed-2600-4def-8af0-a3b47c6129bc"
-					(reference "C31")
+					(reference "C34")
 					(unit 1)
 				)
 			)
@@ -35787,7 +35857,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "e5d56fbc-5a08-4cbd-afbe-72e664a89cee")
-		(property "Reference" "C70"
+		(property "Reference" "C85"
 			(at 317.5 40.64 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -35849,7 +35919,7 @@
 		(instances
 			(project "arcticvideo"
 				(path "/9e9873e7-449f-4340-a6d8-702e1fa8c41f/8b2e44ed-2600-4def-8af0-a3b47c6129bc"
-					(reference "C70")
+					(reference "C85")
 					(unit 1)
 				)
 			)
@@ -35866,7 +35936,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "e6543f65-1e62-4e63-bd70-767cd9c755d6")
-		(property "Reference" "C57"
+		(property "Reference" "C56"
 			(at 204.47 152.4 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -35928,7 +35998,7 @@
 		(instances
 			(project "arcticvideo"
 				(path "/9e9873e7-449f-4340-a6d8-702e1fa8c41f/8b2e44ed-2600-4def-8af0-a3b47c6129bc"
-					(reference "C57")
+					(reference "C56")
 					(unit 1)
 				)
 			)
@@ -36103,7 +36173,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "e9132bd2-a4d5-4a15-9387-b28f5b8e619f")
-		(property "Reference" "C29"
+		(property "Reference" "C28"
 			(at 132.08 247.65 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -36165,7 +36235,7 @@
 		(instances
 			(project "arcticvideo"
 				(path "/9e9873e7-449f-4340-a6d8-702e1fa8c41f/8b2e44ed-2600-4def-8af0-a3b47c6129bc"
-					(reference "C29")
+					(reference "C28")
 					(unit 1)
 				)
 			)
@@ -36252,7 +36322,7 @@
 	)
 	(symbol
 		(lib_id "Device:C")
-		(at 121.92 82.55 180)
+		(at 119.38 74.93 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -36261,8 +36331,8 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "ed06c3ef-e25a-4d46-b9fa-b1f02f193b10")
-		(property "Reference" "C23"
-			(at 115.57 82.55 90)
+		(property "Reference" "C24"
+			(at 125.73 74.93 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -36272,7 +36342,7 @@
 			)
 		)
 		(property "Value" "22u"
-			(at 118.11 82.55 90)
+			(at 123.19 74.93 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -36282,7 +36352,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 120.9548 78.74 0)
+			(at 120.3452 78.74 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -36293,7 +36363,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 121.92 82.55 0)
+			(at 119.38 74.93 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -36304,7 +36374,7 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
-			(at 121.92 82.55 0)
+			(at 119.38 74.93 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -36323,7 +36393,7 @@
 		(instances
 			(project "arcticvideo"
 				(path "/9e9873e7-449f-4340-a6d8-702e1fa8c41f/8b2e44ed-2600-4def-8af0-a3b47c6129bc"
-					(reference "C23")
+					(reference "C24")
 					(unit 1)
 				)
 			)
@@ -36498,7 +36568,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "f5ba7d37-f33f-4e4b-89a7-d89ed8f77389")
-		(property "Reference" "C?"
+		(property "Reference" "C29"
 			(at 133.35 219.71 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -36560,7 +36630,7 @@
 		(instances
 			(project "arcticvideo"
 				(path "/9e9873e7-449f-4340-a6d8-702e1fa8c41f/8b2e44ed-2600-4def-8af0-a3b47c6129bc"
-					(reference "C?")
+					(reference "C29")
 					(unit 1)
 				)
 			)
@@ -36577,7 +36647,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "facfcdae-e5c4-437c-b2f3-4873b4f973cd")
-		(property "Reference" "C46"
+		(property "Reference" "C73"
 			(at 276.86 40.64 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -36639,7 +36709,85 @@
 		(instances
 			(project "arcticvideo"
 				(path "/9e9873e7-449f-4340-a6d8-702e1fa8c41f/8b2e44ed-2600-4def-8af0-a3b47c6129bc"
-					(reference "C46")
+					(reference "C73")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 109.22 24.13 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "fc263036-6f0f-4c68-9d73-156bae8ba34b")
+		(property "Reference" "#PWR017"
+			(at 109.22 30.48 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "GND"
+			(at 109.22 29.21 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 109.22 24.13 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 109.22 24.13 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 109.22 24.13 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "370fdd3e-18ac-4f44-ab23-e9f4caee816c")
+		)
+		(instances
+			(project "arcticvideo"
+				(path "/9e9873e7-449f-4340-a6d8-702e1fa8c41f/8b2e44ed-2600-4def-8af0-a3b47c6129bc"
+					(reference "#PWR017")
 					(unit 1)
 				)
 			)
