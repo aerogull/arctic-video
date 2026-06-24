@@ -10571,7 +10571,7 @@
 	)
 	(text "can move to any io pin based on need :3"
 		(exclude_from_sim no)
-		(at 114.808 204.47 0)
+		(at 140.462 196.088 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -11035,6 +11035,54 @@
 			)
 		)
 	)
+	(global_label "EXTRA_MON"
+		(shape input)
+		(at 118.11 179.07 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "9c3a8578-dbfd-46c0-9fc5-1ac081d09039")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 131.8599 179.07 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+	)
+	(global_label "DP_MON"
+		(shape input)
+		(at 118.11 166.37 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "9fe44a5b-226e-4337-b90b-501d6954fefe")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 128.7152 166.37 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+	)
 	(global_label "SPI_MOSI"
 		(shape input)
 		(at 118.11 74.93 0)
@@ -11395,6 +11443,30 @@
 			)
 		)
 	)
+	(global_label "SDI_1_MON"
+		(shape input)
+		(at 118.11 168.91 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "dbf08986-b09f-4c09-905a-0b68b274f007")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 131.4366 168.91 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+	)
 	(global_label "VCCOB33"
 		(shape input)
 		(at 406.4 46.99 90)
@@ -11528,6 +11600,30 @@
 		(uuid "efc39484-e55f-4b9d-a8e0-57518c6f98b1")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 36.83 35.3567 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+	)
+	(global_label "SDI_2_MON"
+		(shape input)
+		(at 118.11 176.53 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "f330dfee-2970-4846-9b5b-8d2030f64b97")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 131.4366 176.53 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
