@@ -11836,7 +11836,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Package_BGA:Xilinx_FGG676"
 			(at 67.31 120.65 0)
 			(hide yes)
 			(show_name no)
@@ -13637,7 +13637,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Package_BGA:Xilinx_FGG676"
 			(at 215.9 120.65 0)
 			(hide yes)
 			(show_name no)
@@ -15439,7 +15439,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Package_BGA:Xilinx_FGG676"
 			(at 365.76 120.65 0)
 			(hide yes)
 			(show_name no)

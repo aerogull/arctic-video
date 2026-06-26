@@ -13335,12 +13335,6 @@
 		(uuid "75c7fd12-a1a8-4dfe-a14e-820964cd6023")
 	)
 	(junction
-		(at 115.57 99.06)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "7633255f-76f0-472f-b60c-81656fe31d1e")
-	)
-	(junction
 		(at 200.66 156.21)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -14504,16 +14498,6 @@
 	)
 	(wire
 		(pts
-			(xy 293.37 358.14) (xy 293.37 360.68)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "065e122e-873d-433c-8a83-d7fb69d168e9")
-	)
-	(wire
-		(pts
 			(xy 405.13 152.4) (xy 407.67 152.4)
 		)
 		(stroke
@@ -15271,16 +15255,6 @@
 			(type default)
 		)
 		(uuid "259e3936-00f0-4dab-8098-914b5e11262e")
-	)
-	(wire
-		(pts
-			(xy 105.41 96.52) (xy 105.41 99.06)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "26d9c0fd-84cc-4293-81b6-e73fd316511d")
 	)
 	(wire
 		(pts
@@ -16354,16 +16328,6 @@
 	)
 	(wire
 		(pts
-			(xy 293.37 342.9) (xy 279.4 342.9)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "54f614d4-c8d7-43ab-a3a9-e455c6aab3cd")
-	)
-	(wire
-		(pts
 			(xy 36.83 143.51) (xy 36.83 148.59)
 		)
 		(stroke
@@ -16601,16 +16565,6 @@
 			(type default)
 		)
 		(uuid "61833e28-4e5c-4adf-9675-b51a22deab2e")
-	)
-	(wire
-		(pts
-			(xy 105.41 99.06) (xy 115.57 99.06)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "6185b4e7-a8e3-4dee-a49f-35e22cd45fcf")
 	)
 	(wire
 		(pts
@@ -17064,16 +17018,6 @@
 	)
 	(wire
 		(pts
-			(xy 281.94 358.14) (xy 281.94 359.41)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "74e768ff-c86d-458d-a458-f3fa3e6ade12")
-	)
-	(wire
-		(pts
 			(xy 170.18 64.77) (xy 180.34 64.77)
 		)
 		(stroke
@@ -17281,16 +17225,6 @@
 			(type default)
 		)
 		(uuid "80d989bd-341f-4751-ba60-f2a7152243ed")
-	)
-	(wire
-		(pts
-			(xy 279.4 347.98) (xy 281.94 347.98)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "80e335fd-973b-4ca4-87e3-4b5415781aef")
 	)
 	(wire
 		(pts
@@ -17994,16 +17928,6 @@
 	)
 	(wire
 		(pts
-			(xy 105.41 86.36) (xy 105.41 88.9)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "a77f07dd-4451-44b5-91c5-6734c7ff7d91")
-	)
-	(wire
-		(pts
 			(xy 105.41 198.12) (xy 127 198.12)
 		)
 		(stroke
@@ -18031,16 +17955,6 @@
 			(type default)
 		)
 		(uuid "a99ef69c-87a5-4825-a177-f208674f4faf")
-	)
-	(wire
-		(pts
-			(xy 115.57 99.06) (xy 115.57 101.6)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "a9cd7b77-1051-4892-a68d-8f7175f8a87c")
 	)
 	(wire
 		(pts
@@ -18211,16 +18125,6 @@
 			(type default)
 		)
 		(uuid "ae7f0660-55ec-4f81-a6ab-b12bcda62418")
-	)
-	(wire
-		(pts
-			(xy 123.19 99.06) (xy 115.57 99.06)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "ae80967b-c4db-4ac9-a0b6-a7c5c1dc532c")
 	)
 	(wire
 		(pts
@@ -19184,16 +19088,6 @@
 	)
 	(wire
 		(pts
-			(xy 293.37 350.52) (xy 293.37 342.9)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "dcdee3c6-653f-4c77-a2f5-daad71ebde2a")
-	)
-	(wire
-		(pts
 			(xy 220.98 148.59) (xy 231.14 148.59)
 		)
 		(stroke
@@ -19341,16 +19235,6 @@
 			(type default)
 		)
 		(uuid "e64cfa9a-1362-431c-84b2-a30138d601d6")
-	)
-	(wire
-		(pts
-			(xy 281.94 350.52) (xy 281.94 347.98)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "e6570773-bea8-4681-8b9f-ce45a0e9ed23")
 	)
 	(wire
 		(pts
@@ -20104,30 +19988,6 @@
 			)
 		)
 	)
-	(global_label "MGTAVCC"
-		(shape input)
-		(at 203.2 309.88 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "2b846277-dcc7-4116-8a79-c9456e4b3bde")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 191.8086 309.88 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-	)
 	(global_label "VCCAUX"
 		(shape input)
 		(at 354.33 25.4 180)
@@ -20176,30 +20036,6 @@
 			)
 		)
 	)
-	(global_label "MGTAVCC"
-		(shape input)
-		(at 203.2 330.2 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "498c343a-2591-4912-b9a5-e90dd859ffa3")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 191.8086 330.2 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-	)
 	(global_label "VCCOB15"
 		(shape input)
 		(at 236.22 120.65 0)
@@ -20221,30 +20057,6 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
-			)
-		)
-	)
-	(global_label "MGTAVCC"
-		(shape input)
-		(at 203.2 307.34 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "52c0cc3e-0b3e-41e0-a226-398a0fb90a47")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 191.8086 307.34 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
 			)
 		)
 	)
@@ -20368,54 +20180,6 @@
 			)
 		)
 	)
-	(global_label "MGTAVCC"
-		(shape input)
-		(at 203.2 322.58 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "68bb79ba-1bd8-4bb8-88ad-242fdb9f8c9a")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 191.8086 322.58 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-	)
-	(global_label "MGTAVCC"
-		(shape input)
-		(at 203.2 332.74 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "6a90519a-1cd6-4f5d-813a-ebbb081c1f00")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 191.8086 332.74 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-	)
 	(global_label "VCCOB16"
 		(shape input)
 		(at 236.22 148.59 0)
@@ -20429,54 +20193,6 @@
 		(uuid "6dc5540c-bec7-436b-82eb-eed0f5d593bd")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 247.8533 148.59 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-	)
-	(global_label "MGTAVTT"
-		(shape input)
-		(at 279.4 327.66 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "6e18a557-d744-4502-bd00-69ac76fce9df")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 290.1866 327.66 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-	)
-	(global_label "MGTAVTT"
-		(shape input)
-		(at 279.4 317.5 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "6f3bb69a-8659-4a7a-aff5-0b51edaa7974")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 290.1866 317.5 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -20512,30 +20228,6 @@
 			)
 		)
 	)
-	(global_label "MGTAVTT"
-		(shape input)
-		(at 279.4 307.34 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "7861d8f8-d532-4405-85de-ee096c9b424b")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 290.1866 307.34 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-	)
 	(global_label "VCCINT"
 		(shape input)
 		(at 405.13 22.86 0)
@@ -20557,30 +20249,6 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
-			)
-		)
-	)
-	(global_label "MGTAVCC"
-		(shape input)
-		(at 203.2 312.42 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "7af13fb7-bbfa-4fcb-94ed-e1e570259bad")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 191.8086 312.42 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
 			)
 		)
 	)
@@ -20656,30 +20324,6 @@
 			)
 		)
 	)
-	(global_label "MGTAVTT"
-		(shape input)
-		(at 279.4 337.82 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "88fa5280-bc9b-434d-8699-be4dcd7ef574")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 290.1866 337.82 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-	)
 	(global_label "VCCAUX"
 		(shape input)
 		(at 354.33 22.86 180)
@@ -20725,30 +20369,6 @@
 					(size 1.27 1.27)
 				)
 				(justify right)
-			)
-		)
-	)
-	(global_label "MGTAVTT"
-		(shape input)
-		(at 279.4 314.96 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "902e8466-107c-487d-938f-fb2a402a36ff")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 290.1866 314.96 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
 			)
 		)
 	)
@@ -20800,30 +20420,6 @@
 			)
 		)
 	)
-	(global_label "MGTAVCC"
-		(shape input)
-		(at 203.2 314.96 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "a3c64109-4a3c-4d37-81fa-745cd0bdcce9")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 191.8086 314.96 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-	)
 	(global_label "VCCOB0"
 		(shape input)
 		(at 107.95 215.9 0)
@@ -20837,30 +20433,6 @@
 		(uuid "a7be8dd1-2cd8-463a-aaf5-7734f294b6a3")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 118.3738 215.9 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-	)
-	(global_label "MGTAVTT"
-		(shape input)
-		(at 279.4 325.12 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "a8eddd81-68a6-461c-8490-92dda17e471d")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 290.1866 325.12 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -20920,30 +20492,6 @@
 			)
 		)
 	)
-	(global_label "MGTAVTT"
-		(shape input)
-		(at 279.4 335.28 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "b53502e5-9fdd-4d06-b9d3-d050c1bf85ce")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 290.1866 335.28 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-	)
 	(global_label "VCCBRAM"
 		(shape input)
 		(at 354.33 53.34 180)
@@ -20992,30 +20540,6 @@
 			)
 		)
 	)
-	(global_label "MGTAVTT"
-		(shape input)
-		(at 279.4 332.74 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "d0532068-545c-4191-ba7b-17548a9f29ac")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 290.1866 332.74 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-	)
 	(global_label "VCCINT"
 		(shape input)
 		(at 405.13 50.8 0)
@@ -21040,30 +20564,6 @@
 			)
 		)
 	)
-	(global_label "MGTAVCC"
-		(shape input)
-		(at 203.2 317.5 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "d586d6ad-4501-435c-bd3c-03afd64995bc")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 191.8086 317.5 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-	)
 	(global_label "VCCINT"
 		(shape input)
 		(at 405.13 43.18 0)
@@ -21077,30 +20577,6 @@
 		(uuid "d74731d2-00fc-45a5-9b3f-39350396e758")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 414.6467 43.18 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-	)
-	(global_label "MGTAVTT"
-		(shape input)
-		(at 279.4 309.88 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "d86edf55-e457-42dc-8770-e6ede29b5280")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 290.1866 309.88 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -21160,30 +20636,6 @@
 			)
 		)
 	)
-	(global_label "MGTAVTT"
-		(shape input)
-		(at 279.4 320.04 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "e0cee938-09bb-4719-91cd-250a23c6d94b")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 290.1866 320.04 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-	)
 	(global_label "VCCOB35"
 		(shape input)
 		(at 328.93 92.71 0)
@@ -21208,102 +20660,6 @@
 			)
 		)
 	)
-	(global_label "MGTAVCC"
-		(shape input)
-		(at 203.2 325.12 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "fb409e4a-c204-4ba1-a1db-0da100036221")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 191.8086 325.12 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-	)
-	(global_label "MGTAVCC"
-		(shape input)
-		(at 203.2 327.66 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "fc2e43d6-648f-4594-a2bb-382111d7c5cc")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 191.8086 327.66 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-	)
-	(global_label "MGTAVTT"
-		(shape input)
-		(at 279.4 312.42 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "fd304da8-f269-4c1d-a7ee-a283e4cadb35")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 290.1866 312.42 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-	)
-	(global_label "MGTAVTT"
-		(shape input)
-		(at 279.4 330.2 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "fe82da7d-5aba-4d3e-babe-fc60e6aa87ea")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 290.1866 330.2 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-	)
 	(symbol
 		(lib_id "power:GND")
 		(at 162.56 158.75 0)
@@ -21316,7 +20672,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "014478ba-ab90-42c7-b43b-6d090a960d85")
-		(property "Reference" "#PWR035"
+		(property "Reference" "#PWR034"
 			(at 162.56 165.1 0)
 			(hide yes)
 			(show_name no)
@@ -21376,7 +20732,7 @@
 		(instances
 			(project "arcticvideo"
 				(path "/9e9873e7-449f-4340-a6d8-702e1fa8c41f/8b2e44ed-2600-4def-8af0-a3b47c6129bc"
-					(reference "#PWR035")
+					(reference "#PWR034")
 					(unit 1)
 				)
 			)
@@ -21394,7 +20750,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "050c5e71-e657-4a56-8ed9-df23febdd3d3")
-		(property "Reference" "#PWR020"
+		(property "Reference" "#PWR019"
 			(at 121.92 232.41 0)
 			(hide yes)
 			(show_name no)
@@ -21454,7 +20810,7 @@
 		(instances
 			(project "arcticvideo"
 				(path "/9e9873e7-449f-4340-a6d8-702e1fa8c41f/8b2e44ed-2600-4def-8af0-a3b47c6129bc"
-					(reference "#PWR020")
+					(reference "#PWR019")
 					(unit 1)
 				)
 			)
@@ -21491,7 +20847,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 101.9048 215.9 0)
 			(hide yes)
 			(show_name no)
@@ -21570,7 +20926,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 179.3748 148.59 0)
 			(hide yes)
 			(show_name no)
@@ -21649,7 +21005,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 220.0148 148.59 0)
 			(hide yes)
 			(show_name no)
@@ -21698,84 +21054,6 @@
 		)
 	)
 	(symbol
-		(lib_id "power:GND")
-		(at 293.37 360.68 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "10761151-80d8-4b13-b09f-156399a01d6d")
-		(property "Reference" "#PWR043"
-			(at 293.37 367.03 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "GND"
-			(at 293.37 365.76 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 293.37 360.68 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 293.37 360.68 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 293.37 360.68 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "47924c5b-28ef-4ef0-8d27-616bf067f5c5")
-		)
-		(instances
-			(project "arcticvideo"
-				(path "/9e9873e7-449f-4340-a6d8-702e1fa8c41f/8b2e44ed-2600-4def-8af0-a3b47c6129bc"
-					(reference "#PWR043")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "power:+3V3")
 		(at 143.51 125.73 0)
 		(unit 1)
@@ -21787,7 +21065,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "13a23415-04b3-4578-82c1-e4c6b966b93d")
-		(property "Reference" "#PWR024"
+		(property "Reference" "#PWR023"
 			(at 143.51 129.54 0)
 			(hide yes)
 			(show_name no)
@@ -21847,7 +21125,7 @@
 		(instances
 			(project "arcticvideo"
 				(path "/9e9873e7-449f-4340-a6d8-702e1fa8c41f/8b2e44ed-2600-4def-8af0-a3b47c6129bc"
-					(reference "#PWR024")
+					(reference "#PWR023")
 					(unit 1)
 				)
 			)
@@ -21884,7 +21162,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 220.0148 92.71 0)
 			(hide yes)
 			(show_name no)
@@ -21963,7 +21241,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 272.0848 36.83 0)
 			(hide yes)
 			(show_name no)
@@ -22023,7 +21301,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "19064994-a44b-4906-b889-7d75ca15958f")
-		(property "Reference" "#PWR041"
+		(property "Reference" "#PWR040"
 			(at 255.27 109.22 0)
 			(hide yes)
 			(show_name no)
@@ -22083,7 +21361,7 @@
 		(instances
 			(project "arcticvideo"
 				(path "/9e9873e7-449f-4340-a6d8-702e1fa8c41f/8b2e44ed-2600-4def-8af0-a3b47c6129bc"
-					(reference "#PWR041")
+					(reference "#PWR040")
 					(unit 1)
 				)
 			)
@@ -22101,7 +21379,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "192c2f57-64a9-4ce9-b50d-099819263ccb")
-		(property "Reference" "#PWR038"
+		(property "Reference" "#PWR037"
 			(at 255.27 66.04 0)
 			(hide yes)
 			(show_name no)
@@ -22161,7 +21439,7 @@
 		(instances
 			(project "arcticvideo"
 				(path "/9e9873e7-449f-4340-a6d8-702e1fa8c41f/8b2e44ed-2600-4def-8af0-a3b47c6129bc"
-					(reference "#PWR038")
+					(reference "#PWR037")
 					(unit 1)
 				)
 			)
@@ -22198,7 +21476,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 179.3748 120.65 0)
 			(hide yes)
 			(show_name no)
@@ -22277,7 +21555,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 302.5648 92.71 0)
 			(hide yes)
 			(show_name no)
@@ -22356,7 +21634,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 209.8548 36.83 0)
 			(hide yes)
 			(show_name no)
@@ -22513,7 +21791,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 209.8548 120.65 0)
 			(hide yes)
 			(show_name no)
@@ -22593,7 +21871,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SOT_AMS1117-2.5_AMS"
+		(property "Footprint" "arcticvideo:SOT_AMS1117-2.5_AMS"
 			(at 104.14 76.2 0)
 			(hide yes)
 			(show_name no)
@@ -22680,7 +21958,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 282.2448 92.71 0)
 			(hide yes)
 			(show_name no)
@@ -22759,7 +22037,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 86.6648 243.84 0)
 			(hide yes)
 			(show_name no)
@@ -22916,7 +22194,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 66.3448 215.9 0)
 			(hide yes)
 			(show_name no)
@@ -22995,7 +22273,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 104.14 166.6748 0)
 			(hide yes)
 			(show_name no)
@@ -23074,7 +22352,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 292.4048 64.77 0)
 			(hide yes)
 			(show_name no)
@@ -23134,7 +22412,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "280ab520-8f2d-46b0-91e4-bbbbb87ce077")
-		(property "Reference" "#PWR030"
+		(property "Reference" "#PWR029"
 			(at 162.56 93.98 0)
 			(hide yes)
 			(show_name no)
@@ -23194,7 +22472,7 @@
 		(instances
 			(project "arcticvideo"
 				(path "/9e9873e7-449f-4340-a6d8-702e1fa8c41f/8b2e44ed-2600-4def-8af0-a3b47c6129bc"
-					(reference "#PWR030")
+					(reference "#PWR029")
 					(unit 1)
 				)
 			)
@@ -23231,7 +22509,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 230.1748 64.77 0)
 			(hide yes)
 			(show_name no)
@@ -23310,7 +22588,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 189.5348 120.65 0)
 			(hide yes)
 			(show_name no)
@@ -23389,7 +22667,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 199.6948 36.83 0)
 			(hide yes)
 			(show_name no)
@@ -23468,7 +22746,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 230.1748 36.83 0)
 			(hide yes)
 			(show_name no)
@@ -23547,7 +22825,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 96.8248 243.84 0)
 			(hide yes)
 			(show_name no)
@@ -23704,7 +22982,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 169.2148 148.59 0)
 			(hide yes)
 			(show_name no)
@@ -23764,7 +23042,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "386635ca-dc18-4c95-9154-75922777d7f6")
-		(property "Reference" "#PWR027"
+		(property "Reference" "#PWR026"
 			(at 162.56 53.34 0)
 			(hide yes)
 			(show_name no)
@@ -23824,7 +23102,7 @@
 		(instances
 			(project "arcticvideo"
 				(path "/9e9873e7-449f-4340-a6d8-702e1fa8c41f/8b2e44ed-2600-4def-8af0-a3b47c6129bc"
-					(reference "#PWR027")
+					(reference "#PWR026")
 					(unit 1)
 				)
 			)
@@ -23942,7 +23220,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 129.032 193.04 90)
 			(hide yes)
 			(show_name no)
@@ -24002,7 +23280,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "3ecbbb0d-967e-4342-97df-ff52ef2d88fa")
-		(property "Reference" "#PWR022"
+		(property "Reference" "#PWR021"
 			(at 127 34.29 0)
 			(hide yes)
 			(show_name no)
@@ -24062,7 +23340,7 @@
 		(instances
 			(project "arcticvideo"
 				(path "/9e9873e7-449f-4340-a6d8-702e1fa8c41f/8b2e44ed-2600-4def-8af0-a3b47c6129bc"
-					(reference "#PWR022")
+					(reference "#PWR021")
 					(unit 1)
 				)
 			)
@@ -24099,7 +23377,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 312.7248 92.71 0)
 			(hide yes)
 			(show_name no)
@@ -24256,7 +23534,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 46.0248 215.9 0)
 			(hide yes)
 			(show_name no)
@@ -24335,7 +23613,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 199.6948 64.77 0)
 			(hide yes)
 			(show_name no)
@@ -24414,7 +23692,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 189.5348 36.83 0)
 			(hide yes)
 			(show_name no)
@@ -24493,7 +23771,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 179.3748 36.83 0)
 			(hide yes)
 			(show_name no)
@@ -24650,7 +23928,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 282.2448 64.77 0)
 			(hide yes)
 			(show_name no)
@@ -24729,7 +24007,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 209.8548 92.71 0)
 			(hide yes)
 			(show_name no)
@@ -24808,7 +24086,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 261.9248 92.71 0)
 			(hide yes)
 			(show_name no)
@@ -24887,7 +24165,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 302.5648 64.77 0)
 			(hide yes)
 			(show_name no)
@@ -24966,7 +24244,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 128.5748 215.9 0)
 			(hide yes)
 			(show_name no)
@@ -25015,88 +24293,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:R")
-		(at 293.37 354.33 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "584e9303-9fab-4123-a8e2-a9c2b326e905")
-		(property "Reference" "R12"
-			(at 295.91 353.0599 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "12.1k"
-			(at 295.91 355.5999 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" ""
-			(at 291.592 354.33 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 293.37 354.33 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Resistor"
-			(at 293.37 354.33 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "e1990d56-3146-41e5-9456-84dcc3047a26")
-		)
-		(pin "2"
-			(uuid "3dbdef18-3025-4e03-8180-ee160dd8bddf")
-		)
-		(instances
-			(project "arcticvideo"
-				(path "/9e9873e7-449f-4340-a6d8-702e1fa8c41f/8b2e44ed-2600-4def-8af0-a3b47c6129bc"
-					(reference "R12")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "power:GND")
 		(at 162.56 74.93 0)
 		(unit 1)
@@ -25108,7 +24304,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "58999db3-f800-471c-bc7e-027e4a8db6f0")
-		(property "Reference" "#PWR029"
+		(property "Reference" "#PWR028"
 			(at 162.56 81.28 0)
 			(hide yes)
 			(show_name no)
@@ -25168,85 +24364,7 @@
 		(instances
 			(project "arcticvideo"
 				(path "/9e9873e7-449f-4340-a6d8-702e1fa8c41f/8b2e44ed-2600-4def-8af0-a3b47c6129bc"
-					(reference "#PWR029")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:GND")
-		(at 115.57 101.6 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "5ba27a7a-f89d-4515-9e97-eb6a978a2dde")
-		(property "Reference" "#PWR018"
-			(at 115.57 107.95 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "GND"
-			(at 115.57 106.68 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 115.57 101.6 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 115.57 101.6 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 115.57 101.6 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "6134fc37-2f61-49e3-83c0-583b72b0b1c3")
-		)
-		(instances
-			(project "arcticvideo"
-				(path "/9e9873e7-449f-4340-a6d8-702e1fa8c41f/8b2e44ed-2600-4def-8af0-a3b47c6129bc"
-					(reference "#PWR018")
+					(reference "#PWR028")
 					(unit 1)
 				)
 			)
@@ -25283,7 +24401,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 33.3248 78.74 0)
 			(hide yes)
 			(show_name no)
@@ -25363,7 +24481,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 138.43 191.008 90)
 			(hide yes)
 			(show_name no)
@@ -25412,88 +24530,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:R")
-		(at 281.94 354.33 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "5ee95da4-a4e7-41a2-a191-80d8ccd20b0f")
-		(property "Reference" "R11"
-			(at 284.48 353.0599 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "12.1k"
-			(at 284.48 355.5999 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" ""
-			(at 280.162 354.33 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 281.94 354.33 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Resistor"
-			(at 281.94 354.33 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "f9db7980-a13b-4627-9b87-00e64a04c011")
-		)
-		(pin "2"
-			(uuid "0f0430d9-d4a9-46e5-b658-077e07599ac2")
-		)
-		(instances
-			(project "arcticvideo"
-				(path "/9e9873e7-449f-4340-a6d8-702e1fa8c41f/8b2e44ed-2600-4def-8af0-a3b47c6129bc"
-					(reference "R11")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Device:C")
 		(at 143.51 147.32 0)
 		(unit 1)
@@ -25524,7 +24560,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 144.4752 151.13 0)
 			(hide yes)
 			(show_name no)
@@ -25603,7 +24639,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 189.5348 64.77 0)
 			(hide yes)
 			(show_name no)
@@ -25682,7 +24718,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 220.0148 36.83 0)
 			(hide yes)
 			(show_name no)
@@ -25761,7 +24797,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 272.0848 92.71 0)
 			(hide yes)
 			(show_name no)
@@ -25821,7 +24857,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "65812fb7-6962-4b27-ae71-bd1cb67f39b2")
-		(property "Reference" "#PWR028"
+		(property "Reference" "#PWR027"
 			(at 162.56 66.04 0)
 			(hide yes)
 			(show_name no)
@@ -25881,7 +24917,7 @@
 		(instances
 			(project "arcticvideo"
 				(path "/9e9873e7-449f-4340-a6d8-702e1fa8c41f/8b2e44ed-2600-4def-8af0-a3b47c6129bc"
-					(reference "#PWR028")
+					(reference "#PWR027")
 					(unit 1)
 				)
 			)
@@ -25918,7 +24954,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 35.8648 181.61 0)
 			(hide yes)
 			(show_name no)
@@ -25997,7 +25033,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 322.8848 64.77 0)
 			(hide yes)
 			(show_name no)
@@ -26076,7 +25112,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 230.1748 120.65 0)
 			(hide yes)
 			(show_name no)
@@ -26155,7 +25191,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 169.2148 120.65 0)
 			(hide yes)
 			(show_name no)
@@ -26215,7 +25251,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "6adf7629-2a2c-4803-95c1-f2e340f3b7f8")
-		(property "Reference" "#PWR019"
+		(property "Reference" "#PWR018"
 			(at 121.92 217.17 0)
 			(hide yes)
 			(show_name no)
@@ -26275,7 +25311,7 @@
 		(instances
 			(project "arcticvideo"
 				(path "/9e9873e7-449f-4340-a6d8-702e1fa8c41f/8b2e44ed-2600-4def-8af0-a3b47c6129bc"
-					(reference "#PWR019")
+					(reference "#PWR018")
 					(unit 1)
 				)
 			)
@@ -26371,7 +25407,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "6eff1b5b-0734-4598-b2ca-098c0ee250d5")
-		(property "Reference" "#PWR040"
+		(property "Reference" "#PWR039"
 			(at 255.27 93.98 0)
 			(hide yes)
 			(show_name no)
@@ -26431,7 +25467,7 @@
 		(instances
 			(project "arcticvideo"
 				(path "/9e9873e7-449f-4340-a6d8-702e1fa8c41f/8b2e44ed-2600-4def-8af0-a3b47c6129bc"
-					(reference "#PWR040")
+					(reference "#PWR039")
 					(unit 1)
 				)
 			)
@@ -26468,7 +25504,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 199.6948 148.59 0)
 			(hide yes)
 			(show_name no)
@@ -26548,7 +25584,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 138.43 145.288 90)
 			(hide yes)
 			(show_name no)
@@ -26627,7 +25663,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 76.5048 215.9 0)
 			(hide yes)
 			(show_name no)
@@ -26706,7 +25742,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 122.2248 29.21 0)
 			(hide yes)
 			(show_name no)
@@ -26863,7 +25899,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 261.9248 36.83 0)
 			(hide yes)
 			(show_name no)
@@ -26942,7 +25978,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 199.6948 92.71 0)
 			(hide yes)
 			(show_name no)
@@ -26991,84 +26027,6 @@
 		)
 	)
 	(symbol
-		(lib_id "power:GND")
-		(at 281.94 359.41 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "76c9160a-0efc-46d0-beac-6e78d68c9223")
-		(property "Reference" "#PWR042"
-			(at 281.94 365.76 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "GND"
-			(at 281.94 364.49 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 281.94 359.41 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 281.94 359.41 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 281.94 359.41 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "71db7c2b-9e2d-44f3-a56b-c0c2376403a1")
-		)
-		(instances
-			(project "arcticvideo"
-				(path "/9e9873e7-449f-4340-a6d8-702e1fa8c41f/8b2e44ed-2600-4def-8af0-a3b47c6129bc"
-					(reference "#PWR042")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Device:C")
 		(at 313.69 40.64 180)
 		(unit 1)
@@ -27099,7 +26057,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 312.7248 36.83 0)
 			(hide yes)
 			(show_name no)
@@ -27256,7 +26214,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 127.3048 243.84 0)
 			(hide yes)
 			(show_name no)
@@ -27316,7 +26274,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "7c71310b-7c13-4d31-8e3f-f2c787d62c89")
-		(property "Reference" "#PWR023"
+		(property "Reference" "#PWR022"
 			(at 128.27 74.93 0)
 			(hide yes)
 			(show_name no)
@@ -27376,7 +26334,7 @@
 		(instances
 			(project "arcticvideo"
 				(path "/9e9873e7-449f-4340-a6d8-702e1fa8c41f/8b2e44ed-2600-4def-8af0-a3b47c6129bc"
-					(reference "#PWR023")
+					(reference "#PWR022")
 					(unit 1)
 				)
 			)
@@ -27394,7 +26352,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "7cedf58d-f993-445e-aa40-72180ad2103a")
-		(property "Reference" "#PWR045"
+		(property "Reference" "#PWR042"
 			(at 351.79 224.79 0)
 			(hide yes)
 			(show_name no)
@@ -27454,7 +26412,7 @@
 		(instances
 			(project "arcticvideo"
 				(path "/9e9873e7-449f-4340-a6d8-702e1fa8c41f/8b2e44ed-2600-4def-8af0-a3b47c6129bc"
-					(reference "#PWR045")
+					(reference "#PWR042")
 					(unit 1)
 				)
 			)
@@ -27491,7 +26449,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 312.7248 64.77 0)
 			(hide yes)
 			(show_name no)
@@ -27573,7 +26531,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 110.998 74.93 90)
 			(hide yes)
 			(show_name no)
@@ -27633,7 +26591,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "7f3cdd47-e1af-490c-8510-f34935cf4596")
-		(property "Reference" "#PWR032"
+		(property "Reference" "#PWR031"
 			(at 162.56 121.92 0)
 			(hide yes)
 			(show_name no)
@@ -27693,7 +26651,7 @@
 		(instances
 			(project "arcticvideo"
 				(path "/9e9873e7-449f-4340-a6d8-702e1fa8c41f/8b2e44ed-2600-4def-8af0-a3b47c6129bc"
-					(reference "#PWR032")
+					(reference "#PWR031")
 					(unit 1)
 				)
 			)
@@ -27730,7 +26688,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 322.8848 92.71 0)
 			(hide yes)
 			(show_name no)
@@ -27810,7 +26768,7 @@
 				)
 			)
 		)
-		(property "Footprint" "IC8_MP2307_MNP"
+		(property "Footprint" "arcticvideo:IC8_MP2307_MNP"
 			(at 60.96 133.35 0)
 			(hide yes)
 			(show_name no)
@@ -27912,7 +26870,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 220.0148 120.65 0)
 			(hide yes)
 			(show_name no)
@@ -28070,7 +27028,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Inductor_SMD:L_0402_1005Metric"
 			(at 137.16 175.26 0)
 			(hide yes)
 			(show_name no)
@@ -28149,7 +27107,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 179.3748 92.71 0)
 			(hide yes)
 			(show_name no)
@@ -28198,1807 +27156,6 @@
 		)
 	)
 	(symbol
-		(lib_id "FPGA_Xilinx_Artix7:XC7A75T-FGG676")
-		(at 241.3 327.66 0)
-		(unit 6)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "879cdc78-2c2b-42a9-948d-50806486e702")
-		(property "Reference" "U1"
-			(at 241.3 299.72 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "XC7A75T-FGG676"
-			(at 241.3 302.26 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 241.3 327.66 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 241.3 327.66 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Artix 7 T 75 XC7A75T-FGG676"
-			(at 241.3 327.66 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "U2"
-			(uuid "2ae9c6f1-0813-4d53-99a8-6cfbe7b77d3f")
-		)
-		(pin "A7"
-			(uuid "d0f1dbbe-1a52-44f1-8ad4-d4ded2480f16")
-		)
-		(pin "U4"
-			(uuid "0c8a3641-ce6a-4d96-8e80-bfff3fccb185")
-		)
-		(pin "T7"
-			(uuid "68b76069-0304-414a-9e7b-a6f658e0ec58")
-		)
-		(pin "AC14"
-			(uuid "ba740734-01e4-4ca2-a45a-b1a6c58a4842")
-		)
-		(pin "AE11"
-			(uuid "1cc0f826-b9c6-45b1-ba31-bd1a258e4dcb")
-		)
-		(pin "U6"
-			(uuid "dca67cf6-9451-439e-8386-ec46951b2161")
-		)
-		(pin "AC12"
-			(uuid "b9996a0f-2e38-4ede-806a-dbb5be9727d2")
-		)
-		(pin "AD8"
-			(uuid "c7073ddd-ea4a-48d0-99c7-73b8db9544be")
-		)
-		(pin "AD12"
-			(uuid "5a29a49b-d365-4eed-893e-bc9f3df4d266")
-		)
-		(pin "T8"
-			(uuid "5eec0fbc-6f9a-4c46-ba0f-48baff12e8f4")
-		)
-		(pin "U5"
-			(uuid "f5244b58-7da8-4a1b-b47f-00bf987ac74f")
-		)
-		(pin "AA11"
-			(uuid "35d6de63-fccb-4f94-9d2c-9e72ee52e45a")
-		)
-		(pin "U1"
-			(uuid "ad91422d-b2da-4379-9f4d-d5b89f7eff8f")
-		)
-		(pin "AA13"
-			(uuid "74c7b549-617d-4956-a1db-bfac938f6117")
-		)
-		(pin "AC8"
-			(uuid "5293ff91-c1c9-414e-8835-677495d8bf00")
-		)
-		(pin "AD10"
-			(uuid "6529ac9b-0e63-451d-a2de-141bace81317")
-		)
-		(pin "AD14"
-			(uuid "150677e3-544c-4aa1-8a32-ac3ca6fa8905")
-		)
-		(pin "AE9"
-			(uuid "00266e6a-aac3-491e-8b3f-1065b1d17529")
-		)
-		(pin "D12"
-			(uuid "27d56ad2-ae6c-4d1b-a4f3-eedddf625e24")
-		)
-		(pin "AF11"
-			(uuid "4a1389cf-2e56-4f05-a1e9-235493215ed2")
-		)
-		(pin "A9"
-			(uuid "9c96aa17-3061-43f0-9e2e-e81593558d77")
-		)
-		(pin "A11"
-			(uuid "26e48c2d-3d19-4363-b49d-33e3b2967a09")
-		)
-		(pin "T6"
-			(uuid "defd0842-cfd0-4855-a386-ba162ebe6276")
-		)
-		(pin "A13"
-			(uuid "7e142a71-7b00-40ef-a54f-cb4f3c54a764")
-		)
-		(pin "AB11"
-			(uuid "d0b4d66a-0a0b-4299-a364-02c7d4885394")
-		)
-		(pin "AC10"
-			(uuid "5ac5446c-4bcc-4bc9-8cd8-5346b6b39a47")
-		)
-		(pin "AB13"
-			(uuid "f4e1f97a-0fe0-48b4-956f-324faae120e9")
-		)
-		(pin "AE7"
-			(uuid "24888196-79dc-471c-bc76-01ab4ab05be5")
-		)
-		(pin "AF7"
-			(uuid "23a7d648-4262-4d4d-9b2c-237688c0a917")
-		)
-		(pin "AF9"
-			(uuid "8e46ea77-f959-4c77-8f03-6391e904cb15")
-		)
-		(pin "AF13"
-			(uuid "c76d4516-13d8-4327-97fe-d340c1096691")
-		)
-		(pin "C8"
-			(uuid "539d2b03-dbb9-44d9-9502-b10544899423")
-		)
-		(pin "B13"
-			(uuid "0ca32c8a-12ee-4136-a896-70d97e5882bb")
-		)
-		(pin "C10"
-			(uuid "72a47150-c55f-476d-9550-312ae03bb0db")
-		)
-		(pin "B9"
-			(uuid "e9c14809-9ae6-4b55-b6f4-a51bed0fc99a")
-		)
-		(pin "C14"
-			(uuid "bba2fd92-6f8b-45f4-b415-a89b05cc40b5")
-		)
-		(pin "D8"
-			(uuid "3dfd8a42-ad5b-4ee4-a6d8-4280d4d0d3d9")
-		)
-		(pin "AE13"
-			(uuid "ba346b77-5b29-4451-9dcc-60ebb59f1e5c")
-		)
-		(pin "B7"
-			(uuid "d40cacba-d34d-4d3c-bcd1-32c6e5b8c7a2")
-		)
-		(pin "B11"
-			(uuid "ad872b09-c66f-4243-8d60-03e622470d64")
-		)
-		(pin "C12"
-			(uuid "0b5b6afe-04ae-4665-9901-2594f2fa8a7e")
-		)
-		(pin "D10"
-			(uuid "9041e685-02ce-4f29-be61-0c2b3d18797a")
-		)
-		(pin "D14"
-			(uuid "f179fae4-3f61-4b50-acb5-98ac152a3d7f")
-		)
-		(pin "AE10"
-			(uuid "8e4d7c5c-6cee-4667-bf57-201a210c89f6")
-		)
-		(pin "B12"
-			(uuid "e83f689d-41b1-426b-bf04-dd631d48f445")
-		)
-		(pin "A15"
-			(uuid "fd406f81-ee0d-4db2-b28c-8a408559c73b")
-		)
-		(pin "AD7"
-			(uuid "8bb4eeb0-9443-48ca-a2ea-2c616575bdfb")
-		)
-		(pin "AE8"
-			(uuid "96015321-a1c5-4db4-a7cd-a031328a1d5a")
-		)
-		(pin "F13"
-			(uuid "7c6481a3-4608-4d91-81ad-eabfa1aa5c75")
-		)
-		(pin "E11"
-			(uuid "c4324178-239a-4096-9a78-741d46fab68d")
-		)
-		(pin "AD15"
-			(uuid "c945e720-c4bf-4c1c-ac3a-40cf9cd0426d")
-		)
-		(pin "AE12"
-			(uuid "0f78a4d4-4733-4ace-9aaa-9ce7c7135cf2")
-		)
-		(pin "AE14"
-			(uuid "20bc5379-d4eb-4c98-ba1e-717af0ebe33e")
-		)
-		(pin "AC11"
-			(uuid "7af9b9de-54e3-4d55-9057-3651d3ea711f")
-		)
-		(pin "B8"
-			(uuid "92418327-7df1-4686-9289-2bffa31d9d10")
-		)
-		(pin "E13"
-			(uuid "cdcd2d1c-37d2-4798-bce3-5594a9ca8905")
-		)
-		(pin "F11"
-			(uuid "76aef760-1c1e-4d8c-a248-645ad5bdf8bf")
-		)
-		(pin "AA10"
-			(uuid "4c0404f1-a9e3-460a-bb52-ed25fcd4868b")
-		)
-		(pin "AC13"
-			(uuid "693a1a82-9da6-4e93-a4b2-71bca25b9598")
-		)
-		(pin "AA12"
-			(uuid "b61c98cd-01ff-46fe-a808-b294db1e7210")
-		)
-		(pin "AF15"
-			(uuid "baca4524-781f-46dc-886a-d03b5cabe1b8")
-		)
-		(pin "AC9"
-			(uuid "cff764bf-bd80-46fd-9713-441c57a9d5f3")
-		)
-		(pin "B10"
-			(uuid "fe2d8650-44f4-4f14-829b-004e55d4f744")
-		)
-		(pin "F12"
-			(uuid "5ba63031-78a7-4677-b765-85b6bc04884a")
-		)
-		(pin "R11"
-			(uuid "9ac9d023-aa5a-47ca-8406-fb8a540a40ea")
-		)
-		(pin "D13"
-			(uuid "3ea35ab6-313d-4dbb-9528-8fd9310ded54")
-		)
-		(pin "D9"
-			(uuid "5e70f65d-3b0b-4d86-9996-02ef8c0efe54")
-		)
-		(pin "AB7"
-			(uuid "84bfe8a7-b4e5-49a1-a27d-425f6c02dd59")
-		)
-		(pin "H12"
-			(uuid "bf76e0a6-9730-4129-9e2f-409b6e1df8a9")
-		)
-		(pin "N12"
-			(uuid "16ca7eba-4142-4e72-9392-1eb0c622625d")
-		)
-		(pin "C7"
-			(uuid "18fe502b-8582-4f39-9d26-f1371dcf3343")
-		)
-		(pin "P11"
-			(uuid "002b51de-c561-409f-8534-164fc30526b7")
-		)
-		(pin "F10"
-			(uuid "e5534623-5f61-4770-964d-5c8e00e8f4ab")
-		)
-		(pin "H11"
-			(uuid "3fe3e9fa-c945-48f7-8956-52c358903aa4")
-		)
-		(pin "AB15"
-			(uuid "f4c97689-d7be-437e-9129-5bd7a356fc92")
-		)
-		(pin "J10"
-			(uuid "b762b652-f9cb-4d3c-8cd7-9612e0ff2a75")
-		)
-		(pin "AA6"
-			(uuid "faaf2c6d-d4ad-4d9e-8859-7e1c0d000bfa")
-		)
-		(pin "V11"
-			(uuid "95c33bd1-7fe0-4931-8a8a-8faddd514c6f")
-		)
-		(pin "AA16"
-			(uuid "90e71888-60e8-4e08-870e-7b10054f5fd7")
-		)
-		(pin "A6"
-			(uuid "3f3bfbb7-2493-4d91-b5cc-81e8e6067c59")
-		)
-		(pin "C15"
-			(uuid "296665ae-12a6-4007-ba6e-2059ed4375ce")
-		)
-		(pin "H13"
-			(uuid "fe1e39d3-2b10-4eeb-b75f-e3f6aab3a80e")
-		)
-		(pin "AE16"
-			(uuid "12d16e5f-74b3-4c49-b1e0-fdffee0dce3b")
-		)
-		(pin "N11"
-			(uuid "3544d66f-f644-4f0f-b7e9-b958afd62970")
-		)
-		(pin "P12"
-			(uuid "318d5ff5-01dd-4178-aafb-5c1a68317eda")
-		)
-		(pin "D11"
-			(uuid "f138460c-fbb1-43db-a8c6-25fb29fd16f6")
-		)
-		(pin "B14"
-			(uuid "32a1b606-2aa6-42e6-b72b-9f4e2a9f7e3c")
-		)
-		(pin "H10"
-			(uuid "ef3c90a6-4dfa-424c-acc1-7fae5f592cd6")
-		)
-		(pin "R12"
-			(uuid "796e5519-983a-4b3b-900d-e7e1338e9c1c")
-		)
-		(pin "W9"
-			(uuid "ab0e587c-da91-4238-9c31-cc8bc8773a4c")
-		)
-		(pin "Y9"
-			(uuid "bc69ee49-ae05-4f18-b654-17cd623d651a")
-		)
-		(pin "W10"
-			(uuid "c2db9f0b-117f-4086-bd6a-63fb3ce87c30")
-		)
-		(pin "A8"
-			(uuid "a3ca40b6-6982-45d2-8c4c-97b0c17e7717")
-		)
-		(pin "A14"
-			(uuid "904a8267-b7df-4f0f-83b1-49fa9e7ac2f6")
-		)
-		(pin "A16"
-			(uuid "de83122a-b452-45ad-b89f-f72f92817ba5")
-		)
-		(pin "A12"
-			(uuid "202e4754-0369-4d8f-a3da-7655d0e5d4db")
-		)
-		(pin "Y14"
-			(uuid "5f2f258a-e4ad-41ed-88fb-57de8234f0fe")
-		)
-		(pin "W11"
-			(uuid "6b0d0dba-b1ac-4e8b-8ea3-5fed70d8f5e0")
-		)
-		(pin "A10"
-			(uuid "66506f15-2300-417e-aef7-d6908a02f6fd")
-		)
-		(pin "A26"
-			(uuid "2399808a-7c3e-465e-a0ed-b2a50e4fe99d")
-		)
-		(pin "AA9"
-			(uuid "a5f050c4-f9ee-49e1-a7c0-a0bceb581113")
-		)
-		(pin "AA14"
-			(uuid "a17b200c-147d-42a0-b1b8-dc7ac737c0a6")
-		)
-		(pin "AE24"
-			(uuid "c43eb0a8-4557-43b2-870b-caef1df1a5a7")
-		)
-		(pin "AB3"
-			(uuid "42e63b5a-36ca-4c9f-8a3f-91a9a279b885")
-		)
-		(pin "AB23"
-			(uuid "5a0f92e6-d29f-49bd-88b8-47e294e70f72")
-		)
-		(pin "AD6"
-			(uuid "7c1ffedb-1ca6-4632-a19a-c45ad6aee912")
-		)
-		(pin "AA26"
-			(uuid "3760de43-eed7-4eb4-ac12-4b416cb597ef")
-		)
-		(pin "AE4"
-			(uuid "ccc6270f-4ba1-4461-a0f8-88d7dc5abaa1")
-		)
-		(pin "AE6"
-			(uuid "93f7d5cb-a14e-4413-ad69-f27c5050b7a4")
-		)
-		(pin "AE15"
-			(uuid "44adec2a-65ef-4959-840b-274d75fd5d7e")
-		)
-		(pin "AC15"
-			(uuid "de4c05c2-1e79-4275-b296-0b35ee6b822b")
-		)
-		(pin "AF6"
-			(uuid "b7b02a48-9874-48b5-b547-f50a6575e964")
-		)
-		(pin "AB12"
-			(uuid "323ab1e6-621b-4dbe-814e-f7e035272074")
-		)
-		(pin "AF8"
-			(uuid "fb9e3bac-de56-46f2-8ba6-6210fe3e8788")
-		)
-		(pin "AF10"
-			(uuid "ccbb3a65-41b7-4433-9350-52eb746b1adc")
-		)
-		(pin "AD11"
-			(uuid "b46672bb-d3b8-4f5c-860d-42b65fa4cf92")
-		)
-		(pin "AB14"
-			(uuid "26e70c32-411b-4d65-98ed-6a274c412e9e")
-		)
-		(pin "AF12"
-			(uuid "8b238d32-8938-4902-bcbc-3fdc62257231")
-		)
-		(pin "AC7"
-			(uuid "bcd0ac9c-55c5-40d8-83de-665704f152c7")
-		)
-		(pin "AB9"
-			(uuid "ca45ffea-8e76-4861-b1e8-725ef9d941de")
-		)
-		(pin "AB10"
-			(uuid "0990b6f3-0f91-4ea9-b6f0-8185b86fa6c0")
-		)
-		(pin "AB8"
-			(uuid "3f39a3c6-c91f-4dc9-abed-fa4723a46009")
-		)
-		(pin "AD16"
-			(uuid "fd6c2606-d39d-440b-a969-206da76fb977")
-		)
-		(pin "AC20"
-			(uuid "f73ac59e-3cec-494f-bd0c-730e8a867312")
-		)
-		(pin "AD9"
-			(uuid "4b0a7cd1-247e-4fe6-ae71-3eb2ab6829af")
-		)
-		(pin "AD13"
-			(uuid "d477cba1-b9f5-4b59-a4e3-fae946712dd4")
-		)
-		(pin "AF1"
-			(uuid "a1ce1ad4-4803-4b37-9be9-8fa766c3ea9f")
-		)
-		(pin "E9"
-			(uuid "7f761fa2-004d-42e1-82d5-1597dc65446e")
-		)
-		(pin "C20"
-			(uuid "f4e3c8d3-bbe2-425d-88a6-e43a26323842")
-		)
-		(pin "E8"
-			(uuid "9c799045-f371-4d73-9504-40493de76a72")
-		)
-		(pin "AF16"
-			(uuid "376c3977-d314-4153-967e-0dd2488007cb")
-		)
-		(pin "B6"
-			(uuid "4747cbd9-6094-4d9f-a2b9-b09a97bb18a9")
-		)
-		(pin "C9"
-			(uuid "31f7683b-553b-4c30-be62-72b668021fe2")
-		)
-		(pin "B3"
-			(uuid "d9a33b0d-1bed-4186-9827-a04f5f721158")
-		)
-		(pin "C6"
-			(uuid "84efdd3a-bf80-4058-acf0-d6c3cb481db9")
-		)
-		(pin "C16"
-			(uuid "6d85b87f-e31f-4d5d-bf5b-5125142ec47b")
-		)
-		(pin "G12"
-			(uuid "942c04f2-9d0c-4039-9dfe-06e7833c8083")
-		)
-		(pin "E4"
-			(uuid "a57d7b3c-2071-413d-abfd-d767e55b1a20")
-		)
-		(pin "G10"
-			(uuid "83ca54c9-beee-48d9-a781-18201b68e05f")
-		)
-		(pin "B16"
-			(uuid "73e5080d-ade4-4536-8c63-9838914ac067")
-		)
-		(pin "C13"
-			(uuid "c43ee550-a7e8-4f8c-a401-87e600b0dff6")
-		)
-		(pin "E7"
-			(uuid "4a127e86-d819-4092-bf4c-e1abe2f13cf0")
-		)
-		(pin "E14"
-			(uuid "0f791b69-3bea-4b33-8f3f-a68573b86043")
-		)
-		(pin "AF21"
-			(uuid "ff2d21d1-77f6-40f6-ae56-53d2be31dba5")
-		)
-		(pin "B23"
-			(uuid "5b564b2d-3078-46c8-a41f-836253675e39")
-		)
-		(pin "AF14"
-			(uuid "ccbf9faa-ef97-41cb-9a71-1774625eab63")
-		)
-		(pin "B15"
-			(uuid "404e8f65-dbbb-4e24-9ed3-dcdbffb9bc16")
-		)
-		(pin "C11"
-			(uuid "3750007a-abb5-40b0-8e0b-30f706f1bdab")
-		)
-		(pin "D7"
-			(uuid "85b0707a-ab01-48b4-82c5-5c6cf1e65f82")
-		)
-		(pin "D15"
-			(uuid "2feef7a8-8aed-45fe-8547-b3b95be902f8")
-		)
-		(pin "D17"
-			(uuid "5effa156-a81b-4afd-8375-ed055b7defa8")
-		)
-		(pin "E10"
-			(uuid "b021fa20-4ce7-4dd0-a437-27f30247ba47")
-		)
-		(pin "E24"
-			(uuid "cea9dc11-cd71-448d-9144-cae08e4a72c0")
-		)
-		(pin "F9"
-			(uuid "086bdba0-193d-4584-ba2f-225ef722208e")
-		)
-		(pin "F14"
-			(uuid "2651c3cd-8107-40e9-9e85-857a0a5a6845")
-		)
-		(pin "F21"
-			(uuid "7fdeb76b-5683-40ec-b0f3-6e7bb57a16de")
-		)
-		(pin "G11"
-			(uuid "8dc4a8db-dce2-4daa-84b0-602a4da6716a")
-		)
-		(pin "E12"
-			(uuid "1c154455-6c9e-4a8f-aff6-a7a25e53bec5")
-		)
-		(pin "E15"
-			(uuid "0ddacb16-8154-45e6-b35f-d6094808d2e7")
-		)
-		(pin "F1"
-			(uuid "d53d6e27-b107-45ed-8c7c-692770299202")
-		)
-		(pin "G13"
-			(uuid "06de22ab-7c02-45f1-8959-dede04f8499b")
-		)
-		(pin "K13"
-			(uuid "92f68f81-0e9f-4de1-9510-b2fd72872639")
-		)
-		(pin "J9"
-			(uuid "60f66e79-38b3-4b50-98c8-982c363fef8b")
-		)
-		(pin "J11"
-			(uuid "53ea885f-c662-4ec2-9bdb-df6356680ccc")
-		)
-		(pin "J12"
-			(uuid "a4558efa-da4e-4a0c-a45e-496a3980e013")
-		)
-		(pin "J2"
-			(uuid "3d87eaa3-9c2e-46c0-a500-e8fdaaccbffa")
-		)
-		(pin "J13"
-			(uuid "867b3531-bb3c-4204-b7db-a38018cbbfd7")
-		)
-		(pin "K9"
-			(uuid "f973cc85-ad40-47ea-8845-b5cd82f70414")
-		)
-		(pin "M3"
-			(uuid "9c7d73bb-e287-4f6c-8ca8-8cc92d6bd8cc")
-		)
-		(pin "G18"
-			(uuid "604e9d29-af78-4648-8e0d-7d5dbe00751e")
-		)
-		(pin "L10"
-			(uuid "749d258d-c6d5-404a-85cf-1e4d22f29fdb")
-		)
-		(pin "M10"
-			(uuid "550ba2f8-facf-4c14-a211-b6dbbc0fe4f7")
-		)
-		(pin "L16"
-			(uuid "a15f2c7a-e545-4e0e-8e10-00711fd3dd88")
-		)
-		(pin "K10"
-			(uuid "3514da95-072b-4ca2-ba14-08cd51d0ba5e")
-		)
-		(pin "L9"
-			(uuid "1c9acd9d-950f-42d8-8ba2-606eb9bdcf9c")
-		)
-		(pin "L26"
-			(uuid "211813f2-1907-4d29-8357-63253f69c709")
-		)
-		(pin "M9"
-			(uuid "9f45b156-3e8a-45e5-9ba3-0e81d29e53d3")
-		)
-		(pin "M13"
-			(uuid "ba6e8221-c74b-4451-873f-824f33c40fe9")
-		)
-		(pin "L13"
-			(uuid "2a0f5100-fa1d-4151-83ad-8cdecf90a387")
-		)
-		(pin "K12"
-			(uuid "9b3dfcbf-06cd-4211-9a9d-65b39da68203")
-		)
-		(pin "H5"
-			(uuid "c89197b4-d280-4d63-aac0-57c71280abd2")
-		)
-		(pin "G14"
-			(uuid "c46d02b5-c5c1-41f3-9924-4088b2dec5b8")
-		)
-		(pin "H25"
-			(uuid "36f81c70-6d0a-4ab0-8163-f7c9f5554166")
-		)
-		(pin "J22"
-			(uuid "9ab74b16-6c82-4f92-a853-e8d9fbb50685")
-		)
-		(pin "K11"
-			(uuid "228b68aa-54d7-4f3a-84c2-e019d6b6aa45")
-		)
-		(pin "K19"
-			(uuid "3f0c0a1c-387e-48c0-8527-a6536adbe548")
-		)
-		(pin "L6"
-			(uuid "cffb118f-2a39-4cd4-9e67-f0ef9320bd3a")
-		)
-		(pin "L12"
-			(uuid "c4c307e3-d761-4e4f-aab1-cd2dd35a94ab")
-		)
-		(pin "M11"
-			(uuid "7b34f57a-13ed-4d3e-bf5a-a3033cf2a67c")
-		)
-		(pin "L11"
-			(uuid "f366993e-d514-4b9d-b68d-5b95d6795484")
-		)
-		(pin "M12"
-			(uuid "d9b13fb7-7416-48ec-9067-b5dfffe01d5a")
-		)
-		(pin "N20"
-			(uuid "ffb758ca-45a5-4fe5-8062-9805ea4fbdcc")
-		)
-		(pin "N10"
-			(uuid "8e01c777-31e6-40c0-9cf9-a549abe33bfc")
-		)
-		(pin "R10"
-			(uuid "8f855b00-db88-4714-ae7b-513f74ade799")
-		)
-		(pin "R13"
-			(uuid "2e0a9cd1-da52-45be-925e-4b16a56f0031")
-		)
-		(pin "T13"
-			(uuid "c55cf4b9-036d-42a5-8ad6-e4bb75101654")
-		)
-		(pin "U13"
-			(uuid "42c30a36-a11a-4953-854e-31ec0ec9397a")
-		)
-		(pin "T1"
-			(uuid "0f30ac97-f88d-4962-a8de-1c3560c26d55")
-		)
-		(pin "T11"
-			(uuid "c801fff8-1fdd-4087-9be6-4943641b8173")
-		)
-		(pin "U9"
-			(uuid "ccaa042d-14c1-4c5f-af65-e395edd6380f")
-		)
-		(pin "N13"
-			(uuid "bc3d6523-1fc4-4645-bbb3-3dc953f84165")
-		)
-		(pin "P17"
-			(uuid "7497bc1b-72e3-4ed2-b2b3-ed695654b974")
-		)
-		(pin "R24"
-			(uuid "8573a434-68e4-4b05-a030-7ed5a99efe73")
-		)
-		(pin "T21"
-			(uuid "daff485c-0834-4170-8d63-9ad882f6efed")
-		)
-		(pin "U10"
-			(uuid "ce1bedf4-93b8-4619-83d1-46b0c6f7f0bf")
-		)
-		(pin "U11"
-			(uuid "06d864ff-91b4-4d10-aade-66712ff3a14c")
-		)
-		(pin "P7"
-			(uuid "a1d71c0f-65d5-410f-86d9-d69302943f15")
-		)
-		(pin "U12"
-			(uuid "caf1cd2c-2a7a-4421-8a80-6d50fe6feb6a")
-		)
-		(pin "V25"
-			(uuid "1d676f55-7805-424e-a701-f06045a00d5b")
-		)
-		(pin "T9"
-			(uuid "c9c97602-333d-4939-b907-f23eff4945c3")
-		)
-		(pin "P13"
-			(uuid "330f8cb2-cd72-4315-b39b-b25bd0a49649")
-		)
-		(pin "P9"
-			(uuid "a5f5f7fb-a87f-4ffe-a60f-69933a3d3449")
-		)
-		(pin "N9"
-			(uuid "6299ca2c-3cce-4a01-8329-9a16da757dce")
-		)
-		(pin "M23"
-			(uuid "f1616f0f-7073-4dde-82c4-d44d725feceb")
-		)
-		(pin "P10"
-			(uuid "cef2b21e-8b36-4476-bc96-b587f479b3f8")
-		)
-		(pin "R4"
-			(uuid "8e8fb4a5-228a-4b35-a320-656fea56deae")
-		)
-		(pin "R9"
-			(uuid "e27f0051-c55e-4843-84af-219691366301")
-		)
-		(pin "T12"
-			(uuid "0c21bb84-3539-4282-9faa-fef5cfc92d74")
-		)
-		(pin "T10"
-			(uuid "295cdefc-f170-46cc-abec-c6dcf30e2f02")
-		)
-		(pin "U8"
-			(uuid "acc0b8a5-90df-4798-ac1b-2c402e36869f")
-		)
-		(pin "V5"
-			(uuid "21c8ce3e-248a-414b-b05d-1dbfb355a4eb")
-		)
-		(pin "V13"
-			(uuid "36584e1e-482f-40b9-a2c1-7b5b6338ad1e")
-		)
-		(pin "V15"
-			(uuid "885542f5-0e73-4597-9406-f2e171e43341")
-		)
-		(pin "Y10"
-			(uuid "1f72d312-71fa-4ce2-b94b-0d6d58fa60cf")
-		)
-		(pin "U18"
-			(uuid "512b0616-d70d-46b8-9a79-63049fd54b86")
-		)
-		(pin "V12"
-			(uuid "175ea931-c23c-4ba5-b334-9c4fe5a8d42d")
-		)
-		(pin "V10"
-			(uuid "107f1041-a578-4569-a79b-ac2e57e6a599")
-		)
-		(pin "W13"
-			(uuid "ca0b5e6e-47be-45c7-9d18-517731b5b5d1")
-		)
-		(pin "Y19"
-			(uuid "5e8867d4-e3be-498f-b3ac-885938c243b2")
-		)
-		(pin "W12"
-			(uuid "5349896b-09c0-43fd-a42c-b8076b16f36a")
-		)
-		(pin "W2"
-			(uuid "d298edec-0892-4eab-ab16-4ee3f2984268")
-		)
-		(pin "Y11"
-			(uuid "7bedac18-eb99-4307-9522-0dd1df748919")
-		)
-		(pin "Y13"
-			(uuid "433d1642-fa4a-4bf9-af14-bed262e8f05d")
-		)
-		(pin "Y12"
-			(uuid "a7ba9d0f-5e10-492f-aab6-aee30d9b54bf")
-		)
-		(pin "W22"
-			(uuid "4d2249c0-af51-4665-a6a9-d92e315a9b6d")
-		)
-		(pin "R18"
-			(uuid "f5945be8-3e82-464c-9b75-a65558f8b00b")
-		)
-		(pin "N24"
-			(uuid "fce13c4d-1cb8-42c2-bd0e-871d98db92ac")
-		)
-		(pin "N23"
-			(uuid "844f33ae-016d-4731-8fea-df1947d8bafa")
-		)
-		(pin "P23"
-			(uuid "63c63628-dfae-455a-a280-bf516a6fca07")
-		)
-		(pin "P18"
-			(uuid "5b22df7e-33ce-4d53-886d-d96194979ac5")
-		)
-		(pin "P21"
-			(uuid "a528c20a-5a92-4ec7-9810-433d02c6a824")
-		)
-		(pin "N21"
-			(uuid "4cb5da6e-787e-41ab-9f98-067a9f6eae8e")
-		)
-		(pin "P15"
-			(uuid "f965578b-9d80-4dcd-9281-7f6940759e09")
-		)
-		(pin "P19"
-			(uuid "a601af05-1d8f-49ea-b709-84913c4fbe24")
-		)
-		(pin "P22"
-			(uuid "e8c817d1-068f-49cb-ad9b-62ffcbad6b5f")
-		)
-		(pin "P16"
-			(uuid "89c79259-0536-4430-8e32-c526d30f952a")
-		)
-		(pin "N26"
-			(uuid "2ac27de4-b061-44da-be93-002ad0085344")
-		)
-		(pin "P20"
-			(uuid "5ff73895-aef8-45ee-b98e-438b75a514fd")
-		)
-		(pin "P24"
-			(uuid "74513988-a8ff-4b93-ad9f-996e6367923a")
-		)
-		(pin "R14"
-			(uuid "c41b7ccb-5e6c-4f11-be75-145ab7712bc5")
-		)
-		(pin "R15"
-			(uuid "60a7e559-3e81-4b7b-b5b7-5e333534b6bb")
-		)
-		(pin "N19"
-			(uuid "11ec2930-de57-4799-856d-cb3975919942")
-		)
-		(pin "P25"
-			(uuid "b48e7792-693b-4083-a75b-215b15eaa361")
-		)
-		(pin "P14"
-			(uuid "ecb186e1-0176-47bb-be35-628e5fdd963d")
-		)
-		(pin "P26"
-			(uuid "9f925d52-e627-4433-9cb6-7189a7d962b8")
-		)
-		(pin "R16"
-			(uuid "64712a61-c5b4-4984-a480-6aba3568a7c1")
-		)
-		(pin "N22"
-			(uuid "92e0e702-4469-40bf-8876-f392ccf0d093")
-		)
-		(pin "N25"
-			(uuid "70ab8b62-35ec-4a7f-8b02-e913b67d432c")
-		)
-		(pin "R17"
-			(uuid "bf21f07b-94af-4d8e-9992-6c29286aaf22")
-		)
-		(pin "R20"
-			(uuid "581f0512-b730-480e-b2a0-09fde62b63c2")
-		)
-		(pin "A19"
-			(uuid "27f184a1-0650-4251-b14f-0f6a084ff0f7")
-		)
-		(pin "A24"
-			(uuid "101bdca6-7a8e-4287-a52d-a7e675cd2b8b")
-		)
-		(pin "AD2"
-			(uuid "ee14c770-4169-465e-95f7-7f1401b2b1c3")
-		)
-		(pin "B20"
-			(uuid "19ce0502-64cc-48df-bb4c-9977b392c118")
-		)
-		(pin "B22"
-			(uuid "12880348-9f80-486e-b5b7-3f0f00afc318")
-		)
-		(pin "AC5"
-			(uuid "7d6647f6-817b-47eb-ad53-6bb1377f33f6")
-		)
-		(pin "R21"
-			(uuid "24e3f7be-a59d-41d1-bc12-556bcb4d14c9")
-		)
-		(pin "A17"
-			(uuid "5a3e7966-6345-402a-9fc0-32810deb4d45")
-		)
-		(pin "A18"
-			(uuid "d3efb1b7-af6d-4097-a531-33b97c265ace")
-		)
-		(pin "A22"
-			(uuid "0f2e54c3-1b7b-4fc8-b033-4eedcfd1b55d")
-		)
-		(pin "B17"
-			(uuid "56571cbd-b505-414f-939a-a86232cb9109")
-		)
-		(pin "A25"
-			(uuid "459b6d6e-8097-4956-bda0-4d79b7543e6e")
-		)
-		(pin "B19"
-			(uuid "d236b4c4-9d9e-4f08-b277-30a28957dbdb")
-		)
-		(pin "T22"
-			(uuid "57f19f0a-c726-4856-9167-1d214506b0e1")
-		)
-		(pin "R26"
-			(uuid "7ac8e925-0188-43f9-ac83-000d4370b913")
-		)
-		(pin "R25"
-			(uuid "93a93bd1-b7cd-4cc3-a921-b2d50cb5f0ce")
-		)
-		(pin "R22"
-			(uuid "533c0450-489b-41f6-b1b6-fc65698ee774")
-		)
-		(pin "T23"
-			(uuid "71a9f67a-42f6-4829-bf0f-603e83d455d7")
-		)
-		(pin "T24"
-			(uuid "3b04d10c-7afd-4b2d-9c60-e60ee3a76340")
-		)
-		(pin "T25"
-			(uuid "2c3335fb-c03e-46eb-a3ed-7020b9646220")
-		)
-		(pin "A20"
-			(uuid "30e7d15a-ecf9-4f68-a1f3-63da2f3e970f")
-		)
-		(pin "R19"
-			(uuid "7c921f72-d775-4096-90a0-cb489f90e08e")
-		)
-		(pin "R23"
-			(uuid "d8808dee-5116-40a0-b5fa-ac3b46dbb99d")
-		)
-		(pin "A21"
-			(uuid "011ad469-b271-4722-972f-1bd340e95c19")
-		)
-		(pin "A23"
-			(uuid "0070eb23-1ab8-4a00-8248-0e979b9981b2")
-		)
-		(pin "AA1"
-			(uuid "718efff6-fd55-4ec1-90c7-ad74458b21f1")
-		)
-		(pin "B18"
-			(uuid "9b94d16d-0c6d-46d4-afd1-f011124d85ec")
-		)
-		(pin "B21"
-			(uuid "c7ed7a71-ce15-4514-ba9e-c202b7e24ab7")
-		)
-		(pin "B24"
-			(uuid "3f025211-feae-41cb-bd33-fa415eee4e58")
-		)
-		(pin "B25"
-			(uuid "63b189ad-c2d5-4d19-b2ab-231c7e0a9fbd")
-		)
-		(pin "C17"
-			(uuid "92404456-f7fb-49c4-8ee6-645785bf48d4")
-		)
-		(pin "C18"
-			(uuid "3f09b1f3-ebf2-4e93-9fae-cfef565ddb2e")
-		)
-		(pin "C19"
-			(uuid "965c6823-788d-47fa-8fdc-2a437f8f6274")
-		)
-		(pin "B26"
-			(uuid "64f72e32-3b1f-4692-9685-6f12b8c049e0")
-		)
-		(pin "C21"
-			(uuid "1d247554-f005-46c2-94b9-30e0fd55094e")
-		)
-		(pin "C23"
-			(uuid "c60ad82c-fe2e-4e07-a219-2a9830908a97")
-		)
-		(pin "C22"
-			(uuid "eda9ea9a-de31-4e32-a50b-3298c7a6c754")
-		)
-		(pin "C24"
-			(uuid "f4fa0d7b-37b4-42e4-9907-3a8b85af4857")
-		)
-		(pin "C25"
-			(uuid "c2a6d875-869a-4ee8-b409-5461f1683fee")
-		)
-		(pin "F18"
-			(uuid "70b5d6ca-7c10-4259-9f15-562d05391789")
-		)
-		(pin "G16"
-			(uuid "0b702e72-4503-4326-b136-82169ebe3f94")
-		)
-		(pin "D19"
-			(uuid "ae3e8dd4-b332-4656-bce9-811775ff02e2")
-		)
-		(pin "D16"
-			(uuid "8c5bba27-09f7-4c8d-8bad-72dd402c9da2")
-		)
-		(pin "D21"
-			(uuid "19a5e889-8985-481f-b978-00043c66a148")
-		)
-		(pin "D22"
-			(uuid "70dedf3d-7ffc-42eb-9fa7-554bf2582161")
-		)
-		(pin "D24"
-			(uuid "59fedec6-0fa4-4526-9992-e8c5b8d863e5")
-		)
-		(pin "E16"
-			(uuid "b55cc669-b6d7-46c8-9276-5b406a36f49d")
-		)
-		(pin "F19"
-			(uuid "2cceab53-837e-4ee5-b0c7-5d6977dec193")
-		)
-		(pin "D20"
-			(uuid "9cac6a24-1153-4c5a-a74d-d101a985585b")
-		)
-		(pin "E21"
-			(uuid "65b06993-6565-4e23-9566-79f1a4e62d7b")
-		)
-		(pin "F15"
-			(uuid "a5d38b46-8c81-479c-9dbf-3c723f82dd5e")
-		)
-		(pin "F20"
-			(uuid "3a98d5bb-70ab-4445-b47f-68dd94d500a4")
-		)
-		(pin "H15"
-			(uuid "f25e114f-cd15-4259-92be-99b15aec5cf4")
-		)
-		(pin "D23"
-			(uuid "69ba2d6b-ed71-4c23-ae39-1c948316391d")
-		)
-		(pin "F17"
-			(uuid "702177a4-669a-461b-bf3e-1ff409d3118a")
-		)
-		(pin "E18"
-			(uuid "8325312f-e4bb-4266-bd36-51d4c5bbcafa")
-		)
-		(pin "C26"
-			(uuid "61747e91-e391-4191-9b2f-1fee4b05d7ac")
-		)
-		(pin "E20"
-			(uuid "e31c9abc-deef-47d2-8c49-954ef78512eb")
-		)
-		(pin "E19"
-			(uuid "b2eb4029-d62a-460b-8408-77e32cdc8acc")
-		)
-		(pin "E17"
-			(uuid "814e9cb0-7a81-4e3b-abdd-b01fbbaa81c1")
-		)
-		(pin "F16"
-			(uuid "a29db3f3-9224-473e-812b-aee3be923d3a")
-		)
-		(pin "D18"
-			(uuid "bbbe408e-7cfa-4413-91a5-aa06e0a3a54c")
-		)
-		(pin "E22"
-			(uuid "89f57eea-6fc6-4dc5-a27d-ac2342ef79a8")
-		)
-		(pin "G15"
-			(uuid "39e9fe86-36b8-4648-9c24-4e88dc20c7af")
-		)
-		(pin "G17"
-			(uuid "33b11897-e741-4880-a401-f89b1f87a94e")
-		)
-		(pin "G19"
-			(uuid "2da81a93-49a2-43d1-b5c2-38f238cff18e")
-		)
-		(pin "H14"
-			(uuid "09b59479-00ab-4c61-b83a-e33fb7ec4798")
-		)
-		(pin "D1"
-			(uuid "23a7a770-9acc-4273-a8f8-726501d12be7")
-		)
-		(pin "C2"
-			(uuid "84aab748-a452-41fb-9a14-fffa3c71897a")
-		)
-		(pin "D5"
-			(uuid "7e0c0f95-ac08-4863-9479-539ba9b39dc9")
-		)
-		(pin "B5"
-			(uuid "4898b9bf-0549-4bfb-8132-92d0804a4942")
-		)
-		(pin "A4"
-			(uuid "5f4c1694-52e7-48e5-a88c-8972e1e8b092")
-		)
-		(pin "E5"
-			(uuid "9baf44af-af1d-4931-9f5d-b23e9bd4b6b9")
-		)
-		(pin "C4"
-			(uuid "71ee213f-265e-49af-b38f-49aa756e994e")
-		)
-		(pin "B4"
-			(uuid "a0116637-9a8a-4369-b4b5-e2c2d8efb1b6")
-		)
-		(pin "D2"
-			(uuid "a90f2763-0d2f-4306-ac33-80fe062d62ca")
-		)
-		(pin "W7"
-			(uuid "a4e3261f-4f84-4907-bb55-3c6a141b6efa")
-		)
-		(pin "Y4"
-			(uuid "445fc4ad-89e7-4347-8c3d-3ab6000faa2b")
-		)
-		(pin "E1"
-			(uuid "d6789819-fbbe-4af0-8bcb-5cc891a69f46")
-		)
-		(pin "B1"
-			(uuid "15d2cebb-f856-4b05-a053-71735718fc93")
-		)
-		(pin "A2"
-			(uuid "ece58387-76ab-4168-a01a-837af813710f")
-		)
-		(pin "U3"
-			(uuid "7d4c070a-c2e5-43f4-99f1-0a06ce671563")
-		)
-		(pin "A1"
-			(uuid "038a3846-abed-4746-a1ce-efd9912bf1e2")
-		)
-		(pin "A3"
-			(uuid "6fb4be00-79c1-4fe2-ac6a-12a688acecb2")
-		)
-		(pin "H16"
-			(uuid "e82ed1fc-1420-449a-80c1-be7745d8117f")
-		)
-		(pin "H17"
-			(uuid "028cda55-ecda-4d96-abd5-1e445a96664a")
-		)
-		(pin "B2"
-			(uuid "c56859b4-57c8-4b93-8ef3-adc4637d504a")
-		)
-		(pin "C1"
-			(uuid "6c18a964-98b3-41a1-92f3-ba0c23581a2d")
-		)
-		(pin "A5"
-			(uuid "96723dda-9ace-45d9-8b6e-c2299c2856bc")
-		)
-		(pin "C3"
-			(uuid "e20aa309-614b-4647-85de-b5f777f3f29f")
-		)
-		(pin "C5"
-			(uuid "281cb0d6-9bac-4fd6-a497-f01ef421a316")
-		)
-		(pin "D3"
-			(uuid "efc6d1f4-a6e9-4c63-a40b-8e4d856857f8")
-		)
-		(pin "D4"
-			(uuid "7889f066-8cd7-4209-9be6-0134c81c92d4")
-		)
-		(pin "D6"
-			(uuid "3ba99e29-45c8-4a82-ae02-15daeb1e9de3")
-		)
-		(pin "E2"
-			(uuid "eccf08b1-fc1b-4901-9584-2624e69c53db")
-		)
-		(pin "E3"
-			(uuid "9bc5b54e-b252-478f-b39c-5461a87f7d6e")
-		)
-		(pin "E6"
-			(uuid "a3f3776f-29b9-45aa-b6bf-dfd3e252bcc9")
-		)
-		(pin "F2"
-			(uuid "f6cfd28b-ca69-49af-9ebc-ea2a243cfc87")
-		)
-		(pin "F3"
-			(uuid "7b96d32d-bbb0-43cf-b469-8fbc0ffa03e5")
-		)
-		(pin "F4"
-			(uuid "cc7e9aea-1312-407c-a484-fceb99de240a")
-		)
-		(pin "F5"
-			(uuid "f7c1cc85-a780-4ada-8220-2fd1c831a74e")
-		)
-		(pin "F6"
-			(uuid "0cd6f6c0-91c4-4af2-914d-8725d5ab215e")
-		)
-		(pin "F7"
-			(uuid "1495070f-6f9e-457e-bb82-d23d57adbe2a")
-		)
-		(pin "H3"
-			(uuid "9d3d9b32-b8b5-41b7-9f32-8f76b8865286")
-		)
-		(pin "H7"
-			(uuid "5176c70b-1a45-4497-aff3-8999d5b7e68f")
-		)
-		(pin "J6"
-			(uuid "4e89e9b0-33a1-4c71-8063-a1175f0784cd")
-		)
-		(pin "G8"
-			(uuid "42450d2c-9156-47be-ad8f-63849876ce14")
-		)
-		(pin "J1"
-			(uuid "c4e0474f-6d6a-4745-b5f8-181ecc1d8b8d")
-		)
-		(pin "K1"
-			(uuid "ff1ce124-539d-493d-b97c-3f48501fe9fa")
-		)
-		(pin "G5"
-			(uuid "e8bae03f-a865-4952-8366-0d41b2b784d4")
-		)
-		(pin "G7"
-			(uuid "54d3428c-33aa-4ae6-bc3e-53b4a74aed25")
-		)
-		(pin "H4"
-			(uuid "72c7f940-7ddf-4374-b36f-66002a68d36c")
-		)
-		(pin "H6"
-			(uuid "79732e3a-591b-4d25-8bca-444755cceb53")
-		)
-		(pin "H9"
-			(uuid "51ed3375-52c6-4f51-8028-5721ac87bf54")
-		)
-		(pin "K6"
-			(uuid "0eb17dca-669e-4f23-83d7-149bb4f2de5c")
-		)
-		(pin "G9"
-			(uuid "3aa377fe-0488-4dc5-83a8-a87960623f1e")
-		)
-		(pin "H1"
-			(uuid "81a8c728-6eb2-4ca7-9932-9a7955e5278a")
-		)
-		(pin "L5"
-			(uuid "1bb04d2f-7165-4115-8373-59003a7fd0dc")
-		)
-		(pin "G6"
-			(uuid "a5405616-3977-4ec4-9fa1-064dd69870c4")
-		)
-		(pin "J4"
-			(uuid "078cf2af-89d0-4605-8224-5cc03eec431f")
-		)
-		(pin "J3"
-			(uuid "21f76df1-c5a9-4d0d-b9e9-4be5d5fe5eac")
-		)
-		(pin "G3"
-			(uuid "8470db9f-3e76-4b5d-a8ac-57378c25127a")
-		)
-		(pin "G2"
-			(uuid "bfe4d79e-4c41-400f-8c05-5e1209a32ed4")
-		)
-		(pin "G1"
-			(uuid "b7187432-12ca-4b75-a649-b85a9ed4f856")
-		)
-		(pin "F8"
-			(uuid "cab0ce78-5e54-4fa4-93d5-17de627a4f9d")
-		)
-		(pin "G4"
-			(uuid "cad77af1-f6a0-4e65-b0ed-1744b96be679")
-		)
-		(pin "H2"
-			(uuid "9b55d135-a096-459f-a4e4-6c73145d4e79")
-		)
-		(pin "H8"
-			(uuid "ce85497f-f8a7-49bf-a2df-b8c7402fe685")
-		)
-		(pin "J5"
-			(uuid "688e066d-3d5a-49be-8dd2-3f902ce13ff2")
-		)
-		(pin "K2"
-			(uuid "600699b8-a6d8-4063-9abd-00a6426c50c4")
-		)
-		(pin "J7"
-			(uuid "49647015-075f-497d-b042-06fe68c28146")
-		)
-		(pin "J8"
-			(uuid "3b8f50fe-8ca7-4539-b5bc-6eb8c261ed0c")
-		)
-		(pin "K3"
-			(uuid "e6430c34-7f11-4365-8795-39290072a791")
-		)
-		(pin "K7"
-			(uuid "04ad6145-5361-4a87-914e-ab02e7f9b39c")
-		)
-		(pin "K8"
-			(uuid "3c3c5a3f-1d14-43a8-b0d1-7e4af973dbff")
-		)
-		(pin "K4"
-			(uuid "634ffa53-94d1-4a2b-823f-11c80e2eafdf")
-		)
-		(pin "L1"
-			(uuid "9b9e3a33-6e4a-4dbd-b4f5-05cf9359af8c")
-		)
-		(pin "K5"
-			(uuid "8031892a-7651-450d-be8e-2680cb45a2d3")
-		)
-		(pin "L3"
-			(uuid "da5455b5-727b-4e5f-b2e0-8c62380d4e1e")
-		)
-		(pin "L4"
-			(uuid "36604708-476c-4d09-90d7-f55bd391311f")
-		)
-		(pin "L2"
-			(uuid "be4a2872-35c1-4963-aea2-70380a1e81f9")
-		)
-		(pin "N3"
-			(uuid "78c34336-5c1e-434b-bf28-16c3b0c15c75")
-		)
-		(pin "N1"
-			(uuid "19717c73-43ef-416b-b283-6bbd4fd97612")
-		)
-		(pin "N6"
-			(uuid "36a2d76e-d01f-460f-bed9-638801f1e955")
-		)
-		(pin "P3"
-			(uuid "b10bb285-d4e4-41ce-82e9-372b0fcf4ab8")
-		)
-		(pin "M8"
-			(uuid "1642dd8e-a920-4ca4-aa9e-76911fb26519")
-		)
-		(pin "N7"
-			(uuid "dbc8fd86-c7c3-48d4-82da-97df5533576d")
-		)
-		(pin "P2"
-			(uuid "8b5801f2-7547-482c-9f93-ab8ff5d5cf18")
-		)
-		(pin "M1"
-			(uuid "dba01344-25e1-459a-884f-bc2140772fdd")
-		)
-		(pin "M6"
-			(uuid "e67772dd-5ac7-497b-985a-a558128f0fe8")
-		)
-		(pin "P4"
-			(uuid "a0988a34-6616-42f6-a1fb-eefa065ad947")
-		)
-		(pin "N8"
-			(uuid "0e8e4c3a-1e01-438d-b7d0-8858aa1f2645")
-		)
-		(pin "L7"
-			(uuid "1b5e0380-be2d-48f6-ade1-3edac2a571d6")
-		)
-		(pin "M7"
-			(uuid "c6aab575-f4c8-4066-81e3-7c47d349e77b")
-		)
-		(pin "P1"
-			(uuid "5d93e1ee-68f0-462a-8e8b-539d30886867")
-		)
-		(pin "P5"
-			(uuid "24eedf72-aa27-42dd-8f1c-fd3eaf93bcfe")
-		)
-		(pin "M5"
-			(uuid "6414608b-2b8d-4081-96d1-f1278b3d5463")
-		)
-		(pin "P6"
-			(uuid "2f852d21-b0b7-4da0-a97b-7adb405a7ab7")
-		)
-		(pin "P8"
-			(uuid "dbd1ba9e-a96c-4751-957c-f860db570b09")
-		)
-		(pin "R1"
-			(uuid "6040a816-ab7b-4b2d-b2ae-095a8137eb69")
-		)
-		(pin "L8"
-			(uuid "baa02b64-be08-4b13-9133-9533e978d837")
-		)
-		(pin "R2"
-			(uuid "d37d4df7-a4f5-4cde-b305-0bf17b590c78")
-		)
-		(pin "M4"
-			(uuid "20035bff-961d-4e0b-a05a-65c2e39200f9")
-		)
-		(pin "N2"
-			(uuid "7d3e51d1-d507-41a0-83b7-1fb15ad465fb")
-		)
-		(pin "M2"
-			(uuid "e8424594-a100-4b62-8c5c-5e41cbc6a2f6")
-		)
-		(pin "N4"
-			(uuid "3878ad3e-fb5d-42fe-8b14-e4ad82b2687f")
-		)
-		(pin "N5"
-			(uuid "1b03ab44-c9df-4205-9ac3-ac95612829b7")
-		)
-		(pin "R5"
-			(uuid "c6bb0de2-b83e-4939-b5eb-f35bc09fce5a")
-		)
-		(pin "R3"
-			(uuid "84386260-9113-41bb-9d87-f3e65d147ae4")
-		)
-		(pin "R8"
-			(uuid "7f698c7e-9814-4537-b3d5-21eb0eaa68bf")
-		)
-		(pin "R7"
-			(uuid "90f02856-de8f-414e-8104-5296cae4f0a6")
-		)
-		(pin "T3"
-			(uuid "738822e5-1d3f-4381-b795-b27fec43ac2a")
-		)
-		(pin "R6"
-			(uuid "8ab35bd7-23bd-4574-9135-7f639f952577")
-		)
-		(pin "T2"
-			(uuid "02d637fa-f0d6-449a-a5a9-6f78904e7c5c")
-		)
-		(pin "T4"
-			(uuid "4e52f274-afcd-440e-9413-ba25177479eb")
-		)
-		(pin "T5"
-			(uuid "7c610924-157d-44d6-a4b5-fb8b1f119bbc")
-		)
-		(pin "AC26"
-			(uuid "cb4cb9d0-3b88-4948-972f-72abc2ef33a9")
-		)
-		(pin "T17"
-			(uuid "3ca1d449-e5ed-49e5-84d0-57d777f5e30d")
-		)
-		(pin "AC24"
-			(uuid "7e829e64-4d2e-4b56-8f0c-6b501028a78d")
-		)
-		(pin "T18"
-			(uuid "c9408f09-c2ee-4518-9e42-784ee073f8c9")
-		)
-		(pin "T14"
-			(uuid "d8432747-0531-45a3-a284-5b9a462f60a7")
-		)
-		(pin "U20"
-			(uuid "f7fa9b12-e0d0-481b-a03f-7934d54ed9ed")
-		)
-		(pin "T19"
-			(uuid "d08277dc-dc14-440e-8f3c-7f2e31b26f0c")
-		)
-		(pin "AF26"
-			(uuid "72d105a3-a19d-4fe8-89a5-d7b5e5ab3028")
-		)
-		(pin "AA22"
-			(uuid "1d4d920a-089b-4551-ab92-f512d576f03a")
-		)
-		(pin "AD22"
-			(uuid "370a943d-212d-4886-98e0-fb7a394efbb0")
-		)
-		(pin "U16"
-			(uuid "9912179b-647c-4046-9116-332f0da8c41c")
-		)
-		(pin "U19"
-			(uuid "5e234724-5b2b-4701-ab73-4ccfda696adc")
-		)
-		(pin "AA24"
-			(uuid "91107bf7-daf5-48c2-8108-2d6a8eb25734")
-		)
-		(pin "AB24"
-			(uuid "9d7dae13-40d4-487c-a046-5645268accee")
-		)
-		(pin "U14"
-			(uuid "8f377957-d093-48f3-a4a3-65dad05f0a43")
-		)
-		(pin "AB18"
-			(uuid "8745ca01-8f66-46de-ba89-55f8c68be7dd")
-		)
-		(pin "AC25"
-			(uuid "1cbdb216-7695-450c-9a99-119214924e2b")
-		)
-		(pin "T15"
-			(uuid "6797e905-c3bf-45fa-a0d4-eb4e4adeed03")
-		)
-		(pin "AA25"
-			(uuid "d71bfb63-e031-4b2b-8693-6858acbe2003")
-		)
-		(pin "AB25"
-			(uuid "ef766b75-6dfe-4527-b611-d04e994afafb")
-		)
-		(pin "AE19"
-			(uuid "8ed22392-2386-4868-91cc-3f198d52da55")
-		)
-		(pin "AA21"
-			(uuid "5fb626e2-b18e-4013-9736-1da088f0463f")
-		)
-		(pin "AA23"
-			(uuid "865b1d96-89a4-4706-8879-73f94974f88b")
-		)
-		(pin "AB26"
-			(uuid "9a87d83b-efcd-4dc5-9679-3b6eb634d911")
-		)
-		(pin "T16"
-			(uuid "77b67852-2762-41cf-8d8a-8ade81f88965")
-		)
-		(pin "T26"
-			(uuid "2883ebc9-b20a-44d7-b367-7b38247b9f23")
-		)
-		(pin "U15"
-			(uuid "2adf99c3-abed-4dc1-bdf1-c2a23d3ceb26")
-		)
-		(pin "T20"
-			(uuid "efa7f21f-8e6f-4ad5-b8cb-ec7ff154e50e")
-		)
-		(pin "U17"
-			(uuid "a7229fb6-f380-4ade-bee4-1e0c96af7d32")
-		)
-		(pin "W24"
-			(uuid "c253c249-fc35-4deb-8aa9-dab3a2704996")
-		)
-		(pin "V24"
-			(uuid "93ebf9c1-efa4-4822-8926-71e7039fbe55")
-		)
-		(pin "V23"
-			(uuid "115da71a-effe-4918-8d16-de184cba0c12")
-		)
-		(pin "U21"
-			(uuid "3d9489ba-7721-41cc-8d33-219315765a96")
-		)
-		(pin "U26"
-			(uuid "1f5a31cc-fce5-4a53-8b51-cc6134ff8282")
-		)
-		(pin "U22"
-			(uuid "f6a8edec-1f0b-4793-93ea-fe1148112a7d")
-		)
-		(pin "V20"
-			(uuid "30b4971f-b666-43cc-afa7-f8244f332ac4")
-		)
-		(pin "W18"
-			(uuid "49a023ae-2352-40ad-bb28-10397d468ce1")
-		)
-		(pin "V22"
-			(uuid "d2c38fbe-f2b7-467f-8f28-23f9e684cd07")
-		)
-		(pin "U23"
-			(uuid "2e9ce0ed-ecdd-4db2-84a1-53d5af0702f1")
-		)
-		(pin "U24"
-			(uuid "9b9e10c6-ba36-4b78-b96b-12cb49f690ca")
-		)
-		(pin "V14"
-			(uuid "ba4d5471-e236-49ab-91c2-cb34d770eee9")
-		)
-		(pin "V17"
-			(uuid "2ba8012c-4a94-4b01-9bbd-8203a84b8da6")
-		)
-		(pin "W19"
-			(uuid "f09229e8-8eac-4a2a-bb0b-92bb609870d0")
-		)
-		(pin "V16"
-			(uuid "b05623e0-9a5d-4354-85ac-e7e7a74dd042")
-		)
-		(pin "U25"
-			(uuid "2a56a441-0cda-4799-963e-3c4ce0d295fb")
-		)
-		(pin "V19"
-			(uuid "0502edb0-afd9-43ce-bbcd-4ed29aa8db1b")
-		)
-		(pin "V21"
-			(uuid "cb824352-9bd2-455c-8592-1f9b1c508529")
-		)
-		(pin "V26"
-			(uuid "f993cee3-6d03-4f35-b92b-f97c4abb4be5")
-		)
-		(pin "W17"
-			(uuid "c26134a9-b249-47e2-8568-e5cf1cc87a45")
-		)
-		(pin "W20"
-			(uuid "57358d42-f351-4840-b369-7a80a3089665")
-		)
-		(pin "V18"
-			(uuid "cb1272c3-9bf0-4955-9b3b-1a5d24546a11")
-		)
-		(pin "W21"
-			(uuid "f9c49ffe-2d2c-41c0-b086-8373ca337714")
-		)
-		(pin "W23"
-			(uuid "c2ff2fe0-6578-4888-9004-b034b722df61")
-		)
-		(pin "W25"
-			(uuid "3b42bc97-4695-430a-9485-88c9993e8dc4")
-		)
-		(pin "W26"
-			(uuid "24d3df0f-d957-409a-b3b2-195ffab6e1a8")
-		)
-		(pin "Y21"
-			(uuid "2fae79ad-ae0d-4982-85f5-2810aac7acc7")
-		)
-		(pin "Y22"
-			(uuid "30fb30e4-30db-4218-81ac-da51ea4d5689")
-		)
-		(pin "Y23"
-			(uuid "d44ecd6a-2330-47f4-9255-81ff1c9236c8")
-		)
-		(pin "Y20"
-			(uuid "79b8c1c3-0eca-4658-8470-4143aa2d2591")
-		)
-		(pin "Y25"
-			(uuid "a633ec4d-180e-4b27-99f5-f47551b6f75f")
-		)
-		(pin "Y24"
-			(uuid "0da49362-4e31-4e5d-b20d-de608dda8b4b")
-		)
-		(pin "Y26"
-			(uuid "39139c39-bb35-4d78-b3f2-a0ad58091bbb")
-		)
-		(pin "D25"
-			(uuid "27f3e61b-cfec-40db-99bf-b0a98fc988d9")
-		)
-		(pin "D26"
-			(uuid "51b8bc99-df93-49e0-a8ed-6dc24b095834")
-		)
-		(pin "H20"
-			(uuid "cd6f3a58-f326-4473-830f-a8377549d85d")
-		)
-		(pin "H19"
-			(uuid "c9f01286-9019-4406-a6e4-9c6c663f5365")
-		)
-		(pin "G20"
-			(uuid "eecfded1-f9ee-4337-9700-ac20bff50243")
-		)
-		(pin "G25"
-			(uuid "021c0441-75a8-4c96-9018-5fcab850caa7")
-		)
-		(pin "H18"
-			(uuid "ed1ad514-5da5-4638-92ce-7e185c915863")
-		)
-		(pin "G24"
-			(uuid "ef0a9a4e-ef4d-400d-af14-e152c51dc545")
-		)
-		(pin "F25"
-			(uuid "256f84a7-d7c7-4d25-bd1e-18a22f9c4f5d")
-		)
-		(pin "J17"
-			(uuid "e54149cd-224b-465a-b9da-8d6abd33ab3c")
-		)
-		(pin "J19"
-			(uuid "45ace1cf-4e03-43d4-8ee0-1dc5a8a5d866")
-		)
-		(pin "F23"
-			(uuid "e1d1c798-d506-4ba7-a13f-81d4ad59bb0a")
-		)
-		(pin "J24"
-			(uuid "a242878a-2ddc-47a3-801a-a27747d1d4d3")
-		)
-		(pin "J26"
-			(uuid "89f1180b-ab29-4489-ab1f-53fbc1a32f87")
-		)
-		(pin "J20"
-			(uuid "be6f8bd7-0d58-4aab-a640-1d158bdf307e")
-		)
-		(pin "G22"
-			(uuid "efc47686-b874-44a4-8413-4a39f2caabf8")
-		)
-		(pin "J16"
-			(uuid "12291948-1079-48d1-9989-b9ce144b803e")
-		)
-		(pin "G21"
-			(uuid "b80b3276-abf0-4c25-a6e0-4324a1f13fa6")
-		)
-		(pin "F24"
-			(uuid "9386ec35-5dfc-4452-9a6e-8d8b5af2af3f")
-		)
-		(pin "E26"
-			(uuid "562372a9-8234-459d-a639-aece814be593")
-		)
-		(pin "E23"
-			(uuid "909b2a42-fe83-4620-8687-c33abfdc9f49")
-		)
-		(pin "G23"
-			(uuid "7f29d686-7d08-4aee-a7c3-fce4af02b1c3")
-		)
-		(pin "E25"
-			(uuid "f39b7ff3-2bb5-4efc-9ff9-20e3655d5922")
-		)
-		(pin "F26"
-			(uuid "4d56f5fb-b848-4610-aaa2-f25aa1e6cec1")
-		)
-		(pin "G26"
-			(uuid "12f56d1e-7d9d-4b9e-bed7-4998d845ff0b")
-		)
-		(pin "F22"
-			(uuid "d3b4b7c5-48f5-4473-990e-88c9da72219c")
-		)
-		(pin "H22"
-			(uuid "67cf273a-caa4-4efa-ba64-00caac68ca67")
-		)
-		(pin "H23"
-			(uuid "37dd6cd9-0879-4080-9f2c-54ebf5d93632")
-		)
-		(pin "H24"
-			(uuid "691258fe-3b42-4a3c-ae11-5168edeb3f5f")
-		)
-		(pin "H26"
-			(uuid "cbd62fa5-3c9e-473e-8610-09dc35d966a2")
-		)
-		(pin "H21"
-			(uuid "a42c43b3-17ae-4ca6-91e9-0c3b268f8033")
-		)
-		(pin "J14"
-			(uuid "a08896c6-5e8c-4e3e-99b0-1b1eb88d22c4")
-		)
-		(pin "J15"
-			(uuid "a17d407e-d01e-4087-a649-edac415410d2")
-		)
-		(pin "J18"
-			(uuid "b269e1f2-c505-40dc-a3f7-ec9ebc45ef5f")
-		)
-		(pin "J21"
-			(uuid "4e23b20d-40b3-4f93-ae81-911b1d277f39")
-		)
-		(pin "J23"
-			(uuid "b564bbc2-53e8-4d78-9c6f-dd03f2062178")
-		)
-		(pin "J25"
-			(uuid "cc6cda1c-4f36-4bcb-bb84-705eae4a83e0")
-		)
-		(pin "K26"
-			(uuid "a9be7c15-7de5-462a-a3c1-85d37febebf3")
-		)
-		(pin "K23"
-			(uuid "ae971e8f-6143-421a-bd5c-3f6d33720258")
-		)
-		(pin "L24"
-			(uuid "b4109601-afb9-42e7-a860-81120a52e121")
-		)
-		(pin "L14"
-			(uuid "02d05ed9-c8b7-45ab-a6f9-2c70ee78a6e5")
-		)
-		(pin "M17"
-			(uuid "50b72674-3e00-4638-b1a0-561c3fd627d8")
-		)
-		(pin "M15"
-			(uuid "a1f0a7d5-4d3f-406a-b498-f535aa9a9952")
-		)
-		(pin "L23"
-			(uuid "e9625a3d-b485-4937-a890-290e44b01e80")
-		)
-		(pin "M18"
-			(uuid "aef2177a-76df-444a-995d-f072a5c1f1ae")
-		)
-		(pin "K18"
-			(uuid "ff2f061e-8889-4a1a-8d90-98f84d083b12")
-		)
-		(pin "K16"
-			(uuid "01254259-287b-442a-8649-25314cb7bf81")
-		)
-		(pin "K20"
-			(uuid "07d1e38a-2490-4388-814a-a82edc3f0937")
-		)
-		(pin "K24"
-			(uuid "a9f66891-6f2b-42ae-817f-5af2c76429c3")
-		)
-		(pin "L20"
-			(uuid "5ee1d566-bf0b-40ef-b8e5-3c067c7fdb45")
-		)
-		(pin "K21"
-			(uuid "8b732d9c-8ab9-414a-a6bb-682db93cafd6")
-		)
-		(pin "L18"
-			(uuid "190c00b1-98cc-4e28-8358-4277b6209056")
-		)
-		(pin "L22"
-			(uuid "a74eca82-f2b1-48d8-bcf0-8f0b27e7831c")
-		)
-		(pin "K15"
-			(uuid "7af90161-d992-4a56-a936-c6fee8905b64")
-		)
-		(pin "L17"
-			(uuid "2ee491d4-26ef-4431-b104-06d073a50a66")
-		)
-		(pin "K25"
-			(uuid "2581ed9f-9288-450a-b464-0da448c7459c")
-		)
-		(pin "K17"
-			(uuid "43ed92a2-2391-4042-bc06-deb10e790c50")
-		)
-		(pin "M14"
-			(uuid "29649814-99fa-4c4c-95ef-faad0bb5bd34")
-		)
-		(pin "K14"
-			(uuid "fcf754c5-a497-4b43-9e9e-d84b3d7b0e23")
-		)
-		(pin "L15"
-			(uuid "b0a02bc3-c132-4541-bb26-2d3db37f50f3")
-		)
-		(pin "K22"
-			(uuid "0a5e8fb5-1538-4326-9ee2-312e855577c8")
-		)
-		(pin "L19"
-			(uuid "f4ec46b6-d461-49a3-a611-92eadff3edab")
-		)
-		(pin "L21"
-			(uuid "12104089-e749-4a99-9458-42d206271c54")
-		)
-		(pin "L25"
-			(uuid "15e8eb98-169e-421a-a5b7-14828caedf69")
-		)
-		(pin "M16"
-			(uuid "e5fe9f08-7642-4ee1-8da2-e4eb1c1e537d")
-		)
-		(pin "M19"
-			(uuid "911c2446-7320-4f9b-a708-e16c39d9859a")
-		)
-		(pin "M21"
-			(uuid "f1caf862-81ad-421f-8377-637a4d8fb470")
-		)
-		(pin "M22"
-			(uuid "8d4e4aa5-6147-4131-a2f6-f487e90bc50c")
-		)
-		(pin "N17"
-			(uuid "987888eb-42d7-4dfb-895c-ee2c08fa3329")
-		)
-		(pin "M20"
-			(uuid "bc9291ca-5cba-4cf9-842a-3a15756ddf17")
-		)
-		(pin "M24"
-			(uuid "b52a75b1-e309-446d-9598-e54b0fdd1951")
-		)
-		(pin "M26"
-			(uuid "78576e64-17cf-41ce-b8f1-8c1dc11405f2")
-		)
-		(pin "N14"
-			(uuid "06ce638b-3ad7-4521-bcdc-4760db363d94")
-		)
-		(pin "M25"
-			(uuid "17b6bf5f-138e-44d2-a7fb-6bf1470eb7b8")
-		)
-		(pin "N15"
-			(uuid "e0fed685-b123-49fb-9b7c-4fdbe2edc6b3")
-		)
-		(pin "N16"
-			(uuid "177f3167-33cd-407f-83a5-f71b3e981d08")
-		)
-		(pin "N18"
-			(uuid "5149061a-9e1e-4a7b-83bd-dcf0163a81d8")
-		)
-		(instances
-			(project "arcticvideo"
-				(path "/9e9873e7-449f-4340-a6d8-702e1fa8c41f/8b2e44ed-2600-4def-8af0-a3b47c6129bc"
-					(reference "U1")
-					(unit 6)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Device:C")
 		(at 293.37 96.52 180)
 		(unit 1)
@@ -30029,7 +27186,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 292.4048 92.71 0)
 			(hide yes)
 			(show_name no)
@@ -30109,7 +27266,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 44.45 177.292 90)
 			(hide yes)
 			(show_name no)
@@ -30189,7 +27346,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 123.19 184.912 90)
 			(hide yes)
 			(show_name no)
@@ -30268,7 +27425,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 66.3448 243.84 0)
 			(hide yes)
 			(show_name no)
@@ -30348,7 +27505,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Package_BGA:Xilinx_FGG676"
 			(at 379.73 116.84 0)
 			(hide yes)
 			(show_name no)
@@ -32148,7 +29305,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 179.3748 64.77 0)
 			(hide yes)
 			(show_name no)
@@ -32208,7 +29365,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "95026e74-6281-4f9c-a2c0-0c13749ca690")
-		(property "Reference" "#PWR037"
+		(property "Reference" "#PWR036"
 			(at 255.27 53.34 0)
 			(hide yes)
 			(show_name no)
@@ -32268,7 +29425,7 @@
 		(instances
 			(project "arcticvideo"
 				(path "/9e9873e7-449f-4340-a6d8-702e1fa8c41f/8b2e44ed-2600-4def-8af0-a3b47c6129bc"
-					(reference "#PWR037")
+					(reference "#PWR036")
 					(unit 1)
 				)
 			)
@@ -32286,7 +29443,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "960f5992-905e-4e1c-a4b9-7a64794fb5c5")
-		(property "Reference" "#PWR036"
+		(property "Reference" "#PWR035"
 			(at 255.27 38.1 0)
 			(hide yes)
 			(show_name no)
@@ -32346,7 +29503,7 @@
 		(instances
 			(project "arcticvideo"
 				(path "/9e9873e7-449f-4340-a6d8-702e1fa8c41f/8b2e44ed-2600-4def-8af0-a3b47c6129bc"
-					(reference "#PWR036")
+					(reference "#PWR035")
 					(unit 1)
 				)
 			)
@@ -32383,7 +29540,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 35.8648 36.83 0)
 			(hide yes)
 			(show_name no)
@@ -32463,7 +29620,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 45.72 125.222 90)
 			(hide yes)
 			(show_name no)
@@ -32542,7 +29699,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 189.5348 92.71 0)
 			(hide yes)
 			(show_name no)
@@ -32621,7 +29778,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 209.8548 64.77 0)
 			(hide yes)
 			(show_name no)
@@ -32700,7 +29857,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 144.4752 196.85 0)
 			(hide yes)
 			(show_name no)
@@ -32779,7 +29936,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 169.2148 64.77 0)
 			(hide yes)
 			(show_name no)
@@ -32839,7 +29996,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "9f949631-27f5-43d9-88a7-7db8ec9e97df")
-		(property "Reference" "#PWR031"
+		(property "Reference" "#PWR030"
 			(at 162.56 109.22 0)
 			(hide yes)
 			(show_name no)
@@ -32899,7 +30056,7 @@
 		(instances
 			(project "arcticvideo"
 				(path "/9e9873e7-449f-4340-a6d8-702e1fa8c41f/8b2e44ed-2600-4def-8af0-a3b47c6129bc"
-					(reference "#PWR031")
+					(reference "#PWR030")
 					(unit 1)
 				)
 			)
@@ -32937,7 +30094,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 123.19 139.192 90)
 			(hide yes)
 			(show_name no)
@@ -33016,7 +30173,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 189.5348 148.59 0)
 			(hide yes)
 			(show_name no)
@@ -33154,7 +30311,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "aa704573-10e2-41fc-ab36-a2fbb9a3371c")
-		(property "Reference" "#PWR026"
+		(property "Reference" "#PWR025"
 			(at 162.56 38.1 0)
 			(hide yes)
 			(show_name no)
@@ -33214,7 +30371,7 @@
 		(instances
 			(project "arcticvideo"
 				(path "/9e9873e7-449f-4340-a6d8-702e1fa8c41f/8b2e44ed-2600-4def-8af0-a3b47c6129bc"
-					(reference "#PWR026")
+					(reference "#PWR025")
 					(unit 1)
 				)
 			)
@@ -33252,7 +30409,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Inductor_SMD:L_0402_1005Metric"
 			(at 135.89 129.54 0)
 			(hide yes)
 			(show_name no)
@@ -33409,7 +30566,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 56.1848 215.9 0)
 			(hide yes)
 			(show_name no)
@@ -33488,7 +30645,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 220.0148 64.77 0)
 			(hide yes)
 			(show_name no)
@@ -33567,7 +30724,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 76.5048 243.84 0)
 			(hide yes)
 			(show_name no)
@@ -33646,7 +30803,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 104.14 119.6848 0)
 			(hide yes)
 			(show_name no)
@@ -33725,7 +30882,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 117.1448 243.84 0)
 			(hide yes)
 			(show_name no)
@@ -33804,7 +30961,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 199.6948 120.65 0)
 			(hide yes)
 			(show_name no)
@@ -33961,7 +31118,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 292.4048 36.83 0)
 			(hide yes)
 			(show_name no)
@@ -34040,7 +31197,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 230.1748 148.59 0)
 			(hide yes)
 			(show_name no)
@@ -34119,7 +31276,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 169.2148 36.83 0)
 			(hide yes)
 			(show_name no)
@@ -34257,7 +31414,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "c32762f1-7dc6-418b-acbc-ca75aff063a8")
-		(property "Reference" "#PWR033"
+		(property "Reference" "#PWR032"
 			(at 162.56 137.16 0)
 			(hide yes)
 			(show_name no)
@@ -34317,7 +31474,7 @@
 		(instances
 			(project "arcticvideo"
 				(path "/9e9873e7-449f-4340-a6d8-702e1fa8c41f/8b2e44ed-2600-4def-8af0-a3b47c6129bc"
-					(reference "#PWR033")
+					(reference "#PWR032")
 					(unit 1)
 				)
 			)
@@ -34413,7 +31570,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "c6532b4a-5ded-4bc4-bee7-5d5f69eb4d7e")
-		(property "Reference" "#PWR044"
+		(property "Reference" "#PWR041"
 			(at 341.63 60.96 0)
 			(hide yes)
 			(show_name no)
@@ -34473,7 +31630,7 @@
 		(instances
 			(project "arcticvideo"
 				(path "/9e9873e7-449f-4340-a6d8-702e1fa8c41f/8b2e44ed-2600-4def-8af0-a3b47c6129bc"
-					(reference "#PWR044")
+					(reference "#PWR041")
 					(unit 1)
 				)
 			)
@@ -34491,7 +31648,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "c76ec4f3-b8d4-47b1-9120-141ac7d2693c")
-		(property "Reference" "#PWR039"
+		(property "Reference" "#PWR038"
 			(at 255.27 81.28 0)
 			(hide yes)
 			(show_name no)
@@ -34551,7 +31708,7 @@
 		(instances
 			(project "arcticvideo"
 				(path "/9e9873e7-449f-4340-a6d8-702e1fa8c41f/8b2e44ed-2600-4def-8af0-a3b47c6129bc"
-					(reference "#PWR039")
+					(reference "#PWR038")
 					(unit 1)
 				)
 			)
@@ -34569,7 +31726,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "c87d114f-c9b7-47cd-85f2-f8794865c783")
-		(property "Reference" "#PWR034"
+		(property "Reference" "#PWR033"
 			(at 162.56 149.86 0)
 			(hide yes)
 			(show_name no)
@@ -34629,7 +31786,7 @@
 		(instances
 			(project "arcticvideo"
 				(path "/9e9873e7-449f-4340-a6d8-702e1fa8c41f/8b2e44ed-2600-4def-8af0-a3b47c6129bc"
-					(reference "#PWR034")
+					(reference "#PWR033")
 					(unit 1)
 				)
 			)
@@ -34647,7 +31804,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "cab442ae-ea2d-45f5-a5ca-1cc7923d17c4")
-		(property "Reference" "#PWR046"
+		(property "Reference" "#PWR043"
 			(at 407.67 224.79 0)
 			(hide yes)
 			(show_name no)
@@ -34707,7 +31864,7 @@
 		(instances
 			(project "arcticvideo"
 				(path "/9e9873e7-449f-4340-a6d8-702e1fa8c41f/8b2e44ed-2600-4def-8af0-a3b47c6129bc"
-					(reference "#PWR046")
+					(reference "#PWR043")
 					(unit 1)
 				)
 			)
@@ -34747,7 +31904,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 129.032 147.32 90)
 			(hide yes)
 			(show_name no)
@@ -34904,7 +32061,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 230.1748 92.71 0)
 			(hide yes)
 			(show_name no)
@@ -34983,7 +32140,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 119.38 140.0048 0)
 			(hide yes)
 			(show_name no)
@@ -35065,7 +32222,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 107.442 63.5 90)
 			(hide yes)
 			(show_name no)
@@ -35144,7 +32301,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 261.9248 64.77 0)
 			(hide yes)
 			(show_name no)
@@ -35204,7 +32361,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "d4252f36-7723-44db-a91c-a010b59b3f4e")
-		(property "Reference" "#PWR025"
+		(property "Reference" "#PWR024"
 			(at 143.51 175.26 0)
 			(hide yes)
 			(show_name no)
@@ -35264,7 +32421,7 @@
 		(instances
 			(project "arcticvideo"
 				(path "/9e9873e7-449f-4340-a6d8-702e1fa8c41f/8b2e44ed-2600-4def-8af0-a3b47c6129bc"
-					(reference "#PWR025")
+					(reference "#PWR024")
 					(unit 1)
 				)
 			)
@@ -35301,7 +32458,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 302.5648 36.83 0)
 			(hide yes)
 			(show_name no)
@@ -35380,7 +32537,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 106.9848 243.84 0)
 			(hide yes)
 			(show_name no)
@@ -35459,7 +32616,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 35.8648 243.84 0)
 			(hide yes)
 			(show_name no)
@@ -35538,7 +32695,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 272.0848 64.77 0)
 			(hide yes)
 			(show_name no)
@@ -35598,7 +32755,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "def456c4-7807-4101-b174-c064159e5ce0")
-		(property "Reference" "#PWR021"
+		(property "Reference" "#PWR020"
 			(at 123.19 63.5 0)
 			(hide yes)
 			(show_name no)
@@ -35658,7 +32815,7 @@
 		(instances
 			(project "arcticvideo"
 				(path "/9e9873e7-449f-4340-a6d8-702e1fa8c41f/8b2e44ed-2600-4def-8af0-a3b47c6129bc"
-					(reference "#PWR021")
+					(reference "#PWR020")
 					(unit 1)
 				)
 			)
@@ -35695,7 +32852,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 169.2148 92.71 0)
 			(hide yes)
 			(show_name no)
@@ -35775,7 +32932,7 @@
 				)
 			)
 		)
-		(property "Footprint" "IC8_MP2307_MNP"
+		(property "Footprint" "arcticvideo:IC8_MP2307_MNP"
 			(at 60.96 179.07 0)
 			(hide yes)
 			(show_name no)
@@ -35877,7 +33034,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 322.8848 36.83 0)
 			(hide yes)
 			(show_name no)
@@ -35956,7 +33113,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 209.8548 148.59 0)
 			(hide yes)
 			(show_name no)
@@ -36035,7 +33192,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 35.8648 215.9 0)
 			(hide yes)
 			(show_name no)
@@ -36114,7 +33271,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 35.8648 135.89 0)
 			(hide yes)
 			(show_name no)
@@ -36193,7 +33350,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 137.4648 243.84 0)
 			(hide yes)
 			(show_name no)
@@ -36272,7 +33429,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 25.7048 215.9 0)
 			(hide yes)
 			(show_name no)
@@ -36351,7 +33508,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 120.3452 78.74 0)
 			(hide yes)
 			(show_name no)
@@ -36430,7 +33587,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 25.7048 243.84 0)
 			(hide yes)
 			(show_name no)
@@ -36509,7 +33666,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 119.38 185.7248 0)
 			(hide yes)
 			(show_name no)
@@ -36588,7 +33745,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 138.7348 215.9 0)
 			(hide yes)
 			(show_name no)
@@ -36667,7 +33824,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 282.2448 36.83 0)
 			(hide yes)
 			(show_name no)
@@ -36825,7 +33982,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SOT223_AMS1117-1.8_AMS"
+		(property "Footprint" "arcticvideo:SOT223_AMS1117-1.8_AMS"
 			(at 107.95 34.29 0)
 			(hide yes)
 			(show_name no)

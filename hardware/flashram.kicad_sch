@@ -7079,7 +7079,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 269.5448 67.31 0)
 			(hide yes)
 			(show_name no)
@@ -7139,7 +7139,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "0356e061-8b17-44e8-9837-df35531f43f1")
-		(property "Reference" "R35"
+		(property "Reference" "R33"
 			(at 30.48 106.1524 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7159,7 +7159,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 30.48 109.982 90)
 			(hide yes)
 			(show_name no)
@@ -7201,7 +7201,7 @@
 		(instances
 			(project "arcticvideo"
 				(path "/9e9873e7-449f-4340-a6d8-702e1fa8c41f/5f5dc8e6-4127-4bd9-831a-01d80a8ea51b"
-					(reference "R35")
+					(reference "R33")
 					(unit 1)
 				)
 			)
@@ -7219,7 +7219,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "066e06e2-8ac9-4ffa-904c-bf84350bdbe6")
-		(property "Reference" "#PWR084"
+		(property "Reference" "#PWR081"
 			(at 170.18 95.25 0)
 			(hide yes)
 			(show_name no)
@@ -7279,7 +7279,7 @@
 		(instances
 			(project "arcticvideo"
 				(path "/9e9873e7-449f-4340-a6d8-702e1fa8c41f/5f5dc8e6-4127-4bd9-831a-01d80a8ea51b"
-					(reference "#PWR084")
+					(reference "#PWR081")
 					(unit 1)
 				)
 			)
@@ -7297,7 +7297,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "08fa5428-f3d5-493a-92b6-488921c3121d")
-		(property "Reference" "#PWR077"
+		(property "Reference" "#PWR074"
 			(at 68.58 161.29 0)
 			(hide yes)
 			(show_name no)
@@ -7357,7 +7357,7 @@
 		(instances
 			(project "arcticvideo"
 				(path "/9e9873e7-449f-4340-a6d8-702e1fa8c41f/5f5dc8e6-4127-4bd9-831a-01d80a8ea51b"
-					(reference "#PWR077")
+					(reference "#PWR074")
 					(unit 1)
 				)
 			)
@@ -7375,7 +7375,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "0a25e637-77bc-41a3-9cc2-8bd709954bce")
-		(property "Reference" "#PWR074"
+		(property "Reference" "#PWR071"
 			(at 45.72 168.91 0)
 			(hide yes)
 			(show_name no)
@@ -7435,7 +7435,7 @@
 		(instances
 			(project "arcticvideo"
 				(path "/9e9873e7-449f-4340-a6d8-702e1fa8c41f/5f5dc8e6-4127-4bd9-831a-01d80a8ea51b"
-					(reference "#PWR074")
+					(reference "#PWR071")
 					(unit 1)
 				)
 			)
@@ -7472,7 +7472,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 51.1048 21.59 0)
 			(hide yes)
 			(show_name no)
@@ -7532,7 +7532,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "0dfe37bc-0eee-49fc-8683-dda6ad17cd2d")
-		(property "Reference" "#PWR082"
+		(property "Reference" "#PWR079"
 			(at 160.02 88.9 0)
 			(hide yes)
 			(show_name no)
@@ -7592,7 +7592,7 @@
 		(instances
 			(project "arcticvideo"
 				(path "/9e9873e7-449f-4340-a6d8-702e1fa8c41f/5f5dc8e6-4127-4bd9-831a-01d80a8ea51b"
-					(reference "#PWR082")
+					(reference "#PWR079")
 					(unit 1)
 				)
 			)
@@ -7610,7 +7610,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "0f4c22a0-b62c-4c6e-a37b-1e734b252463")
-		(property "Reference" "R39"
+		(property "Reference" "R37"
 			(at 177.8 88.9 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7630,7 +7630,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 177.8 93.472 90)
 			(hide yes)
 			(show_name no)
@@ -7672,7 +7672,7 @@
 		(instances
 			(project "arcticvideo"
 				(path "/9e9873e7-449f-4340-a6d8-702e1fa8c41f/5f5dc8e6-4127-4bd9-831a-01d80a8ea51b"
-					(reference "R39")
+					(reference "R37")
 					(unit 1)
 				)
 			)
@@ -7690,7 +7690,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "0f587781-2e7f-4c43-8c0b-ba25b2bc11a8")
-		(property "Reference" "#PWR088"
+		(property "Reference" "#PWR085"
 			(at 195.58 134.62 0)
 			(hide yes)
 			(show_name no)
@@ -7750,7 +7750,7 @@
 		(instances
 			(project "arcticvideo"
 				(path "/9e9873e7-449f-4340-a6d8-702e1fa8c41f/5f5dc8e6-4127-4bd9-831a-01d80a8ea51b"
-					(reference "#PWR088")
+					(reference "#PWR085")
 					(unit 1)
 				)
 			)
@@ -7768,7 +7768,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "10b0bc7f-94b5-481f-9bc2-eea112e45297")
-		(property "Reference" "#PWR070"
+		(property "Reference" "#PWR067"
 			(at 19.05 22.86 0)
 			(hide yes)
 			(show_name no)
@@ -7828,7 +7828,7 @@
 		(instances
 			(project "arcticvideo"
 				(path "/9e9873e7-449f-4340-a6d8-702e1fa8c41f/5f5dc8e6-4127-4bd9-831a-01d80a8ea51b"
-					(reference "#PWR070")
+					(reference "#PWR067")
 					(unit 1)
 				)
 			)
@@ -7865,7 +7865,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 159.0548 92.71 0)
 			(hide yes)
 			(show_name no)
@@ -7925,7 +7925,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "14d96a56-a589-4f41-a4ac-365f98af1fdb")
-		(property "Reference" "#PWR080"
+		(property "Reference" "#PWR077"
 			(at 123.19 173.99 0)
 			(hide yes)
 			(show_name no)
@@ -7985,7 +7985,7 @@
 		(instances
 			(project "arcticvideo"
 				(path "/9e9873e7-449f-4340-a6d8-702e1fa8c41f/5f5dc8e6-4127-4bd9-831a-01d80a8ea51b"
-					(reference "#PWR080")
+					(reference "#PWR077")
 					(unit 1)
 				)
 			)
@@ -8003,7 +8003,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "16eacde5-ca13-4d5d-8126-6090ee1e751e")
-		(property "Reference" "#PWR081"
+		(property "Reference" "#PWR078"
 			(at 148.59 161.29 0)
 			(hide yes)
 			(show_name no)
@@ -8063,7 +8063,7 @@
 		(instances
 			(project "arcticvideo"
 				(path "/9e9873e7-449f-4340-a6d8-702e1fa8c41f/5f5dc8e6-4127-4bd9-831a-01d80a8ea51b"
-					(reference "#PWR081")
+					(reference "#PWR078")
 					(unit 1)
 				)
 			)
@@ -8081,7 +8081,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "18a236de-2e19-44b9-ab97-2d0ee0c7b899")
-		(property "Reference" "#PWR089"
+		(property "Reference" "#PWR086"
 			(at 196.85 113.03 0)
 			(hide yes)
 			(show_name no)
@@ -8141,7 +8141,7 @@
 		(instances
 			(project "arcticvideo"
 				(path "/9e9873e7-449f-4340-a6d8-702e1fa8c41f/5f5dc8e6-4127-4bd9-831a-01d80a8ea51b"
-					(reference "#PWR089")
+					(reference "#PWR086")
 					(unit 1)
 				)
 			)
@@ -8159,7 +8159,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "1cc8b9d3-e0a2-49ca-8ac6-7f3eeebc3ccd")
-		(property "Reference" "#PWR075"
+		(property "Reference" "#PWR072"
 			(at 45.72 191.77 0)
 			(hide yes)
 			(show_name no)
@@ -8219,7 +8219,7 @@
 		(instances
 			(project "arcticvideo"
 				(path "/9e9873e7-449f-4340-a6d8-702e1fa8c41f/5f5dc8e6-4127-4bd9-831a-01d80a8ea51b"
-					(reference "#PWR075")
+					(reference "#PWR072")
 					(unit 1)
 				)
 			)
@@ -8257,7 +8257,7 @@
 				)
 			)
 		)
-		(property "Footprint" "FBGA96_8X14_MRN"
+		(property "Footprint" "arcticvideo:FBGA96_8X14_MRN"
 			(at 81.28 26.67 0)
 			(hide yes)
 			(show_name no)
@@ -8604,7 +8604,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "33bc8374-57d0-434c-a5d2-9489098cac0a")
-		(property "Reference" "#PWR073"
+		(property "Reference" "#PWR070"
 			(at 36.83 120.65 0)
 			(hide yes)
 			(show_name no)
@@ -8664,7 +8664,7 @@
 		(instances
 			(project "arcticvideo"
 				(path "/9e9873e7-449f-4340-a6d8-702e1fa8c41f/5f5dc8e6-4127-4bd9-831a-01d80a8ea51b"
-					(reference "#PWR073")
+					(reference "#PWR070")
 					(unit 1)
 				)
 			)
@@ -8702,7 +8702,7 @@
 				)
 			)
 		)
-		(property "Footprint" "DRC0010J"
+		(property "Footprint" "arcticvideo:DRC0010J"
 			(at 226.06 90.17 0)
 			(hide yes)
 			(show_name no)
@@ -8791,7 +8791,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "37235484-6f55-4f6c-9f4a-8d60b9610c01")
-		(property "Reference" "#PWR083"
+		(property "Reference" "#PWR080"
 			(at 170.18 74.93 0)
 			(hide yes)
 			(show_name no)
@@ -8851,7 +8851,7 @@
 		(instances
 			(project "arcticvideo"
 				(path "/9e9873e7-449f-4340-a6d8-702e1fa8c41f/5f5dc8e6-4127-4bd9-831a-01d80a8ea51b"
-					(reference "#PWR083")
+					(reference "#PWR080")
 					(unit 1)
 				)
 			)
@@ -8869,7 +8869,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "3f62278c-380f-459f-b81d-b704bd48ef79")
-		(property "Reference" "R36"
+		(property "Reference" "R34"
 			(at 31.75 177.8001 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8891,7 +8891,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 36.068 176.53 90)
 			(hide yes)
 			(show_name no)
@@ -8933,7 +8933,7 @@
 		(instances
 			(project "arcticvideo"
 				(path "/9e9873e7-449f-4340-a6d8-702e1fa8c41f/5f5dc8e6-4127-4bd9-831a-01d80a8ea51b"
-					(reference "R36")
+					(reference "R34")
 					(unit 1)
 				)
 			)
@@ -8970,7 +8970,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 199.6948 115.57 0)
 			(hide yes)
 			(show_name no)
@@ -9049,7 +9049,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 57.4548 135.89 0)
 			(hide yes)
 			(show_name no)
@@ -9128,7 +9128,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 40.9448 21.59 0)
 			(hide yes)
 			(show_name no)
@@ -9188,7 +9188,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "6773d50e-0e35-4176-91db-a2320543c4ed")
-		(property "Reference" "#PWR086"
+		(property "Reference" "#PWR083"
 			(at 176.53 116.84 0)
 			(hide yes)
 			(show_name no)
@@ -9248,7 +9248,7 @@
 		(instances
 			(project "arcticvideo"
 				(path "/9e9873e7-449f-4340-a6d8-702e1fa8c41f/5f5dc8e6-4127-4bd9-831a-01d80a8ea51b"
-					(reference "#PWR086")
+					(reference "#PWR083")
 					(unit 1)
 				)
 			)
@@ -9266,7 +9266,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "6b8f2ceb-a0a6-41ab-82d5-e8af8fc0aecd")
-		(property "Reference" "#PWR091"
+		(property "Reference" "#PWR088"
 			(at 280.67 66.04 0)
 			(hide yes)
 			(show_name no)
@@ -9326,7 +9326,7 @@
 		(instances
 			(project "arcticvideo"
 				(path "/9e9873e7-449f-4340-a6d8-702e1fa8c41f/5f5dc8e6-4127-4bd9-831a-01d80a8ea51b"
-					(reference "#PWR091")
+					(reference "#PWR088")
 					(unit 1)
 				)
 			)
@@ -9363,7 +9363,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 30.7848 21.59 0)
 			(hide yes)
 			(show_name no)
@@ -9442,7 +9442,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 259.3848 67.31 0)
 			(hide yes)
 			(show_name no)
@@ -9521,7 +9521,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 279.7048 67.31 0)
 			(hide yes)
 			(show_name no)
@@ -9600,7 +9600,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 20.6248 21.59 0)
 			(hide yes)
 			(show_name no)
@@ -9660,7 +9660,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "881ddb96-e986-42a5-849b-612750e11400")
-		(property "Reference" "#PWR071"
+		(property "Reference" "#PWR068"
 			(at 19.05 40.64 0)
 			(hide yes)
 			(show_name no)
@@ -9720,7 +9720,7 @@
 		(instances
 			(project "arcticvideo"
 				(path "/9e9873e7-449f-4340-a6d8-702e1fa8c41f/5f5dc8e6-4127-4bd9-831a-01d80a8ea51b"
-					(reference "#PWR071")
+					(reference "#PWR068")
 					(unit 1)
 				)
 			)
@@ -9738,7 +9738,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "944a3908-6028-41f2-badd-79792589accb")
-		(property "Reference" "#PWR076"
+		(property "Reference" "#PWR073"
 			(at 55.88 133.35 0)
 			(hide yes)
 			(show_name no)
@@ -9798,7 +9798,7 @@
 		(instances
 			(project "arcticvideo"
 				(path "/9e9873e7-449f-4340-a6d8-702e1fa8c41f/5f5dc8e6-4127-4bd9-831a-01d80a8ea51b"
-					(reference "#PWR076")
+					(reference "#PWR073")
 					(unit 1)
 				)
 			)
@@ -9816,7 +9816,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "9e1e1e52-7acc-4e99-b2d8-64e79b1894a6")
-		(property "Reference" "R38"
+		(property "Reference" "R36"
 			(at 120.65 177.8001 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9838,7 +9838,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 124.968 176.53 90)
 			(hide yes)
 			(show_name no)
@@ -9880,7 +9880,7 @@
 		(instances
 			(project "arcticvideo"
 				(path "/9e9873e7-449f-4340-a6d8-702e1fa8c41f/5f5dc8e6-4127-4bd9-831a-01d80a8ea51b"
-					(reference "R38")
+					(reference "R36")
 					(unit 1)
 				)
 			)
@@ -9898,7 +9898,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "a041edd1-7d38-4dbb-b615-4e7fb4cb8b4b")
-		(property "Reference" "#PWR092"
+		(property "Reference" "#PWR089"
 			(at 280.67 116.84 0)
 			(hide yes)
 			(show_name no)
@@ -9958,7 +9958,7 @@
 		(instances
 			(project "arcticvideo"
 				(path "/9e9873e7-449f-4340-a6d8-702e1fa8c41f/5f5dc8e6-4127-4bd9-831a-01d80a8ea51b"
-					(reference "#PWR092")
+					(reference "#PWR089")
 					(unit 1)
 				)
 			)
@@ -9995,7 +9995,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 189.5348 115.57 0)
 			(hide yes)
 			(show_name no)
@@ -10074,7 +10074,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 61.2648 21.59 0)
 			(hide yes)
 			(show_name no)
@@ -10134,7 +10134,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "bbce7133-d434-4796-839b-822580a4b99b")
-		(property "Reference" "#PWR072"
+		(property "Reference" "#PWR069"
 			(at 34.29 173.99 0)
 			(hide yes)
 			(show_name no)
@@ -10194,7 +10194,7 @@
 		(instances
 			(project "arcticvideo"
 				(path "/9e9873e7-449f-4340-a6d8-702e1fa8c41f/5f5dc8e6-4127-4bd9-831a-01d80a8ea51b"
-					(reference "#PWR072")
+					(reference "#PWR069")
 					(unit 1)
 				)
 			)
@@ -10231,7 +10231,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 175.5648 57.15 0)
 			(hide yes)
 			(show_name no)
@@ -10291,7 +10291,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "cc671640-d0eb-4ef7-ad78-6630fee82434")
-		(property "Reference" "#PWR087"
+		(property "Reference" "#PWR084"
 			(at 187.96 72.39 0)
 			(hide yes)
 			(show_name no)
@@ -10351,7 +10351,7 @@
 		(instances
 			(project "arcticvideo"
 				(path "/9e9873e7-449f-4340-a6d8-702e1fa8c41f/5f5dc8e6-4127-4bd9-831a-01d80a8ea51b"
-					(reference "#PWR087")
+					(reference "#PWR084")
 					(unit 1)
 				)
 			)
@@ -10369,7 +10369,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "ceada70e-c161-4632-b2a7-2efb63afe788")
-		(property "Reference" "#PWR085"
+		(property "Reference" "#PWR082"
 			(at 171.45 50.8 0)
 			(hide yes)
 			(show_name no)
@@ -10429,7 +10429,7 @@
 		(instances
 			(project "arcticvideo"
 				(path "/9e9873e7-449f-4340-a6d8-702e1fa8c41f/5f5dc8e6-4127-4bd9-831a-01d80a8ea51b"
-					(reference "#PWR085")
+					(reference "#PWR082")
 					(unit 1)
 				)
 			)
@@ -10466,7 +10466,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 195.8848 96.52 0)
 			(hide yes)
 			(show_name no)
@@ -10526,7 +10526,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "d4d20215-f0d2-42eb-82ff-be0e82fb8972")
-		(property "Reference" "#PWR079"
+		(property "Reference" "#PWR076"
 			(at 109.22 173.99 0)
 			(hide yes)
 			(show_name no)
@@ -10586,7 +10586,7 @@
 		(instances
 			(project "arcticvideo"
 				(path "/9e9873e7-449f-4340-a6d8-702e1fa8c41f/5f5dc8e6-4127-4bd9-831a-01d80a8ea51b"
-					(reference "#PWR079")
+					(reference "#PWR076")
 					(unit 1)
 				)
 			)
@@ -10623,7 +10623,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 250.4948 90.17 0)
 			(hide yes)
 			(show_name no)
@@ -10683,7 +10683,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "d8805ab1-8ba4-4869-826c-006678411679")
-		(property "Reference" "#PWR078"
+		(property "Reference" "#PWR075"
 			(at 99.06 171.45 0)
 			(hide yes)
 			(show_name no)
@@ -10743,7 +10743,7 @@
 		(instances
 			(project "arcticvideo"
 				(path "/9e9873e7-449f-4340-a6d8-702e1fa8c41f/5f5dc8e6-4127-4bd9-831a-01d80a8ea51b"
-					(reference "#PWR078")
+					(reference "#PWR075")
 					(unit 1)
 				)
 			)
@@ -10761,7 +10761,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "ee5c3e17-5479-4e57-91f7-2dc5db805b9a")
-		(property "Reference" "R40"
+		(property "Reference" "R38"
 			(at 186.69 97.79 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10781,7 +10781,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 186.69 102.362 90)
 			(hide yes)
 			(show_name no)
@@ -10823,7 +10823,7 @@
 		(instances
 			(project "arcticvideo"
 				(path "/9e9873e7-449f-4340-a6d8-702e1fa8c41f/5f5dc8e6-4127-4bd9-831a-01d80a8ea51b"
-					(reference "R40")
+					(reference "R38")
 					(unit 1)
 				)
 			)
@@ -10841,7 +10841,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "ef828215-45f5-416d-8699-933bebe88e66")
-		(property "Reference" "#PWR090"
+		(property "Reference" "#PWR087"
 			(at 261.62 90.17 0)
 			(hide yes)
 			(show_name no)
@@ -10901,7 +10901,7 @@
 		(instances
 			(project "arcticvideo"
 				(path "/9e9873e7-449f-4340-a6d8-702e1fa8c41f/5f5dc8e6-4127-4bd9-831a-01d80a8ea51b"
-					(reference "#PWR090")
+					(reference "#PWR087")
 					(unit 1)
 				)
 			)
@@ -10939,7 +10939,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SON_EW7-0SIT_MRN"
+		(property "Footprint" "arcticvideo:SON_EW7-0SIT_MRN"
 			(at 48.26 175.26 0)
 			(hide yes)
 			(show_name no)
@@ -11022,7 +11022,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "fab5fe23-7d19-414d-9634-c20dc421c9cd")
-		(property "Reference" "R37"
+		(property "Reference" "R35"
 			(at 43.18 172.7201 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11044,7 +11044,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 47.498 171.45 90)
 			(hide yes)
 			(show_name no)
@@ -11086,7 +11086,7 @@
 		(instances
 			(project "arcticvideo"
 				(path "/9e9873e7-449f-4340-a6d8-702e1fa8c41f/5f5dc8e6-4127-4bd9-831a-01d80a8ea51b"
-					(reference "R37")
+					(reference "R35")
 					(unit 1)
 				)
 			)
