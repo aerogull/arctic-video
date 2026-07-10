@@ -12180,6 +12180,17 @@
 				)
 			)
 		)
+		(property "Arrow Price/Stock" "$77.7344"
+			(at 67.31 120.65 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "P10"
 			(uuid "e0a6819e-c036-4a67-8d8c-e691bcd50060")
 		)
@@ -13971,6 +13982,17 @@
 			)
 		)
 		(property "Description" "Artix 7 T 75 XC7A75T-FGG676"
+			(at 215.9 120.65 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Arrow Price/Stock" "$77.7344"
 			(at 215.9 120.65 0)
 			(hide yes)
 			(show_name no)
@@ -15773,6 +15795,17 @@
 			)
 		)
 		(property "Description" "Artix 7 T 75 XC7A75T-FGG676"
+			(at 365.76 120.65 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Arrow Price/Stock" "$77.7344"
 			(at 365.76 120.65 0)
 			(hide yes)
 			(show_name no)

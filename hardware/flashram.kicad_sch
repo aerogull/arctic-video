@@ -7162,6 +7162,17 @@
 				)
 			)
 		)
+		(property "Arrow Price/Stock" "$1.9152"
+			(at 270.51 71.12 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "3a0c7087-b00a-458b-8010-79333ffc36e1")
 		)
@@ -7233,6 +7244,17 @@
 		)
 		(property "Description" "Resistor"
 			(at 30.48 111.76 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Arrow Price/Stock" "$0.0120"
+			(at 30.48 111.76 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7555,6 +7577,17 @@
 				)
 			)
 		)
+		(property "Arrow Price/Stock" "$1.0332"
+			(at 52.07 25.4 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "eab0630d-7405-4e29-bc1a-2b5786731c36")
 		)
@@ -7704,6 +7737,17 @@
 		)
 		(property "Description" "Resistor"
 			(at 177.8 95.25 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Arrow Price/Stock" "$0.2552"
+			(at 177.8 95.25 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7939,6 +7983,17 @@
 		)
 		(property "Description" "Unpolarized capacitor"
 			(at 160.02 96.52 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Arrow Price/Stock" "$1.0332"
+			(at 160.02 96.52 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8332,6 +8387,17 @@
 			)
 		)
 		(property "Description" ""
+			(at 81.28 26.67 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Arrow Price/Stock" "$47.1002"
 			(at 81.28 26.67 0)
 			(hide yes)
 			(show_name no)
@@ -8787,6 +8853,17 @@
 				)
 			)
 		)
+		(property "Arrow Price/Stock" "$1.0026"
+			(at 226.06 90.17 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "9db846f1-8184-4152-990a-faa5d2175cc4")
 		)
@@ -8974,6 +9051,17 @@
 				)
 			)
 		)
+		(property "Arrow Price/Stock" "$0.2552"
+			(at 34.29 176.53 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "35f2a5a7-45db-4956-8cd9-2f2b01af4ca7")
 		)
@@ -9044,6 +9132,17 @@
 		)
 		(property "Description" "Unpolarized capacitor"
 			(at 200.66 119.38 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Arrow Price/Stock" "$1.9152"
+			(at 200.66 119.38 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9132,6 +9231,17 @@
 				)
 			)
 		)
+		(property "Arrow Price/Stock" "$1.0332"
+			(at 58.42 139.7 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "cb7ccaf8-fc05-4fdc-b78a-2447522c32f6")
 		)
@@ -9202,6 +9312,17 @@
 		)
 		(property "Description" "Unpolarized capacitor"
 			(at 41.91 25.4 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Arrow Price/Stock" "$1.0332"
+			(at 41.91 25.4 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9446,6 +9567,17 @@
 				)
 			)
 		)
+		(property "Arrow Price/Stock" "$1.0332"
+			(at 31.75 25.4 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "db79099d-9109-41f9-9945-7cb8a1e1a709")
 		)
@@ -9516,6 +9648,17 @@
 		)
 		(property "Description" "Unpolarized capacitor"
 			(at 260.35 71.12 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Arrow Price/Stock" "$1.9152"
+			(at 260.35 71.12 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9604,6 +9747,17 @@
 				)
 			)
 		)
+		(property "Arrow Price/Stock" "$1.9152"
+			(at 280.67 71.12 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "72ade50c-664a-4655-8a33-6be8e2072d4e")
 		)
@@ -9674,6 +9828,17 @@
 		)
 		(property "Description" "Unpolarized capacitor"
 			(at 21.59 25.4 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Arrow Price/Stock" "$3.2704"
+			(at 21.59 25.4 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9921,6 +10086,17 @@
 				)
 			)
 		)
+		(property "Arrow Price/Stock" "$0.2552"
+			(at 123.19 176.53 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "394d260d-d8e3-4d9f-aa0f-e2e9d5cfb0f5")
 		)
@@ -10078,6 +10254,17 @@
 				)
 			)
 		)
+		(property "Arrow Price/Stock" "$1.9152"
+			(at 190.5 119.38 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "803eaedb-9ed2-4ee6-b85e-0fe5984a2cd5")
 		)
@@ -10148,6 +10335,17 @@
 		)
 		(property "Description" "Unpolarized capacitor"
 			(at 62.23 25.4 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Arrow Price/Stock" "$1.0332"
+			(at 62.23 25.4 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10305,6 +10503,17 @@
 		)
 		(property "Description" "Unpolarized capacitor"
 			(at 176.53 60.96 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Arrow Price/Stock" "$3.2704"
+			(at 176.53 60.96 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10549,6 +10758,17 @@
 				)
 			)
 		)
+		(property "Arrow Price/Stock" "$0.2300"
+			(at 196.85 100.33 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "5c6140fa-fbdf-4196-812d-3d48460e628c")
 		)
@@ -10697,6 +10917,17 @@
 		)
 		(property "Description" "Unpolarized capacitor"
 			(at 251.46 93.98 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Arrow Price/Stock" "$1.0332"
+			(at 251.46 93.98 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10855,6 +11086,17 @@
 		)
 		(property "Description" "Resistor"
 			(at 186.69 104.14 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Arrow Price/Stock" "$0.2552"
+			(at 186.69 104.14 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11024,6 +11266,17 @@
 				)
 			)
 		)
+		(property "Arrow Price/Stock" "$39.7010"
+			(at 48.26 175.26 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "add48077-29cf-4cb6-9cec-18fdd0410ee3")
 		)
@@ -11117,6 +11370,17 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 45.72 171.45 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Arrow Price/Stock" "$0.2552"
 			(at 45.72 171.45 0)
 			(hide yes)
 			(show_name no)
