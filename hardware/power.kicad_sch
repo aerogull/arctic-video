@@ -11041,6 +11041,129 @@
 			)
 			(embedded_fonts no)
 		)
+		(symbol "Mechanical:MountingHole_Pad"
+			(pin_numbers
+				(hide yes)
+			)
+			(pin_names
+				(offset 1.016)
+				(hide yes)
+			)
+			(exclude_from_sim no)
+			(in_bom no)
+			(on_board yes)
+			(in_pos_files yes)
+			(duplicate_pin_numbers_are_jumpers no)
+			(property "Reference" "H"
+				(at 0 6.35 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "MountingHole_Pad"
+				(at 0 4.445 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Description" "Mounting Hole with connection"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "ki_keywords" "mounting hole"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "ki_fp_filters" "MountingHole*Pad*"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(symbol "MountingHole_Pad_0_1"
+				(circle
+					(center 0 1.27)
+					(radius 1.27)
+					(stroke
+						(width 1.27)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(symbol "MountingHole_Pad_1_1"
+				(pin input line
+					(at 0 -2.54 90)
+					(length 2.54)
+					(name "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
 		(symbol "arcticvideo:AMS1117-1.8"
 			(pin_names
 				(offset 0.254)
@@ -15208,6 +15331,16 @@
 	)
 	(wire
 		(pts
+			(xy 256.54 220.98) (xy 256.54 223.52)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "23821430-b440-44ae-a5c2-701681cae312")
+	)
+	(wire
+		(pts
 			(xy 273.05 72.39) (xy 283.21 72.39)
 		)
 		(stroke
@@ -18988,6 +19121,16 @@
 	)
 	(wire
 		(pts
+			(xy 233.68 220.98) (xy 233.68 223.52)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d59507b1-cfd3-40ce-97e0-8783755fd41e")
+	)
+	(wire
+		(pts
 			(xy 255.27 34.29) (xy 255.27 36.83)
 		)
 		(stroke
@@ -20847,7 +20990,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 101.9048 215.9 0)
 			(hide yes)
 			(show_name no)
@@ -21301,7 +21444,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "19064994-a44b-4906-b889-7d75ca15958f")
-		(property "Reference" "#PWR040"
+		(property "Reference" "#PWR041"
 			(at 255.27 109.22 0)
 			(hide yes)
 			(show_name no)
@@ -21361,7 +21504,7 @@
 		(instances
 			(project "arcticvideo"
 				(path "/9e9873e7-449f-4340-a6d8-702e1fa8c41f/8b2e44ed-2600-4def-8af0-a3b47c6129bc"
-					(reference "#PWR040")
+					(reference "#PWR041")
 					(unit 1)
 				)
 			)
@@ -21379,7 +21522,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "192c2f57-64a9-4ce9-b50d-099819263ccb")
-		(property "Reference" "#PWR037"
+		(property "Reference" "#PWR038"
 			(at 255.27 66.04 0)
 			(hide yes)
 			(show_name no)
@@ -21439,7 +21582,7 @@
 		(instances
 			(project "arcticvideo"
 				(path "/9e9873e7-449f-4340-a6d8-702e1fa8c41f/8b2e44ed-2600-4def-8af0-a3b47c6129bc"
-					(reference "#PWR037")
+					(reference "#PWR038")
 					(unit 1)
 				)
 			)
@@ -22982,7 +23125,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 169.2148 148.59 0)
 			(hide yes)
 			(show_name no)
@@ -24086,7 +24229,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 261.9248 92.71 0)
 			(hide yes)
 			(show_name no)
@@ -24129,6 +24272,85 @@
 			(project "arcticvideo"
 				(path "/9e9873e7-449f-4340-a6d8-702e1fa8c41f/8b2e44ed-2600-4def-8af0-a3b47c6129bc"
 					(reference "C69")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Mechanical:MountingHole_Pad")
+		(at 256.54 218.44 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom no)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "514dc282-aac5-4abd-9cf9-5f1cd6ccea51")
+		(property "Reference" "H2"
+			(at 259.08 215.8999 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "MountingHole_Pad"
+			(at 259.08 218.4399 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "MountingHole:MountingHole_3mm_Pad_Via"
+			(at 256.54 218.44 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 256.54 218.44 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Mounting Hole with connection"
+			(at 256.54 218.44 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "e08232ec-f6c8-465e-8256-0a5246756302")
+		)
+		(instances
+			(project "arcticvideo"
+				(path "/9e9873e7-449f-4340-a6d8-702e1fa8c41f/8b2e44ed-2600-4def-8af0-a3b47c6129bc"
+					(reference "H2")
 					(unit 1)
 				)
 			)
@@ -24244,7 +24466,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 128.5748 215.9 0)
 			(hide yes)
 			(show_name no)
@@ -25191,7 +25413,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 169.2148 120.65 0)
 			(hide yes)
 			(show_name no)
@@ -25407,7 +25629,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "6eff1b5b-0734-4598-b2ca-098c0ee250d5")
-		(property "Reference" "#PWR039"
+		(property "Reference" "#PWR040"
 			(at 255.27 93.98 0)
 			(hide yes)
 			(show_name no)
@@ -25467,7 +25689,7 @@
 		(instances
 			(project "arcticvideo"
 				(path "/9e9873e7-449f-4340-a6d8-702e1fa8c41f/8b2e44ed-2600-4def-8af0-a3b47c6129bc"
-					(reference "#PWR039")
+					(reference "#PWR040")
 					(unit 1)
 				)
 			)
@@ -25899,7 +26121,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 261.9248 36.83 0)
 			(hide yes)
 			(show_name no)
@@ -26352,7 +26574,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "7cedf58d-f993-445e-aa40-72180ad2103a")
-		(property "Reference" "#PWR042"
+		(property "Reference" "#PWR044"
 			(at 351.79 224.79 0)
 			(hide yes)
 			(show_name no)
@@ -26412,7 +26634,7 @@
 		(instances
 			(project "arcticvideo"
 				(path "/9e9873e7-449f-4340-a6d8-702e1fa8c41f/8b2e44ed-2600-4def-8af0-a3b47c6129bc"
-					(reference "#PWR042")
+					(reference "#PWR044")
 					(unit 1)
 				)
 			)
@@ -27156,6 +27378,84 @@
 		)
 	)
 	(symbol
+		(lib_id "power:GND")
+		(at 233.68 223.52 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "87730750-3502-413c-ab7c-d9a11a5d4f4c")
+		(property "Reference" "#PWR035"
+			(at 233.68 229.87 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "GND"
+			(at 233.68 228.6 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 233.68 223.52 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 233.68 223.52 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 233.68 223.52 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "afafcac0-d34b-46e2-b140-71287588adda")
+		)
+		(instances
+			(project "arcticvideo"
+				(path "/9e9873e7-449f-4340-a6d8-702e1fa8c41f/8b2e44ed-2600-4def-8af0-a3b47c6129bc"
+					(reference "#PWR035")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:C")
 		(at 293.37 96.52 180)
 		(unit 1)
@@ -27425,7 +27725,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 66.3448 243.84 0)
 			(hide yes)
 			(show_name no)
@@ -29365,7 +29665,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "95026e74-6281-4f9c-a2c0-0c13749ca690")
-		(property "Reference" "#PWR036"
+		(property "Reference" "#PWR037"
 			(at 255.27 53.34 0)
 			(hide yes)
 			(show_name no)
@@ -29425,7 +29725,7 @@
 		(instances
 			(project "arcticvideo"
 				(path "/9e9873e7-449f-4340-a6d8-702e1fa8c41f/8b2e44ed-2600-4def-8af0-a3b47c6129bc"
-					(reference "#PWR036")
+					(reference "#PWR037")
 					(unit 1)
 				)
 			)
@@ -29443,7 +29743,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "960f5992-905e-4e1c-a4b9-7a64794fb5c5")
-		(property "Reference" "#PWR035"
+		(property "Reference" "#PWR036"
 			(at 255.27 38.1 0)
 			(hide yes)
 			(show_name no)
@@ -29503,7 +29803,7 @@
 		(instances
 			(project "arcticvideo"
 				(path "/9e9873e7-449f-4340-a6d8-702e1fa8c41f/8b2e44ed-2600-4def-8af0-a3b47c6129bc"
-					(reference "#PWR035")
+					(reference "#PWR036")
 					(unit 1)
 				)
 			)
@@ -29936,7 +30236,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 169.2148 64.77 0)
 			(hide yes)
 			(show_name no)
@@ -31276,7 +31576,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 169.2148 36.83 0)
 			(hide yes)
 			(show_name no)
@@ -31482,6 +31782,84 @@
 	)
 	(symbol
 		(lib_id "power:GND")
+		(at 256.54 223.52 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "c40f1217-bf7c-4f0c-af0e-b19fb166528d")
+		(property "Reference" "#PWR042"
+			(at 256.54 229.87 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "GND"
+			(at 256.54 228.6 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 256.54 223.52 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 256.54 223.52 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 256.54 223.52 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "a1599488-8a76-4a68-9922-fc7ca08b3cee")
+		)
+		(instances
+			(project "arcticvideo"
+				(path "/9e9873e7-449f-4340-a6d8-702e1fa8c41f/8b2e44ed-2600-4def-8af0-a3b47c6129bc"
+					(reference "#PWR042")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
 		(at 36.83 199.39 0)
 		(unit 1)
 		(body_style 1)
@@ -31570,7 +31948,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "c6532b4a-5ded-4bc4-bee7-5d5f69eb4d7e")
-		(property "Reference" "#PWR041"
+		(property "Reference" "#PWR043"
 			(at 341.63 60.96 0)
 			(hide yes)
 			(show_name no)
@@ -31630,7 +32008,7 @@
 		(instances
 			(project "arcticvideo"
 				(path "/9e9873e7-449f-4340-a6d8-702e1fa8c41f/8b2e44ed-2600-4def-8af0-a3b47c6129bc"
-					(reference "#PWR041")
+					(reference "#PWR043")
 					(unit 1)
 				)
 			)
@@ -31648,7 +32026,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "c76ec4f3-b8d4-47b1-9120-141ac7d2693c")
-		(property "Reference" "#PWR038"
+		(property "Reference" "#PWR039"
 			(at 255.27 81.28 0)
 			(hide yes)
 			(show_name no)
@@ -31708,7 +32086,7 @@
 		(instances
 			(project "arcticvideo"
 				(path "/9e9873e7-449f-4340-a6d8-702e1fa8c41f/8b2e44ed-2600-4def-8af0-a3b47c6129bc"
-					(reference "#PWR038")
+					(reference "#PWR039")
 					(unit 1)
 				)
 			)
@@ -31804,7 +32182,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "cab442ae-ea2d-45f5-a5ca-1cc7923d17c4")
-		(property "Reference" "#PWR043"
+		(property "Reference" "#PWR045"
 			(at 407.67 224.79 0)
 			(hide yes)
 			(show_name no)
@@ -31864,7 +32242,7 @@
 		(instances
 			(project "arcticvideo"
 				(path "/9e9873e7-449f-4340-a6d8-702e1fa8c41f/8b2e44ed-2600-4def-8af0-a3b47c6129bc"
-					(reference "#PWR043")
+					(reference "#PWR045")
 					(unit 1)
 				)
 			)
@@ -32301,7 +32679,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 261.9248 64.77 0)
 			(hide yes)
 			(show_name no)
@@ -32344,6 +32722,85 @@
 			(project "arcticvideo"
 				(path "/9e9873e7-449f-4340-a6d8-702e1fa8c41f/8b2e44ed-2600-4def-8af0-a3b47c6129bc"
 					(reference "C68")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Mechanical:MountingHole_Pad")
+		(at 233.68 218.44 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom no)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "d3ae29a6-4878-465b-80b2-c004d63585b3")
+		(property "Reference" "H1"
+			(at 236.22 215.8999 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "MountingHole_Pad"
+			(at 236.22 218.4399 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "MountingHole:MountingHole_2.7mm_Pad_Via"
+			(at 233.68 218.44 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 233.68 218.44 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Mounting Hole with connection"
+			(at 233.68 218.44 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "1a8f16d6-dc59-4940-8e82-64880eee5fe6")
+		)
+		(instances
+			(project "arcticvideo"
+				(path "/9e9873e7-449f-4340-a6d8-702e1fa8c41f/8b2e44ed-2600-4def-8af0-a3b47c6129bc"
+					(reference "H1")
 					(unit 1)
 				)
 			)
@@ -32852,7 +33309,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 169.2148 92.71 0)
 			(hide yes)
 			(show_name no)
